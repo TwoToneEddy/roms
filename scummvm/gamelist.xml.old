@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./menu.scummvm</path>
+		<name>menu</name>
+		<playcount>5</playcount>
+		<lastplayed>20201112T035637</lastplayed>
+	</game>
+</gameList>
