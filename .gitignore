@@ -1,6 +1,7 @@
 */videos
 */images
 *.xml
+*.old
 bios
 gamedata
 themes
