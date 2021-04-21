@@ -10,7 +10,7 @@ GB        = lr-gambatte
 
 GBC       = lr-gambatte
 
-GBA       = lr-gpsp
+GBA       = lr-mgba
 
 MEGADRIVE = lr-picodrive
 
