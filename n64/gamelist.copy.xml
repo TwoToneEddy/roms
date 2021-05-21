@@ -19,8 +19,7 @@ The worlds in Banjo-Kazooie are gigantic, and chock full of crazy items to colle
     <genre>Platform-Action / Adventure-Action</genre>
     <players>1</players>
     <hash>4FD43199</hash>
-    <image>./media/box2dfront/Banjo and Kazu's Big Adventure.png</image>
-    <thumbnail>./media/images/Banjo and Kazu's Big Adventure.png</thumbnail>
+    <image>./media/images/Banjo and Kazu's Big Adventure.png</image>
     <video>./media/videos/Banjo and Kazu's Big Adventure.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -37,8 +36,7 @@ The game offers two camera angles and three engine sizes: 50cc, 100cc and 150cc.
     <genre>Sports-Race, Driving</genre>
     <players>1-4</players>
     <hash>2BCEE11C</hash>
-    <image>./media/box2dfront/Mario Kart.png</image>
-    <thumbnail>./media/images/Mario Kart.png</thumbnail>
+    <image>./media/images/Mario Kart.png</image>
     <video>./media/videos/Mario Kart.mp4</video>
     <genreid>1537</genreid>
   </game>
@@ -53,8 +51,7 @@ The game offers two camera angles and three engine sizes: 50cc, 100cc and 150cc.
     <genre>Platform-Action</genre>
     <players>1</players>
     <hash>11FB579B</hash>
-    <image>./media/box2dfront/Super Mario.png</image>
-    <thumbnail>./media/images/Super Mario.png</thumbnail>
+    <image>./media/images/Super Mario.png</image>
     <video>./media/videos/Super Mario.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -69,8 +66,7 @@ The game offers two camera angles and three engine sizes: 50cc, 100cc and 150cc.
     <genre>Action-Action / Adventure-Role playing games</genre>
     <players>1</players>
     <hash>346DE3AE</hash>
-    <image>./media/box2dfront/The Legend of Zelda-Ocarina of Time.png</image>
-    <thumbnail>./media/images/The Legend of Zelda-Ocarina of Time.png</thumbnail>
+    <image>./media/images/The Legend of Zelda-Ocarina of Time.png</image>
     <video>./media/videos/The Legend of Zelda-Ocarina of Time.mp4</video>
     <genreid>256</genreid>
   </game>

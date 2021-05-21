@@ -21,8 +21,7 @@ The game can be played in singleplayer mode, or in same-screen multiplayer co-op
     <genre>Beat'em Up</genre>
     <players>1-2</players>
     <hash>154D59BB</hash>
-    <image>./media/box2dfront/Altered_Beast.png</image>
-    <thumbnail>./media/images/Altered_Beast.png</thumbnail>
+    <image>./media/images/Altered_Beast.png</image>
     <video>./media/videos/Altered_Beast.mp4</video>
     <genreid>263</genreid>
   </game>
@@ -34,8 +33,7 @@ The game can be played in singleplayer mode, or in same-screen multiplayer co-op
     <developer>zhengyaxin_8bit</developer>
     <players>1</players>
     <hash>E2EB0F13</hash>
-    <image>./media/box2dfront/Angry_Birds.png</image>
-    <thumbnail>./media/images/Angry_Birds.png</thumbnail>
+    <image>./media/images/Angry_Birds.png</image>
     <video>./media/videos/Angry_Birds.mp4</video>
   </game>
   <game id="45" source="ScreenScraper.fr">
@@ -53,8 +51,7 @@ Players progress from left to right (from bottom to top in level 3), and have to
     <genre>Platform</genre>
     <players>1</players>
     <hash>4F2561D5</hash>
-    <image>./media/box2dfront/Ghouls_n_Ghosts.png</image>
-    <thumbnail>./media/images/Ghouls_n_Ghosts.png</thumbnail>
+    <image>./media/images/Ghouls_n_Ghosts.png</image>
     <video>./media/videos/Ghouls_n_Ghosts.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -71,8 +68,7 @@ This is a horizontal fighting game, where you basically take one of the three ch
     <genre>Action-Beat'em Up</genre>
     <players>1-2</players>
     <hash>2AAE0CB7</hash>
-    <image>./media/box2dfront/Golden_Axe.png</image>
-    <thumbnail>./media/images/Golden_Axe.png</thumbnail>
+    <image>./media/images/Golden_Axe.png</image>
     <video>./media/videos/Golden_Axe.mp4</video>
     <genreid>263</genreid>
   </game>
@@ -92,8 +88,7 @@ Characters are mostly based on Disney's cartoon series "Duck Tales"</desc>
     <genre>Action-Platform</genre>
     <players>1</players>
     <hash>88C8DD94</hash>
-    <image>./media/box2dfront/Quack_Shot_Starring_Donald_Duck.png</image>
-    <thumbnail>./media/images/Quack_Shot_Starring_Donald_Duck.png</thumbnail>
+    <image>./media/images/Quack_Shot_Starring_Donald_Duck.png</image>
     <video>./media/videos/Quack_Shot_Starring_Donald_Duck.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -108,8 +103,7 @@ Characters are mostly based on Disney's cartoon series "Duck Tales"</desc>
     <genre>Platform</genre>
     <players>1</players>
     <hash>2AC1E7C6</hash>
-    <image>./media/box2dfront/Sonic_&amp;_Knuckles_2.png</image>
-    <thumbnail>./media/images/Sonic_&amp;_Knuckles_2.png</thumbnail>
+    <image>./media/images/Sonic_&amp;_Knuckles_2.png</image>
     <video>./media/videos/Sonic_&amp;_Knuckles_2.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -124,8 +118,7 @@ Characters are mostly based on Disney's cartoon series "Duck Tales"</desc>
     <genre>Shoot'em Up-Action-Platform</genre>
     <players>1</players>
     <hash>0658F691</hash>
-    <image>./media/box2dfront/Sonic_&amp;_Knuckles_1.png</image>
-    <thumbnail>./media/images/Sonic_&amp;_Knuckles_1.png</thumbnail>
+    <image>./media/images/Sonic_&amp;_Knuckles_1.png</image>
     <video>./media/videos/Sonic_&amp;_Knuckles_1.mp4</video>
     <genreid>260</genreid>
   </game>
@@ -140,8 +133,7 @@ Characters are mostly based on Disney's cartoon series "Duck Tales"</desc>
     <genre>Action-Platform</genre>
     <players>1-2</players>
     <hash>7B905383</hash>
-    <image>./media/box2dfront/Sonic_2.png</image>
-    <thumbnail>./media/images/Sonic_2.png</thumbnail>
+    <image>./media/images/Sonic_2.png</image>
     <video>./media/videos/Sonic_2.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -156,8 +148,7 @@ Characters are mostly based on Disney's cartoon series "Duck Tales"</desc>
     <genre>Action-Platform</genre>
     <players>1-2</players>
     <hash>F4951D1F</hash>
-    <image>./media/box2dfront/Sonic_3.png</image>
-    <thumbnail>./media/images/Sonic_3.png</thumbnail>
+    <image>./media/images/Sonic_3.png</image>
     <video>./media/videos/Sonic_3.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -172,8 +163,7 @@ Characters are mostly based on Disney's cartoon series "Duck Tales"</desc>
     <genre>Action-Platform</genre>
     <players>1</players>
     <hash>5CE8F5CF</hash>
-    <image>./media/box2dfront/Sonic_1.png</image>
-    <thumbnail>./media/images/Sonic_1.png</thumbnail>
+    <image>./media/images/Sonic_1.png</image>
     <video>./media/videos/Sonic_1.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -190,8 +180,7 @@ Streets of Rage 2 differs from the previous title in several ways. There are cha
     <genre>Beat'em Up</genre>
     <players>1-2</players>
     <hash>E01FA526</hash>
-    <image>./media/box2dfront/Streets_of_Rage_2.png</image>
-    <thumbnail>./media/images/Streets_of_Rage_2.png</thumbnail>
+    <image>./media/images/Streets_of_Rage_2.png</image>
     <video>./media/videos/Streets_of_Rage_2.mp4</video>
     <genreid>263</genreid>
   </game>
@@ -209,8 +198,7 @@ Enemies are also smarter with weapons, and some can even steal health upgrades, 
     <genre>Beat'em Up-Action</genre>
     <players>1-2</players>
     <hash>D5BB15D9</hash>
-    <image>./media/box2dfront/Streets_of_Rage_3.png</image>
-    <thumbnail>./media/images/Streets_of_Rage_3.png</thumbnail>
+    <image>./media/images/Streets_of_Rage_3.png</image>
     <video>./media/videos/Streets_of_Rage_3.mp4</video>
     <genreid>263</genreid>
   </game>
@@ -228,8 +216,7 @@ Levels are in typical arcade side-scroller fashion: move from left to right (wit
     <genre>Beat'em Up</genre>
     <players>1-2</players>
     <hash>BFF227C6</hash>
-    <image>./media/box2dfront/Streets_of_Rage.png</image>
-    <thumbnail>./media/images/Streets_of_Rage.png</thumbnail>
+    <image>./media/images/Streets_of_Rage.png</image>
     <video>./media/videos/Streets_of_Rage.mp4</video>
     <genreid>263</genreid>
   </game>
@@ -251,8 +238,7 @@ Players start the game close to each other. If one gets away from the other, the
     <genre>Action-Platform</genre>
     <players>1-2</players>
     <hash>D1B36786</hash>
-    <image>./media/box2dfront/Toe_Jam_&amp;_Earl.png</image>
-    <thumbnail>./media/images/Toe_Jam_&amp;_Earl.png</thumbnail>
+    <image>./media/images/Toe_Jam_&amp;_Earl.png</image>
     <video>./media/videos/Toe_Jam_&amp;_Earl.mp4</video>
     <genreid>257</genreid>
   </game>

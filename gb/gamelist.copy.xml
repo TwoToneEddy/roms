@@ -21,9 +21,8 @@ The intensity is so real that the explosions will nearly knock you off your feet
     <genre>Shooter-Shooter / Run and Gun-Shoot'em Up-Shoot'em up / Horizontal-Action</genre>
     <players>1</players>
     <hash>F1C81EB0</hash>
-    <image>./media/box2dfront/Contra-The_Alien_Wars.png</image>
-    <thumbnail>./media/images/Contra_Spirits.png</thumbnail>
-    <video>./media/videos/Contra_Spirits.mp4</video>
+    <image>./media/images/Contra-The_Alien_Wars.png</image>
+    <video>./media/videos/Contra-The_Alien_Wars.mp4</video>
     <genreid>258</genreid>
   </game>
   <game id="3324" source="ScreenScraper.fr">
@@ -41,9 +40,8 @@ The intensity is so real that the explosions will nearly knock you off your feet
     <genre>Shooter-Shooter / Run and Gun-Shoot'em Up-Shoot'em up / Horizontal-Action</genre>
     <players>1</players>
     <hash>7FC22DF5</hash>
-    <image>./media/box2dfront/Contra_Spirits.png</image>
-    <thumbnail>./media/images/Contra_Spirits.png</thumbnail>
-    <video>./media/videos/Contra_Spirits.mp4</video>
+    <image>./media/images/Contra_Spirits.png</image>
+    <video>./media/videos/Contra-The_Alien_Wars.mp4</video>
     <genreid>258</genreid>
   </game>
   <game id="3043" source="ScreenScraper.fr">
@@ -59,8 +57,7 @@ Like the original Donkey Kong Land, all the graphics in this game are pre-render
     <genre>Platform-Action</genre>
     <players>1</players>
     <hash>2827E5D4</hash>
-    <image>./media/box2dfront/Donkey_Kong_Land_2.png</image>
-    <thumbnail>./media/images/Donkey_Kong_Land_2.png</thumbnail>
+    <image>./media/images/Donkey_Kong_Land_2.png</image>
     <video>./media/videos/Donkey_Kong_Land_2.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -81,8 +78,7 @@ Each level has Bonus Coins and DK Coins tucked well away in the levels.  While i
     <genre>Platform-Action</genre>
     <players>1</players>
     <hash>B40C159C</hash>
-    <image>./media/box2dfront/Donkey_Kong_Land_3.png</image>
-    <thumbnail>./media/images/Donkey_Kong_Land_3.png</thumbnail>
+    <image>./media/images/Donkey_Kong_Land_3.png</image>
     <video>./media/videos/Donkey_Kong_Land_3.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -101,8 +97,7 @@ This game isn't exactly a remake of DKC; for instance, there are new levels and 
     <genre>Platform</genre>
     <players>1</players>
     <hash>49DC0D37</hash>
-    <image>./media/box2dfront/Donkey_Kong_Land.png</image>
-    <thumbnail>./media/images/Donkey_Kong_Land.png</thumbnail>
+    <image>./media/images/Donkey_Kong_Land.png</image>
     <video>./media/videos/Donkey_Kong_Land.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -123,8 +118,7 @@ Donkey Kong returns to Game Boy! This famous ape has kidnapped Pauline and climb
     <genre>Action</genre>
     <players>1</players>
     <hash>F777A5D8</hash>
-    <image>./media/box2dfront/Donkey_Kong.png</image>
-    <thumbnail>./media/images/Donkey_Kong.png</thumbnail>
+    <image>./media/images/Donkey_Kong.png</image>
     <video>./media/videos/Donkey_Kong.mp4</video>
     <genreid>256</genreid>
   </game>
@@ -143,8 +137,7 @@ But beware! In Egypt, supernatural guardians challenge the bravest souls in the 
     <genre>Beat'em Up</genre>
     <players>1-2</players>
     <hash>FC970AEF</hash>
-    <image>./media/box2dfront/Double_Dragon_3.png</image>
-    <thumbnail>./media/images/Double_Dragon_3.png</thumbnail>
+    <image>./media/images/Double_Dragon_3.png</image>
     <video>./media/videos/Double_Dragon_3.mp4</video>
     <genreid>263</genreid>
   </game>
@@ -165,8 +158,7 @@ The Game Boy version of "Double Dragon II" is an English localization of a "Kuni
     <genre>Beat'em Up</genre>
     <players>1-2</players>
     <hash>5B96E474</hash>
-    <image>./media/box2dfront/Double_Dragon_2.png</image>
-    <thumbnail>./media/images/Double_Dragon_2.png</thumbnail>
+    <image>./media/images/Double_Dragon_2.png</image>
     <video>./media/videos/Double_Dragon_2.mp4</video>
     <genreid>263</genreid>
   </game>
@@ -185,8 +177,7 @@ The NES version of this game also has an additional VS. fighting mode for one or
     <genre>Beat'em Up-Action-Sports</genre>
     <players>1-2</players>
     <hash>40A8BF12</hash>
-    <image>./media/box2dfront/Double_Dragon.png</image>
-    <thumbnail>./media/images/Double_Dragon.png</thumbnail>
+    <image>./media/images/Double_Dragon.png</image>
     <video>./media/videos/Double_Dragon.mp4</video>
     <genreid>263</genreid>
   </game>
@@ -203,8 +194,7 @@ Gameplay consists of a platform game. Kirby is like no other platform character 
     <genre>Platform-Action</genre>
     <players>1</players>
     <hash>8DC07C35</hash>
-    <image>./media/box2dfront/Kirbys_Dream_Land_2.png</image>
-    <thumbnail>./media/images/Kirbys_Dream_Land_2.png</thumbnail>
+    <image>./media/images/Kirbys_Dream_Land_2.png</image>
     <video>./media/videos/Kirbys_Dream_Land_2.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -221,8 +211,7 @@ You are in control not of any individual Lemming, but of a cross-hair, which can
     <genre>Strategy-Puzzle-Game</genre>
     <players>1</players>
     <hash>F2D1C19D</hash>
-    <image>./media/box2dfront/Lemmings.png</image>
-    <thumbnail>./media/images/Lemmings.png</thumbnail>
+    <image>./media/images/Lemmings.png</image>
     <video>./media/videos/Lemmings.mp4</video>
     <genreid>1280</genreid>
   </game>
@@ -239,8 +228,7 @@ In this Game Boy version, Mega Man must fight against Ice Man, Electric Man, Cut
     <genre>Platform-Action</genre>
     <players>1</players>
     <hash>47E70E08</hash>
-    <image>./media/box2dfront/Mega_Man_1.png</image>
-    <thumbnail>./media/images/Mega_Man_1.png</thumbnail>
+    <image>./media/images/Mega_Man_1.png</image>
     <video>./media/videos/Mega_Man_1.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -259,8 +247,7 @@ Other additions to the game include the 'E-Tank' - an item that can be used at a
     <genre>Platform-Action</genre>
     <players>1</players>
     <hash>E496F686</hash>
-    <image>./media/box2dfront/Mega_Man_2.png</image>
-    <thumbnail>./media/images/Mega_Man_2.png</thumbnail>
+    <image>./media/images/Mega_Man_2.png</image>
     <video>./media/videos/Mega_Man_2.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -281,8 +268,7 @@ Mega Man IV contains elements of Mega Man 4 and 5 (NES) and is a Game Boy exclus
     <genre>Platform-Action-Shoot'em Up</genre>
     <players>1</players>
     <hash>ABCEA00D</hash>
-    <image>./media/box2dfront/Mega_Man_4.png</image>
-    <thumbnail>./media/images/Mega_Man_4.png</thumbnail>
+    <image>./media/images/Mega_Man_4.png</image>
     <video>./media/videos/Mega_Man_4.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -303,8 +289,7 @@ Like the other early Rockman / Mega Man games, the Playstation version was only 
     <genre>Platform-Action-Shoot'em Up</genre>
     <players>1</players>
     <hash>72E6D21D</hash>
-    <image>./media/box2dfront/Mega_Man_5.png</image>
-    <thumbnail>./media/images/Mega_Man_5.png</thumbnail>
+    <image>./media/images/Mega_Man_5.png</image>
     <video>./media/videos/Mega_Man_5.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -335,8 +320,7 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <genre>Action / Labyrinth-Action-Puzzle-Game</genre>
     <players>1-2</players>
     <hash>0509069C</hash>
-    <image>./media/box2dfront/Pac-Man.png</image>
-    <thumbnail>./media/images/Pac-Man.png</thumbnail>
+    <image>./media/images/Pac-Man.png</image>
     <video>./media/videos/Pac-Man.mp4</video>
     <genreid>258</genreid>
   </game>
@@ -351,8 +335,7 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <genre>Platform</genre>
     <players>1</players>
     <hash>E6F886E5</hash>
-    <image>./media/box2dfront/Super_Mario_Land_2.png</image>
-    <thumbnail>./media/images/Super_Mario_Land_2.png</thumbnail>
+    <image>./media/images/Super_Mario_Land_2.png</image>
     <video>./media/videos/Super_Mario_Land_2.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -367,8 +350,7 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
     <genre>Platform-Action</genre>
     <players>1</players>
     <hash>90776841</hash>
-    <image>./media/box2dfront/Super_Mario_Land.png</image>
-    <thumbnail>./media/images/Super_Mario_Land.png</thumbnail>
+    <image>./media/images/Super_Mario_Land.png</image>
     <video>./media/videos/Super_Mario_Land.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -385,8 +367,7 @@ Tetris DX features 4 one-player modes and two-player mode using the Universal Ga
     <genre>Puzzle-Game</genre>
     <players>1-2</players>
     <hash>69989152</hash>
-    <image>./media/box2dfront/Tetris_DX.png</image>
-    <thumbnail>./media/images/Tetris_DX.png</thumbnail>
+    <image>./media/images/Tetris_DX.png</image>
     <video>./media/videos/Tetris_DX.mp4</video>
     <genreid>2816</genreid>
   </game>
@@ -403,8 +384,7 @@ Play is similar to the SNES game with a top down perspective. Link must go onto 
     <genre>Role playing games</genre>
     <players>1</players>
     <hash>34D08E7B</hash>
-    <image>./media/box2dfront/The_Legend_of_Zelda-Links_Awakening.png</image>
-    <thumbnail>./media/images/The_Legend_of_Zelda-Links_Awakening.png</thumbnail>
+    <image>./media/images/The_Legend_of_Zelda-Links_Awakening.png</image>
     <video>./media/videos/The_Legend_of_Zelda-Links_Awakening.mp4</video>
     <genreid>768</genreid>
   </game>
@@ -423,8 +403,7 @@ To suit Wario's greedy nature, the game revolves around money.  Throughout the s
     <genre>Platform-Platform / Run Jump-Action</genre>
     <players>1</players>
     <hash>40BE3889</hash>
-    <image>./media/box2dfront/Super_Mario_Land_3-Wario_Land.png</image>
-    <thumbnail>./media/images/Super_Mario_Land_3-Wario_Land.png</thumbnail>
+    <image>./media/images/Super_Mario_Land_3-Wario_Land.png</image>
     <video>./media/videos/Super_Mario_Land_3-Wario_Land.mp4</video>
     <genreid>257</genreid>
   </game>

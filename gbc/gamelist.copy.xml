@@ -21,8 +21,7 @@ The game is split into different worlds, which are split into different levels. 
     <genre>Platform-Action</genre>
     <players>1-2</players>
     <hash>B1743477</hash>
-    <image>./media/box2dfront/Donkey_Kong_Country.png</image>
-    <thumbnail>./media/images/Donkey_Kong_Country.png</thumbnail>
+    <image>./media/images/Donkey_Kong_Country.png</image>
     <video>./media/videos/Donkey_Kong_Country.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -45,8 +44,7 @@ The GBC version includes all new characters and background sprites in full color
     <genre>Simulation</genre>
     <players>1-2</players>
     <hash>AB5738A1</hash>
-    <image>./media/box2dfront/Harvest_Moon.png</image>
-    <thumbnail>./media/images/Harvest_Moon.png</thumbnail>
+    <image>./media/images/Harvest_Moon.png</image>
     <video>./media/videos/Harvest_Moon.mp4</video>
     <genreid>1024</genreid>
   </game>
@@ -66,8 +64,7 @@ The game features the original 1985 game, a challenge mode, and versus game opti
     <genre>Platform-Action</genre>
     <players>1-2</players>
     <hash>62BBAE83</hash>
-    <image>./media/box2dfront/Super_Mario_Bros._Deluxe.png</image>
-    <thumbnail>./media/images/Super_Mario_Bros._Deluxe.png</thumbnail>
+    <image>./media/images/Super_Mario_Bros._Deluxe.png</image>
     <video>./media/videos/Super_Mario_Bros._Deluxe.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -84,8 +81,7 @@ Tetris DX features 4 one-player modes and two-player mode using the Universal Ga
     <genre>Puzzle-Game</genre>
     <players>1-2</players>
     <hash>69989152</hash>
-    <image>./media/box2dfront/Tetris_DX.png</image>
-    <thumbnail>./media/images/Tetris_DX.png</thumbnail>
+    <image>./media/images/Tetris_DX.png</image>
     <video>./media/videos/Tetris_DX.mp4</video>
     <genreid>2816</genreid>
   </game>
@@ -100,8 +96,7 @@ Tetris DX features 4 one-player modes and two-player mode using the Universal Ga
     <genre>Role playing games-Adventure</genre>
     <players>1</players>
     <hash>06887A34</hash>
-    <image>./media/box2dfront/Legend_of_Zelda_The_-_Links_Awakening_DX.png</image>
-    <thumbnail>./media/images/Legend_of_Zelda_The_-_Links_Awakening_DX.png</thumbnail>
+    <image>./media/images/Legend_of_Zelda_The_-_Links_Awakening_DX.png</image>
     <video>./media/videos/Legend_of_Zelda_The_-_Links_Awakening_DX.mp4</video>
     <genreid>768</genreid>
   </game>
@@ -116,8 +111,7 @@ Tetris DX features 4 one-player modes and two-player mode using the Universal Ga
     <genre>Role playing games-Action-Action / Adventure</genre>
     <players>1</players>
     <hash>D7E9F5D7</hash>
-    <image>./media/box2dfront/Legend_of_Zelda_The-Oracle_of_Seasons.png</image>
-    <thumbnail>./media/images/Legend_of_Zelda_The-Oracle_of_Seasons.png</thumbnail>
+    <image>./media/images/Legend_of_Zelda_The-Oracle_of_Seasons.png</image>
     <video>./media/videos/Legend_of_Zelda_The-Oracle_of_Seasons.mp4</video>
     <genreid>768</genreid>
   </game>
@@ -132,8 +126,7 @@ Tetris DX features 4 one-player modes and two-player mode using the Universal Ga
     <genre>Role playing games-Action-Action / Adventure</genre>
     <players>1</players>
     <hash>3800A387</hash>
-    <image>./media/box2dfront/Legend_of_Zelda_The-Oracle_of_Ages.png</image>
-    <thumbnail>./media/images/Legend_of_Zelda_The-Oracle_of_Ages.png</thumbnail>
+    <image>./media/images/Legend_of_Zelda_The-Oracle_of_Ages.png</image>
     <video>./media/videos/Legend_of_Zelda_The-Oracle_of_Ages.mp4</video>
     <genreid>768</genreid>
   </game>

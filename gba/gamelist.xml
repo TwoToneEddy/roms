@@ -17,8 +17,7 @@
     <genre>Action-Action / Adventure-Role playing games</genre>
     <players>1</players>
     <hash>88C1B562</hash>
-    <image>./media/box2dfront/Castlevania - Harmony of Dissonance (USA).png</image>
-    <thumbnail>./media/images/Castlevania - Harmony of Dissonance (USA).png</thumbnail>
+    <image>./media/images/Castlevania - Harmony of Dissonance (USA).png</image>
     <video>./media/videos/Castlevania - Harmony of Dissonance (USA).mp4</video>
     <genreid>256</genreid>
   </game>
@@ -47,8 +46,7 @@ You have the same weapons as in the first Doom, plus a new one: a super shotgun.
     <genre>Shooter / 1st person-Action-Shooter</genre>
     <players>1-4</players>
     <hash>60D0C429</hash>
-    <image>./media/box2dfront/Doom II.png</image>
-    <thumbnail>./media/images/Doom II.png</thumbnail>
+    <image>./media/images/Doom II.png</image>
     <video>./media/videos/Doom II.mp4</video>
     <genreid>259</genreid>
   </game>
@@ -65,8 +63,7 @@ A thousand years after the War of the Magi, the Gestahlian Empire has succeeded 
     <genre>Role playing games-Fight</genre>
     <players>1</players>
     <hash>D708F5AB</hash>
-    <image>./media/box2dfront/Final Fantasy VI Advance.png</image>
-    <thumbnail>./media/images/Final Fantasy VI Advance.png</thumbnail>
+    <image>./media/images/Final Fantasy VI Advance.png</image>
     <video>./media/videos/Final Fantasy VI Advance.mp4</video>
     <genreid>262</genreid>
   </game>
@@ -91,8 +88,7 @@ A thousand years after the War of the Magi, the Gestahlian Empire has succeeded 
     <genre>Strategy-Role playing games</genre>
     <players>1-4</players>
     <hash>2A524221</hash>
-    <image>./media/box2dfront/Fire Emblem.png</image>
-    <thumbnail>./media/images/Fire Emblem.png</thumbnail>
+    <image>./media/images/Fire Emblem.png</image>
     <video>./media/videos/Fire Emblem.mp4</video>
     <genreid>1280</genreid>
   </game>
@@ -121,8 +117,7 @@ New to the series is a two player challenge mode, where the first to complete th
     <genre>Platform-Action</genre>
     <players>1-2</players>
     <hash>9DCDD02D</hash>
-    <image>./media/box2dfront/Megaman Zero 2.png</image>
-    <thumbnail>./media/images/Megaman Zero 2.png</thumbnail>
+    <image>./media/images/Megaman Zero 2.png</image>
     <video>./media/videos/Megaman Zero 2.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -139,8 +134,7 @@ In addition to the old Cyber Elf system, this game also contains a new "chip" sy
     <genre>Platform-Action</genre>
     <players>1</players>
     <hash>2784F3F2</hash>
-    <image>./media/box2dfront/Megaman Zero 3.png</image>
-    <thumbnail>./media/images/Megaman Zero 3.png</thumbnail>
+    <image>./media/images/Megaman Zero 3.png</image>
     <video>./media/videos/Megaman Zero 3.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -155,8 +149,7 @@ In addition to the old Cyber Elf system, this game also contains a new "chip" sy
     <genre>Platform-Action-Simulation</genre>
     <players>1</players>
     <hash>E7782E1C</hash>
-    <image>./media/box2dfront/Megaman Zero 4.png</image>
-    <thumbnail>./media/images/Megaman Zero 4.png</thumbnail>
+    <image>./media/images/Megaman Zero 4.png</image>
     <video>./media/videos/Megaman Zero 4.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -177,8 +170,7 @@ Zero has come into a time he does not know, to save it from a figure of the past
     <genre>Platform-Action</genre>
     <players>1</players>
     <hash>4F6177ED</hash>
-    <image>./media/box2dfront/Megaman Zero 1.png</image>
-    <thumbnail>./media/images/Megaman Zero 1.png</thumbnail>
+    <image>./media/images/Megaman Zero 1.png</image>
     <video>./media/videos/Megaman Zero 1.mp4</video>
     <genreid>257</genreid>
   </game>
@@ -197,8 +189,7 @@ The game is split into different worlds, which are split into different levels. 
     <genre>Platform-Action</genre>
     <players>1-2</players>
     <hash>12F7A968</hash>
-    <image>./media/box2dfront/Donkey Kong Country (USA).png</image>
-    <thumbnail>./media/images/Donkey Kong Country (USA).png</thumbnail>
+    <image>./media/images/Donkey Kong Country (USA).png</image>
     <video>./media/videos/Donkey Kong Country (USA).mp4</video>
     <genreid>257</genreid>
   </game>
@@ -215,8 +206,7 @@ While A Link to the Past is largely a faithful port of the original, it does inc
     <genre>Action-Adventure</genre>
     <players>1-4</players>
     <hash>8E91CD13</hash>
-    <image>./media/box2dfront/Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA).png</image>
-    <thumbnail>./media/images/Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA).png</thumbnail>
+    <image>./media/images/Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA).png</image>
     <video>./media/videos/Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA).mp4</video>
     <genreid>512</genreid>
   </game>
@@ -231,8 +221,7 @@ While A Link to the Past is largely a faithful port of the original, it does inc
     <genre>Role playing games-Adventure-Action</genre>
     <players>1</players>
     <hash>ABCEBBB1</hash>
-    <image>./media/box2dfront/Legend of Zelda, The - The Minish Cap.png</image>
-    <thumbnail>./media/images/Legend of Zelda, The - The Minish Cap.png</thumbnail>
+    <image>./media/images/Legend of Zelda, The - The Minish Cap.png</image>
     <video>./media/videos/Legend of Zelda, The - The Minish Cap.mp4</video>
     <genreid>768</genreid>
   </game>
