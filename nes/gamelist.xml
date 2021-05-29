@@ -1,234 +1,193 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0"?>
 <gameList>
-  <provider>
-    <System>Family Computer</System>
-    <software>Skraper</software>
-    <database>ScreenScraper.fr</database>
-    <web>http://www.screenscraper.fr</web>
-  </provider>
-  <game id="1586" source="ScreenScraper.fr">
-    <path>./After_Burner.nes</path>
-    <name>After Burner II</name>
-    <desc>Afterburner is a conversion of the arcade game of the same name. The goal is simple: use your F-14 Tomcat and shoot as many enemies as you can. This aircraft has two weapons: lock-on missiles and Vulcan cannons (basically machine guns). In some versions there is an option to let the cannons shoot automatically all the time.
+	<provider>
+		<System>Family Computer</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="1586" source="ScreenScraper.fr">
+		<path>./After_Burner.nes</path>
+		<name>After Burner II</name>
+		<desc>Afterburner is a conversion of the arcade game of the same name. The goal is simple: use your F-14 Tomcat and shoot as many enemies as you can. This aircraft has two weapons: lock-on missiles and Vulcan cannons (basically machine guns). In some versions there is an option to let the cannons shoot automatically all the time.
 
 The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.</desc>
-    <rating>0.65</rating>
-    <releasedate>19890330T000000</releasedate>
-    <developer>Tengen</developer>
-    <publisher>SEGA</publisher>
-    <genre>Shooter-Action</genre>
-    <players>1</players>
-    <hash>A4928096</hash>
-    <image>./media/images/After_Burner.png</image>
-    <video>./media/videos/After_Burner.mp4</video>
-    <genreid>256</genreid>
-  </game>
-  <game id="1482" source="ScreenScraper.fr">
-    <path>./Bomberman_II.nes</path>
-    <name>Bomber Man II</name>
-    <desc>Our hero the white Bomberman (Bomberman Shiro) was walking down the street one day when he witnessed a robbery. It was black Bomberman (Bomberman Kuro) who was the robber. But Black Bomberman knocked White Bomberman to the ground, and than left the money so that he would be framed. Now Bomberman has been taken to jail and must fight his way out of this place using the only method he knows: explosive bombs.
+		<rating>0.65</rating>
+		<releasedate>19890330T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter-Action</genre>
+		<players>1</players>
+		<hash>A4928096</hash>
+		<image>./media/images/After_Burner.png</image>
+		<video>./media/videos/After_Burner.mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game id="1482" source="ScreenScraper.fr">
+		<path>./Bomberman_II.nes</path>
+		<name>Bomber Man II</name>
+		<desc>Our hero the white Bomberman (Bomberman Shiro) was walking down the street one day when he witnessed a robbery. It was black Bomberman (Bomberman Kuro) who was the robber. But Black Bomberman knocked White Bomberman to the ground, and than left the money so that he would be framed. Now Bomberman has been taken to jail and must fight his way out of this place using the only method he knows: explosive bombs.
 
 Bomberman is the second Bomberman game in the series and plays similar to the first, only all gameplay has been reduced to a single screen. Your goal however remains the same on a smaller playing area. You are to destroy all enemies on a level and then find the exit to the next one. Bombing the exit is always a bad idea. The occasional power-up will increase your bomb blast, number of bombs on the screen at one time, player speed or give you the ability to walk through walls.
 
 In addition to the single Player game, Bomberman II introduces a Versus Mode for 2 players and a Battle Mode for 3. Your goal in these is to destroy the other players while staying alive yourself. </desc>
-    <rating>0.85</rating>
-    <releasedate>19910628T000000</releasedate>
-    <developer>Hudson</developer>
-    <publisher>Hudson</publisher>
-    <genre>Action / Labyrinth-Action</genre>
-    <players>1-3</players>
-    <hash>DE808339</hash>
-    <image>./media/images/Bomberman_II.png</image>
-    <video>./media/videos/Bomberman_II.mp4</video>
-    <genreid>258</genreid>
-  </game>
-  <game id="1337" source="ScreenScraper.fr">
-    <path>./Bomberman.nes</path>
-    <name>Bomberman</name>
-    <desc>Bomberman was a robot in a bomb making factory who longed for his freedom. Rumors circulated that escaping to the surface would allow the robot to become human. Getting out would be the trick. Each room is inhabited by monsters that must be neutralized and the exit itself hidden underneath bricks.
+		<rating>0.85</rating>
+		<releasedate>19910628T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action / Labyrinth-Action</genre>
+		<players>1-3</players>
+		<hash>DE808339</hash>
+		<image>./media/images/Bomberman_II.png</image>
+		<video>./media/videos/Bomberman_II.mp4</video>
+		<genreid>258</genreid>
+	</game>
+	<game id="1337" source="ScreenScraper.fr">
+		<path>./Bomberman.nes</path>
+		<name>Bomberman</name>
+		<desc>Bomberman was a robot in a bomb making factory who longed for his freedom. Rumors circulated that escaping to the surface would allow the robot to become human. Getting out would be the trick. Each room is inhabited by monsters that must be neutralized and the exit itself hidden underneath bricks.
 
 The first of the Bomberman series. Bomberman is a single player game with a top down view and simplistic controls. In fact, in addition to movement, you only have a single ability: placing bombs. Each bomb explodes into a cross-shaped blast (4 directions) which can destroy either enemies or blocks. Power-ups may be found to increase the size of the blast, place additional bombs, increase the speed of the Bomberman or to walk through walls. Your goal on each level is to destroy all enemies and escape through the exit before the time limit is up.. Hitting the exit with a bomb blast releases more enemies which must also be destroyed.</desc>
-    <rating>0.7</rating>
-    <releasedate>19890102T000000</releasedate>
-    <developer>Hudson</developer>
-    <publisher>Hudson</publisher>
-    <genre>Action / Labyrinth-Action</genre>
-    <players>1</players>
-    <hash>7256EF49</hash>
-    <image>./media/images/Bomberman.png</image>
-    <video>./media/videos/Bomberman.mp4</video>
-    <genreid>258</genreid>
-  </game>
-  <game id="1745" source="ScreenScraper.fr">
-    <path>./Captain_Silver.nes</path>
-    <name>Captain Silver</name>
-    <desc>In Captain Silver, you play the role of Jim, a brave young lad with a taste of adventure. You embark on a journey to find Captain Silver's secret treasure hoard, which is rumored to be hidden on an island in the Eastern Seas.
-
-There are six scenes in the game. During his travels, Jim will explore villages, fight his way on board ships, venture through caves, and wander around tropical islands. In each of these six scenes, Jim must use his sword to kill cats, rats, bats, witches, skeletons, and other creatures that are waiting for him. When Jim touches, or is shot at, by a creature, he loses one of his lives, but when he kills a creature, he can collect some gold that they leave behind, which can be used to buy items from shops. However, rather than getting gold, enemies leave behind some gold containing one of the letters that spell the word "CAPTAIN SILVER". If Jim manages to get all of these letters, he will be awarded an extra life.
-
-Jim may only use his sword to start off with, but once he collects a fairy that floats toward him in every scene, Jim will be able to shoot stars at enemies, making his kills more efficient. The maximum number of stars that he can have is six. There are other power-ups that Jim can collect in the game. These include the "clock" power-up, which gives Jim extra time; the "boot" power-up which allows Jim to jump higher; and the "coffee?" power-up, which enables Jim to shield himself from creatures until he is hit by one.
-
-There is a boss in each scene, which he must defeat in order to proceed to the next round. There is also a certain time limit, which Jim must complete the scene before it expires. If he does not, then he will lose a life.</desc>
-    <rating>0.65</rating>
-    <releasedate>19881216T000000</releasedate>
-    <developer>Tokuma Shoten</developer>
-    <publisher>Data East</publisher>
-    <genre>Platform-Action</genre>
-    <players>1</players>
-    <hash>1019DAE5</hash>
-    <image>./media/images/Captain_Silver.png</image>
-    <video>./media/videos/Captain_Silver.mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="1281" source="ScreenScraper.fr">
-    <path>./Castlevania_2.nes</path>
-    <name>Castlevania II : Simon's Quest</name>
-    <desc>Castlevania II: Simon's Quest is the second one of three Castlevania games released on the NES. After the vampire killer Simon Belmont destroyed Count Dracula in the original Castlevania (1987), an evil curse possessed him. The only way Simon can break the count's curse is to find five of Dracula's body parts (which are mysteriously strewn throughout Transylvania) and burn them. 
+		<rating>0.7</rating>
+		<releasedate>19890102T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action / Labyrinth-Action</genre>
+		<players>1</players>
+		<hash>7256EF49</hash>
+		<image>./media/images/Bomberman.png</image>
+		<video>./media/videos/Bomberman.mp4</video>
+		<genreid>258</genreid>
+	</game>
+	<game id="1281" source="ScreenScraper.fr">
+		<path>./Castlevania_2.nes</path>
+		<name>Castlevania II : Simon's Quest</name>
+		<desc>Castlevania II: Simon's Quest is the second one of three Castlevania games released on the NES. After the vampire killer Simon Belmont destroyed Count Dracula in the original Castlevania (1987), an evil curse possessed him. The only way Simon can break the count's curse is to find five of Dracula's body parts (which are mysteriously strewn throughout Transylvania) and burn them. 
 
 Unlike most of the other Castlevania games, Simon's Quest does not feature the traditional stages but allows you to freely roam the land of Transylvania in the style of Nintendo's Metroid. In several towns Simon can talk with NPC's and buy items in shops, adding a touch of role-playing. </desc>
-    <rating>0.8</rating>
-    <releasedate>19881201T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Konami</publisher>
-    <genre>Adventure-Action</genre>
-    <players>1</players>
-    <hash>A9C2C503</hash>
-    <image>./media/images/Castlevania_2.png</image>
-    <video>./media/videos/Castlevania_2.mp4</video>
-    <genreid>512</genreid>
-  </game>
-  <game id="1278" source="ScreenScraper.fr">
-    <path>./Castlevania_3-Draculas_Curse.nes</path>
-    <name>Castlevania III : Dracula's Curse</name>
-    <desc>Taking place 100 years before the events of Castlevania 1 and Castlevania 2, Dracula the Vampire has risen up to threaten the small village of Warakiya. Citizens who had banished the Belmont family now beg for Trevor Belmont's help in slaying Dracula. In his strange castle, Dracula has been assembling a massive army of undead creatures to sweep the Earth clean of life and bring everlasting darkness. Trevor agrees to help and equips his family's hereditary whip, the "Vampire Slayer", in order to destroy Dracula. 
+		<rating>0.8</rating>
+		<releasedate>19881201T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure-Action</genre>
+		<players>1</players>
+		<hash>A9C2C503</hash>
+		<image>./media/images/Castlevania_2.png</image>
+		<video>./media/videos/Castlevania_2.mp4</video>
+		<genreid>512</genreid>
+	</game>
+	<game id="1278" source="ScreenScraper.fr">
+		<path>./Castlevania_3-Draculas_Curse.nes</path>
+		<name>Castlevania III : Dracula's Curse</name>
+		<desc>Taking place 100 years before the events of Castlevania 1 and Castlevania 2, Dracula the Vampire has risen up to threaten the small village of Warakiya. Citizens who had banished the Belmont family now beg for Trevor Belmont's help in slaying Dracula. In his strange castle, Dracula has been assembling a massive army of undead creatures to sweep the Earth clean of life and bring everlasting darkness. Trevor agrees to help and equips his family's hereditary whip, the "Vampire Slayer", in order to destroy Dracula. 
  
 Castlevania III: Dracula's Curse is a side-scrolling platform game. The gameplay is nearly identical to the first Castlevania game. The player takes the role of Trevor Belmont who is able to move left and right, jump, attack with his whip straight ahead and use a special weapon. These special weapons consume hearts, which can be found by defeating monsters or destroying candles. Power-ups include: a throwing dagger, a throwing axe, A time-stopping stopwatch, a cross-shaped boomerang and a vial of holy water. Additionally there is a double shot (II) and triple shot (III) power-up which increases the number of special weapons that can be used at one time. Trevor is defeated if his life meter runs out, and can find a roast turkey power-up to replenish it. Trevor progresses through each level defeating monsters and eventually encountering a boss creature. At different points in the game the player will be able to chose between different paths, which will determine which levels are played. 
  
 At the end of certain levels, the player may encounter a companion which can be recruited. Only one companion can accompany Trevor at any time; accepting a new companion means rejecting the existing one. Once recruited, Trevor can change between his own form and that of the companion. Each companion has an independent life meter and has unique abilities such as powerful magic, the ability to climb walls or flight. These abilities may also affect the types of power-ups that appear in candles and the exact function of special weapons.</desc>
-    <rating>0.9</rating>
-    <releasedate>19900901T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Action / Adventure</genre>
-    <players>1</players>
-    <hash>A06AECBC</hash>
-    <image>./media/images/Castlevania_3-Draculas_Curse.png</image>
-    <video>./media/videos/Castlevania_3-Draculas_Curse.mp4</video>
-    <genreid>256</genreid>
-  </game>
-  <game id="1268" source="ScreenScraper.fr">
-    <path>./Castlevania.nes</path>
-    <name>Castlevania</name>
-    <desc>Every hundred years, the dark vampire known as Dracula resurrects and terrorizes the land. A vampire hunter named Simon Belmont bravely ventures into the Count's mansion in order to defeat him. Along the way he'll have to defeat skeletons, bats, fishmen, medusa heads and other evil creatures.
+		<rating>0.9</rating>
+		<releasedate>19900901T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+		<hash>A06AECBC</hash>
+		<image>./media/images/Castlevania_3-Draculas_Curse.png</image>
+		<video>./media/videos/Castlevania_3-Draculas_Curse.mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game id="1268" source="ScreenScraper.fr">
+		<path>./Castlevania.nes</path>
+		<name>Castlevania</name>
+		<desc>Every hundred years, the dark vampire known as Dracula resurrects and terrorizes the land. A vampire hunter named Simon Belmont bravely ventures into the Count's mansion in order to defeat him. Along the way he'll have to defeat skeletons, bats, fishmen, medusa heads and other evil creatures.
 
 Castlevania is a side-scrolling platform action game. The player taking the role of Simon Belmont is able to jump and crack his whip directly in front of him. Power-ups can be obtained by defeating enemies or by whipping candles that appear in the castle. One such power-up increases the power and length of Simon's whip.  Different weapons can be gathered which consume hearts when used, these hearts can also be collected from monsters and candles. Additionally, some walls will hide secrets such as the health-restorative turkey or the Double and Triple shot abilities for the weapons Simon has collected. At the end of each section of the castle is a boss, which must be defeated. Progression through the castle eventually leads to a confrontation with Count Dracula himself.</desc>
-    <rating>0.8</rating>
-    <releasedate>19870501T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Action / Adventure</genre>
-    <players>1</players>
-    <hash>0F2ABC14</hash>
-    <image>./media/images/Castlevania.png</image>
-    <video>./media/videos/Castlevania.mp4</video>
-    <genreid>256</genreid>
-  </game>
-  <game id="18624" source="ScreenScraper.fr">
-    <path>./Contra.nes</path>
-    <name>Contra</name>
-    <desc>In the year 2631, a small meteorite has fallen into the Galuga archipelago, located 20km northeast off the coast of New Zealand. Two years later, a terrorist group known as Red Falcon has seized the island in preparation for an alien invasion. The earth's marines sent two members of their elite Contra unit, Bill Rizer and Lance Bean, to neutralize the terrorists.
+		<rating>0.8</rating>
+		<releasedate>19870501T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+		<hash>0F2ABC14</hash>
+		<image>./media/images/Castlevania.png</image>
+		<video>./media/videos/Castlevania.mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game id="18624" source="ScreenScraper.fr">
+		<path>./Contra.nes</path>
+		<name>Contra</name>
+		<desc>In the year 2631, a small meteorite has fallen into the Galuga archipelago, located 20km northeast off the coast of New Zealand. Two years later, a terrorist group known as Red Falcon has seized the island in preparation for an alien invasion. The earth's marines sent two members of their elite Contra unit, Bill Rizer and Lance Bean, to neutralize the terrorists.
 
 As either, Bill (player 1) or Lance (player 2), the player must get to the end of each stage, shooting everything in sight, while avoiding enemy fire themselves. The player can upgrade their standard-issue rifle into one of four different weapons, including the powerful spread shot.</desc>
-    <rating>0.8</rating>
-    <releasedate>19880202T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Shooter-Shooter / Run and Gun-Shoot'em Up-Shoot'em up / Horizontal-Action</genre>
-    <players>1-2</players>
-    <hash>1308088A</hash>
-    <image>./media/images/Contra.png</image>
-    <video>./media/videos/Contra.mp4</video>
-    <genreid>258</genreid>
-  </game>
-  <game id="1306" source="ScreenScraper.fr">
-    <path>./Donkey_Kong.nes</path>
-    <name>Donkey Kong</name>
-    <desc>Released in the arcades in 1981, Donkey Kong was not only Nintendo's first real smash hit for the company, but marked the introduction for two of their most popular mascots: Mario (originally "Jumpman") and Donkey Kong.
+		<rating>0.8</rating>
+		<releasedate>19880202T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter-Shooter / Run and Gun-Shoot'em Up-Shoot'em up / Horizontal-Action</genre>
+		<players>1-2</players>
+		<hash>1308088A</hash>
+		<image>./media/images/Contra.png</image>
+		<video>./media/videos/Contra.mp4</video>
+		<genreid>258</genreid>
+	</game>
+	<game id="1306" source="ScreenScraper.fr">
+		<path>./Donkey_Kong.nes</path>
+		<name>Donkey Kong</name>
+		<desc>Released in the arcades in 1981, Donkey Kong was not only Nintendo's first real smash hit for the company, but marked the introduction for two of their most popular mascots: Mario (originally "Jumpman") and Donkey Kong.
 
 Donkey Kong is a platform-action game that has Mario scale four different industrial themed levels (construction zone, cement factory, an elevator-themed level, and removing rivets from girders) in an attempt to save the damsel in distress, Pauline, from the big ape before the timer runs out.  Once the rivets are removed from the final level, Donkey Kong falls, and the two lovers are reunited.  From there, the levels start over at a higher difficulty.
 
 Along the way, Mario must dodge a constant stream of barrels, "living" fireballs, and spring-weights.  Although not as powerful as in other future games, Mario can find a hammer which allows him to destroy the barrels and fireballs for a limited amount of time.  Additionally, Mario can also find Pauline's hat, purse and umbrella for additional bonus points.
 
 Donkey Kong is also notable for being one of the first complete narratives in video game form, told through simplistic cut scenes that advance the story.  It should also be noted that in versions of the game for early 1980's consoles, Donkey Kong only used 2-3 of the original levels, with the cement factory usually omitted.</desc>
-    <rating>0.7</rating>
-    <releasedate>19830715T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Platform-Action</genre>
-    <players>1-2</players>
-    <hash>E40B593B</hash>
-    <image>./media/images/Donkey_Kong.png</image>
-    <video>./media/videos/Donkey_Kong.mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="1284" source="ScreenScraper.fr">
-    <path>./Double_Dragon.nes</path>
-    <name>Double Dragon</name>
-    <desc>Set in a post-apocalyptic New York, Double Dragon is the story of Billy and Jimmy Lee, twin brothers trained in the fighting style of Sou-Setsu-Ken. Together, they manage a small martial arts training school, teaching their students in self-defense. One day, Billy's girlfriend, Marian, is kidnapped off the street by the "Black Warriors", a savage street gang led by a man named Willy. The Black Warriors demand the Lee brothers disclose their martial arts secrets in exchange for Marian's freedom. The Lee brothers set out on a rescue mission to crush the Black Warriors and save Marian.
+		<rating>0.7</rating>
+		<releasedate>19830715T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform-Action</genre>
+		<players>1-2</players>
+		<hash>E40B593B</hash>
+		<image>./media/images/Donkey_Kong.png</image>
+		<video>./media/videos/Donkey_Kong.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="1284" source="ScreenScraper.fr">
+		<path>./Double_Dragon.nes</path>
+		<name>Double Dragon</name>
+		<desc>Set in a post-apocalyptic New York, Double Dragon is the story of Billy and Jimmy Lee, twin brothers trained in the fighting style of Sou-Setsu-Ken. Together, they manage a small martial arts training school, teaching their students in self-defense. One day, Billy's girlfriend, Marian, is kidnapped off the street by the "Black Warriors", a savage street gang led by a man named Willy. The Black Warriors demand the Lee brothers disclose their martial arts secrets in exchange for Marian's freedom. The Lee brothers set out on a rescue mission to crush the Black Warriors and save Marian.
 
 Using whatever techniques they have at their disposal, from the basic punches and kicks to the invulnerable elbow strike, as well any weapon that comes into their hands, the Lee brothers must pursue the gang through the city slum, industrial area and the forest before reaching their hideout to confront the big boss, Willy.</desc>
-    <rating>0.75</rating>
-    <releasedate>19941124T000000</releasedate>
-    <developer>Technos Japan Corp.</developer>
-    <publisher>Tradewest</publisher>
-    <genre>Beat'em Up</genre>
-    <players>1-2</players>
-    <hash>CC13E011</hash>
-    <image>./media/images/Double_Dragon.png</image>
-    <video>./media/videos/Double_Dragon.mp4</video>
-    <genreid>263</genreid>
-  </game>
-  <game id="1270" source="ScreenScraper.fr">
-    <path>./Super_Mario_Bros_2.nes</path>
-    <name>Super Mario Bros. : The Lost Levels</name>
-    <desc>Super Mario Bros.: The Lost Levels is a 1986 side-scrolling, platform video game developed and published by Nintendo as the first sequel to their 1985 smash hit Super Mario Bros.  
+		<rating>0.75</rating>
+		<releasedate>19941124T000000</releasedate>
+		<developer>Technos Japan Corp.</developer>
+		<publisher>Tradewest</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+		<hash>CC13E011</hash>
+		<image>./media/images/Double_Dragon.png</image>
+		<video>./media/videos/Double_Dragon.mp4</video>
+		<genreid>263</genreid>
+	</game>
+	<game id="1270" source="ScreenScraper.fr">
+		<path>./Super_Mario_Bros_2.nes</path>
+		<name>Super Mario Bros. : The Lost Levels</name>
+		<desc>Super Mario Bros.: The Lost Levels is a 1986 side-scrolling, platform video game developed and published by Nintendo as the first sequel to their 1985 smash hit Super Mario Bros.  
  
 This is the FDS Conversion to NES cart conversion.</desc>
-    <rating>0.8</rating>
-    <releasedate>19860603T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Platform</genre>
-    <players>1</players>
-    <hash>EE708827</hash>
-    <image>./media/images/Super_Mario_Bros_2.png</image>
-    <video>./media/videos/Super_Mario_Bros_2.mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="1246" source="ScreenScraper.fr">
-    <path>./Super_Mario_Bros._3.nes</path>
-    <name>Super Mario Bros. 3</name>
-    <desc>Bowser is back, and along with the Bowser kids, he's out to spoil Mario's day once again. 
-
-This time, along with nabbing the Princess, the Bowser crew have also taken the magic wands from the Kings of each land and turned them into creatures.
-It's up to Mario and Luigi to get back the magic wands, defeat Bowser, and save the Princess all before the day is done.
-
-Old and new power-ups abound in each level for the Mario Brothers, including the return of the Super Mushroom and Fire Flower, plus the new power-ups including the frog suit, the warp flute, and the most important of all, the leaf, which allows the player to fly and attack enemies with your tail.</desc>
-    <rating>0.85</rating>
-    <releasedate>19910829T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Platform</genre>
-    <players>1-2</players>
-    <hash>3BC2E2DF</hash>
-    <image>./media/images/Super_Mario_Bros._3.png</image>
-    <video>./media/videos/Super_Mario_Bros._3.mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="1250" source="ScreenScraper.fr">
-    <path>./Legend_of_Zelda.nes</path>
-    <name>The Legend of Zelda</name>
-    <desc>In one of the darkest times in the Kingdom of Hyrule, a young, pointy-eared boy named Link takes on an epic quest to restore the fragmented Triforce of Wisdom and save the Princess Zelda from the clutches of the evil, power-hungry Ganon.
+		<rating>0.8</rating>
+		<releasedate>19860603T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<hash>EE708827</hash>
+		<image>./media/images/Super_Mario_Bros_2.png</image>
+		<video>./media/videos/Super_Mario_Bros_2.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="1250" source="ScreenScraper.fr">
+		<path>./Legend_of_Zelda.nes</path>
+		<name>The Legend of Zelda</name>
+		<desc>In one of the darkest times in the Kingdom of Hyrule, a young, pointy-eared boy named Link takes on an epic quest to restore the fragmented Triforce of Wisdom and save the Princess Zelda from the clutches of the evil, power-hungry Ganon.
 
 The Legend of Zelda for the NES marks the first action-adventure title of the popular Nintendo series. Players must make their way through the various forests, graveyards, plains, and deserts of the Overworld to find the secret entrances of the eight dungeons in an attempt to piece together the broken Triforce. Once all pieces are joined, Link will be able to gain entry to Death Mountain, home of Ganon, and prison of Princess Zelda.
 
@@ -243,30 +202,70 @@ To find the Triforce pieces, Link must explore dungeons. Once he finds an entran
 If Link dies on his quest, he can continue it; he will go back to his start position in the Overworld, but with the items he managed to collect so far. When Link finishes his quest, the pl;ayer can choose to play the "2nd quest", which is essentially a harder version of the game. 
 
 The Legend of Zelda is known for several factors that were revolutionary at the time: A full world that could be freely explored, power-ups that would permanently enhance your character's abilities, and a battery back-up save feature that allowed players to retain their progress instead of having to start over. The gameplay balanced out frequent action sequences with discovery, secrets, and exploration.</desc>
-    <rating>0.9</rating>
-    <releasedate>19870701T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Role playing games-Action</genre>
-    <players>1</players>
-    <hash>02BB0C56</hash>
-    <image>./media/images/Legend_of_Zelda.png</image>
-    <video>./media/videos/Legend_of_Zelda.mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="1254" source="ScreenScraper.fr">
-    <path>./Zelda_II_-_The_Adventure_of_Link.nes</path>
-    <name>Zelda II : The Adventure of Link</name>
-    <desc>The land of Hyrule is in chaos.  As Link, you'll be sent on a treacherous journey to return six precious Crystals to their origins in six stone statues.  Only by defeating the guardians of the six palaces will you gain passage to the seventh palace, take on the ultimate challenge that awaits you, and wake the Princess Zelda from her sleeping spell.  On your way, helpful villagers you encounter will offer clues and secret messages invaluable in your quest.  As you guide Link through the levels of Hyrule, close-ups and overviews will enhance your video vision.  Are you up to the challenge?</desc>
-    <rating>0.8</rating>
-    <releasedate>19881201T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Action-Action / Adventure-Role playing games</genre>
-    <players>1</players>
-    <hash>E3C788B0</hash>
-    <image>./media/images/Zelda_II_-_The_Adventure_of_Link.png</image>
-    <video>./media/videos/Zelda_II_-_The_Adventure_of_Link.mp4</video>
-    <genreid>256</genreid>
-  </game>
+		<rating>0.9</rating>
+		<releasedate>19870701T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games-Action</genre>
+		<players>1</players>
+		<hash>02BB0C56</hash>
+		<image>./media/images/Legend_of_Zelda.png</image>
+		<video>./media/videos/Legend_of_Zelda.mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="1254" source="ScreenScraper.fr">
+		<path>./Zelda_II_-_The_Adventure_of_Link.nes</path>
+		<name>Zelda II : The Adventure of Link</name>
+		<desc>The land of Hyrule is in chaos.  As Link, you'll be sent on a treacherous journey to return six precious Crystals to their origins in six stone statues.  Only by defeating the guardians of the six palaces will you gain passage to the seventh palace, take on the ultimate challenge that awaits you, and wake the Princess Zelda from her sleeping spell.  On your way, helpful villagers you encounter will offer clues and secret messages invaluable in your quest.  As you guide Link through the levels of Hyrule, close-ups and overviews will enhance your video vision.  Are you up to the challenge?</desc>
+		<rating>0.8</rating>
+		<releasedate>19881201T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Action / Adventure-Role playing games</genre>
+		<players>1</players>
+		<hash>E3C788B0</hash>
+		<image>./media/images/Zelda_II_-_The_Adventure_of_Link.png</image>
+		<video>./media/videos/Zelda_II_-_The_Adventure_of_Link.mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game>
+		<path>./Captain_Silver.nes</path>
+		<name>Captain Silver</name>
+		<desc>In Captain Silver, you play the role of Jim, a brave young lad with a taste of adventure. You embark on a journey to find Captain Silver's secret treasure hoard, which is rumored to be hidden on an island in the Eastern Seas.
+
+There are six scenes in the game. During his travels, Jim will explore villages, fight his way on board ships, venture through caves, and wander around tropical islands. In each of these six scenes, Jim must use his sword to kill cats, rats, bats, witches, skeletons, and other creatures that are waiting for him. When Jim touches, or is shot at, by a creature, he loses one of his lives, but when he kills a creature, he can collect some gold that they leave behind, which can be used to buy items from shops. However, rather than getting gold, enemies leave behind some gold containing one of the letters that spell the word "CAPTAIN SILVER". If Jim manages to get all of these letters, he will be awarded an extra life.
+
+Jim may only use his sword to start off with, but once he collects a fairy that floats toward him in every scene, Jim will be able to shoot stars at enemies, making his kills more efficient. The maximum number of stars that he can have is six. There are other power-ups that Jim can collect in the game. These include the "clock" power-up, which gives Jim extra time; the "boot" power-up which allows Jim to jump higher; and the "coffee?" power-up, which enables Jim to shield himself from creatures until he is hit by one.
+
+There is a boss in each scene, which he must defeat in order to proceed to the next round. There is also a certain time limit, which Jim must complete the scene before it expires. If he does not, then he will lose a life.</desc>
+		<image>./media/images/Captain_Silver.png</image>
+		<video>./media/videos/Captain_Silver.mp4</video>
+		<rating>0.65</rating>
+		<releasedate>19881216T000000</releasedate>
+		<developer>Tokuma Shoten</developer>
+		<publisher>Data East</publisher>
+		<genre>Platform-Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210525T215710</lastplayed>
+	</game>
+	<game>
+		<path>./Super_Mario_Bros._3.nes</path>
+		<name>Super Mario Bros. 3</name>
+		<desc>Bowser is back, and along with the Bowser kids, he's out to spoil Mario's day once again. 
+
+This time, along with nabbing the Princess, the Bowser crew have also taken the magic wands from the Kings of each land and turned them into creatures.
+It's up to Mario and Luigi to get back the magic wands, defeat Bowser, and save the Princess all before the day is done.
+
+Old and new power-ups abound in each level for the Mario Brothers, including the return of the Super Mushroom and Fire Flower, plus the new power-ups including the frog suit, the warp flute, and the most important of all, the leaf, which allows the player to fly and attack enemies with your tail.</desc>
+		<image>./media/images/Super_Mario_Bros._3.png</image>
+		<video>./media/videos/Super_Mario_Bros._3.mp4</video>
+		<rating>0.85</rating>
+		<releasedate>19910829T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20210525T215255</lastplayed>
+	</game>
 </gameList>
