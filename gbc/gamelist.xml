@@ -1,34 +1,34 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0"?>
 <gameList>
-  <provider>
-    <System>Game Boy Color</System>
-    <software>Skraper</software>
-    <database>ScreenScraper.fr</database>
-    <web>http://www.screenscraper.fr</web>
-  </provider>
-  <game id="36905" source="ScreenScraper.fr">
-    <path>./Donkey_Kong_Country.gbc</path>
-    <name>Donkey Kong 2001</name>
-    <desc>King K. Rool has stolen Donkey Kong's banana stash, and Donkey Kong needs your help to get them back. In search of K. Rool, the Kremling horde impedes your progress. Kremlings, crocodile-like creatures, include Kritters (they succumb to a simple jump on the head), Krushas (they are virtually indestructible), and others. There are also other enemies that block your path, such as beavers, snakes, vultures. Leading them are dastardly bosses, including Very Gnawty, Necky, Bumble B, and Dumb Drum, and they all bar the way with their own special blend of villainy.
+	<provider>
+		<System>Game Boy Color</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="36905" source="ScreenScraper.fr">
+		<path>./Donkey_Kong_Country.gbc</path>
+		<name>Donkey Kong 2001</name>
+		<desc>King K. Rool has stolen Donkey Kong's banana stash, and Donkey Kong needs your help to get them back. In search of K. Rool, the Kremling horde impedes your progress. Kremlings, crocodile-like creatures, include Kritters (they succumb to a simple jump on the head), Krushas (they are virtually indestructible), and others. There are also other enemies that block your path, such as beavers, snakes, vultures. Leading them are dastardly bosses, including Very Gnawty, Necky, Bumble B, and Dumb Drum, and they all bar the way with their own special blend of villainy.
 
 Donkey Kong is joined by Diddy Kong: these two primates differ significantly. For example, Donkey Kong is generally stronger; he can destroy most enemies with a single jump and can lift barrels straight over his head to throw them farther. On the other hand, Diddy is faster and not as strong as Donkey; he can run really fast and do cartwheels. Diddy carries barrels in front of him, creating a shield against frontal attacks.
 
 The game is split into different worlds, which are split into different levels. Each level contains bonus areas, where one can collect bananas, medallions, and lives. At the end of each world is a boss, which is usually a larger version of a minor enemy.</desc>
-    <rating>0.65</rating>
-    <releasedate>20001104T000000</releasedate>
-    <developer>Rareware</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Platform-Action</genre>
-    <players>1-2</players>
-    <hash>B1743477</hash>
-    <image>./media/images/Donkey_Kong_Country.png</image>
-    <video>./media/videos/Donkey_Kong_Country.mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="37088" source="ScreenScraper.fr">
-    <path>./Harvest_Moon.gbc</path>
-    <name>Harvest Moon GBC</name>
-    <desc>Harvest Moon is a farming simulator/RPG where you must build and maintain a farm during the course of a year, while taking care of your budget and yourself. 
+		<rating>0.65</rating>
+		<releasedate>20001104T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform-Action</genre>
+		<players>1-2</players>
+		<hash>B1743477</hash>
+		<image>./media/images/Donkey_Kong_Country.png</image>
+		<video>./media/videos/Donkey_Kong_Country.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="37088" source="ScreenScraper.fr">
+		<path>./Harvest_Moon.gbc</path>
+		<name>Harvest Moon GBC</name>
+		<desc>Harvest Moon is a farming simulator/RPG where you must build and maintain a farm during the course of a year, while taking care of your budget and yourself. 
 
 You have the ability to buy, sell and take care of farm animals, crops and any other supplies that you may have. You can trade with many of the town's people, and fellow farmers. If you link up a friend's Game Boy, you can trade items between players as well.
 
@@ -37,103 +37,102 @@ The local stores supply plenty of items to help you in your quest, at a cost, of
 From an overhead perspective, you can explore your farming area, the local town and the Harvest Sprite tunnels, full of strange and wonderful creatures that can help or destroy your quest. There are four seasons (Summer, Autumn, Winter, Spring) and each brings with it new challenges such as keeping arm animals warm during the colder seasons, and supplying water to the crops during the warmer periods.
 
 The GBC version includes all new characters and background sprites in full color, but is also backwards compatible with the original Game Boy version.</desc>
-    <rating>0.65</rating>
-    <releasedate>19981231T000000</releasedate>
-    <developer>Victor Interactive</developer>
-    <publisher>Natsume</publisher>
-    <genre>Simulation</genre>
-    <players>1-2</players>
-    <hash>AB5738A1</hash>
-    <image>./media/images/Harvest_Moon.png</image>
-    <video>./media/videos/Harvest_Moon.mp4</video>
-    <genreid>1024</genreid>
-  </game>
-  <game id="37204" source="ScreenScraper.fr">
-    <path>./Super_Mario_Bros._Deluxe.gbc</path>
-    <name>Super Mario Bros. Deluxe</name>
-    <desc>The Mushroom Kingdom has been invaded by the Koopa, a tribe of turtles who possess dark magic. Their king Bowser has transformed all its inhabitants into stones, bricks, and mushrooms; he has also captured Princess Toadstool. She is the only one who can break the evil spell.
+		<rating>0.65</rating>
+		<releasedate>19981231T000000</releasedate>
+		<developer>Victor Interactive</developer>
+		<publisher>Natsume</publisher>
+		<genre>Simulation</genre>
+		<players>1-2</players>
+		<hash>AB5738A1</hash>
+		<image>./media/images/Harvest_Moon.png</image>
+		<video>./media/videos/Harvest_Moon.mp4</video>
+		<genreid>1024</genreid>
+	</game>
+	<game id="37204" source="ScreenScraper.fr">
+		<path>./Super_Mario_Bros._Deluxe.gbc</path>
+		<name>Super Mario Bros. Deluxe</name>
+		<desc>The Mushroom Kingdom has been invaded by the Koopa, a tribe of turtles who possess dark magic. Their king Bowser has transformed all its inhabitants into stones, bricks, and mushrooms; he has also captured Princess Toadstool. She is the only one who can break the evil spell.
 Imprisoned in a castle deep in Bowser's new found kingdom, Mario, a humble plumber, hears of the tragedy and sets out to free her.
 
 Run, jump, and throw fireballs to defeat the evil Bowser and his minions.
 
 The game features the original 1985 game, a challenge mode, and versus game option. Also included are records, an album, and a toy box.</desc>
-    <rating>0.8</rating>
-    <releasedate>19990501T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Platform-Action</genre>
-    <players>1-2</players>
-    <hash>62BBAE83</hash>
-    <image>./media/images/Super_Mario_Bros._Deluxe.png</image>
-    <video>./media/videos/Super_Mario_Bros._Deluxe.mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="37208" source="ScreenScraper.fr">
-    <path>./Tetris_DX.gbc</path>
-    <name>Tetris DX</name>
-    <desc>Tetris DX requires you to place different shaped blocks which fall from the top of the screen, along the bottom of the screen to make up a line which then disappears from the screen. Watch out though, if you cant fill the gaps and the blocks fill up to the top of the screen the game is over.
+		<rating>0.8</rating>
+		<releasedate>19990501T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform-Action</genre>
+		<players>1-2</players>
+		<hash>62BBAE83</hash>
+		<image>./media/images/Super_Mario_Bros._Deluxe.png</image>
+		<video>./media/videos/Super_Mario_Bros._Deluxe.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="37208" source="ScreenScraper.fr">
+		<path>./Tetris_DX.gbc</path>
+		<name>Tetris DX</name>
+		<desc>Tetris DX requires you to place different shaped blocks which fall from the top of the screen, along the bottom of the screen to make up a line which then disappears from the screen. Watch out though, if you cant fill the gaps and the blocks fill up to the top of the screen the game is over.
 
 Tetris DX features 4 one-player modes and two-player mode using the Universal Game Link Cable.</desc>
-    <rating>0.8</rating>
-    <releasedate>19981118T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Puzzle-Game</genre>
-    <players>1-2</players>
-    <hash>69989152</hash>
-    <image>./media/images/Tetris_DX.png</image>
-    <video>./media/videos/Tetris_DX.mp4</video>
-    <genreid>2816</genreid>
-  </game>
-  <game id="82375" source="ScreenScraper.fr">
-    <path>./Legend_of_Zelda_The_-_Links_Awakening_DX.gbc</path>
-    <name>The Legend of Zelda : Link's Awakening DX</name>
-    <desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
-    <rating>0.9</rating>
-    <releasedate>19981212T000000</releasedate>
-    <developer>Nintendo EAD</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Role playing games-Adventure</genre>
-    <players>1</players>
-    <hash>06887A34</hash>
-    <image>./media/images/Legend_of_Zelda_The_-_Links_Awakening_DX.png</image>
-    <video>./media/videos/Legend_of_Zelda_The_-_Links_Awakening_DX.mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="82379" source="ScreenScraper.fr">
-    <path>./Legend_of_Zelda_The-Oracle_of_Seasons.gbc</path>
-    <name>Zelda no Densetsu - Fushigi no Kinomi - Daichi no Shou</name>
-    <desc>The land of Holodrum is slowly withering. Onox, the General of Darkness, has imprisoned the Oracle of Seasons and is draining the very life out of the land. With the seasons in tumult and the forces of evil running rampant, the world looks for a hero... and finds Link. His quest won't be easy - he'll have to master the seasons themselves if he's to turn back the evil tide.</desc>
-    <rating>0.9</rating>
-    <releasedate>20010513T000000</releasedate>
-    <developer>Flagship</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Role playing games-Action-Action / Adventure</genre>
-    <players>1</players>
-    <hash>D7E9F5D7</hash>
-    <image>./media/images/Legend_of_Zelda_The-Oracle_of_Seasons.png</image>
-    <video>./media/videos/Legend_of_Zelda_The-Oracle_of_Seasons.mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="82377" source="ScreenScraper.fr">
-    <path>./Legend_of_Zelda_The-Oracle_of_Ages.gbc</path>
-    <name>Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou</name>
-    <desc>Using the legendary power of the Triforce, Link travels to a distant land known as Labrynna where Veran, the Sorceress of Shadows, has developed a scheme to alter Labrynna's past. Through trickery and deceit, Veran harnesses the power of Nayru, the Oracle of Ages, and travels 400 years into the past. Before the Sorceress of Shadows can complete her dark mission, Link must use the Harp of Ages to save the day.</desc>
-    <rating>0.9</rating>
-    <releasedate>20010513T000000</releasedate>
-    <developer>Flagship</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Role playing games-Action-Action / Adventure</genre>
-    <players>1</players>
-    <hash>3800A387</hash>
-    <image>./media/images/Legend_of_Zelda_The-Oracle_of_Ages.png</image>
-    <video>./media/videos/Legend_of_Zelda_The-Oracle_of_Ages.mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="166701" source="ScreenScraper.fr">
-    <path>./Pac-Man.gbc</path>
-    <name>ZZZ(notgame):Pac-man</name>
-    <releasedate />
-    <hash>6E3B4DBF</hash>
-  </game>
+		<rating>0.8</rating>
+		<releasedate>19981118T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<hash>69989152</hash>
+		<image>./media/images/Tetris_DX.png</image>
+		<video>./media/videos/Tetris_DX.mp4</video>
+		<genreid>2816</genreid>
+	</game>
+	<game id="82379" source="ScreenScraper.fr">
+		<path>./Legend_of_Zelda_The-Oracle_of_Seasons.gbc</path>
+		<name>Zelda no Densetsu - Fushigi no Kinomi - Daichi no Shou</name>
+		<desc>The land of Holodrum is slowly withering. Onox, the General of Darkness, has imprisoned the Oracle of Seasons and is draining the very life out of the land. With the seasons in tumult and the forces of evil running rampant, the world looks for a hero... and finds Link. His quest won't be easy - he'll have to master the seasons themselves if he's to turn back the evil tide.</desc>
+		<rating>0.9</rating>
+		<releasedate>20010513T000000</releasedate>
+		<developer>Flagship</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games-Action-Action / Adventure</genre>
+		<players>1</players>
+		<hash>D7E9F5D7</hash>
+		<image>./media/images/Legend_of_Zelda_The-Oracle_of_Seasons.png</image>
+		<video>./media/videos/Legend_of_Zelda_The-Oracle_of_Seasons.mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="82377" source="ScreenScraper.fr">
+		<path>./Legend_of_Zelda_The-Oracle_of_Ages.gbc</path>
+		<name>Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou</name>
+		<desc>Using the legendary power of the Triforce, Link travels to a distant land known as Labrynna where Veran, the Sorceress of Shadows, has developed a scheme to alter Labrynna's past. Through trickery and deceit, Veran harnesses the power of Nayru, the Oracle of Ages, and travels 400 years into the past. Before the Sorceress of Shadows can complete her dark mission, Link must use the Harp of Ages to save the day.</desc>
+		<rating>0.9</rating>
+		<releasedate>20010513T000000</releasedate>
+		<developer>Flagship</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games-Action-Action / Adventure</genre>
+		<players>1</players>
+		<hash>3800A387</hash>
+		<image>./media/images/Legend_of_Zelda_The-Oracle_of_Ages.png</image>
+		<video>./media/videos/Legend_of_Zelda_The-Oracle_of_Ages.mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="166701" source="ScreenScraper.fr">
+		<path>./Pac-Man.gbc</path>
+		<name>ZZZ(notgame):Pac-man</name>
+		<releasedate />
+		<hash>6E3B4DBF</hash>
+	</game>
+	<game>
+		<path>./Legend_of_Zelda_The_-_Links_Awakening_DX.gbc</path>
+		<name>The Legend of Zelda : Link's Awakening DX</name>
+		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
+		<image>./media/images/Legend_of_Zelda_The_-_Links_Awakening_DX.png</image>
+		<video>./media/videos/Legend_of_Zelda_The_-_Links_Awakening_DX.mp4</video>
+		<rating>0.9</rating>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games-Adventure</genre>
+		<playcount>2</playcount>
+		<lastplayed>20210618T124919</lastplayed>
+	</game>
 </gameList>
