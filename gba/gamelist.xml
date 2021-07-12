@@ -50,23 +50,6 @@ You have the same weapons as in the first Doom, plus a new one: a super shotgun.
 		<video>./media/videos/Doom II.mp4</video>
 		<genreid>259</genreid>
 	</game>
-	<game id="3765" source="ScreenScraper.fr">
-		<path>./Final Fantasy VI Advance.gba</path>
-		<name>Final Fantasy VI Advance</name>
-		<desc>An Ancient War Rekindled 
- 
-A thousand years after the War of the Magi, the Gestahlian Empire has succeeded in reviving the lost power of magic through its clandestine Magitek research program. Now, as the Empire threatens to enslave the world with its newfound might, it is up to a band of rebels known as the Returners to find a way to strike back before the flames of war consume the world once more.</desc>
-		<rating>0.9</rating>
-		<releasedate>20070205T000000</releasedate>
-		<developer>Square Enix</developer>
-		<publisher>Square Enix</publisher>
-		<genre>Role playing games-Fight</genre>
-		<players>1</players>
-		<hash>D708F5AB</hash>
-		<image>./media/images/Final Fantasy VI Advance.png</image>
-		<video>./media/videos/Final Fantasy VI Advance.mp4</video>
-		<genreid>262</genreid>
-	</game>
 	<game id="0" source="ScreenScraper.fr">
 		<path>./Final Fantasy VI.gba</path>
 		<name>Final Fantasy VI</name>
@@ -218,12 +201,28 @@ While A Link to the Past is largely a faithful port of the original, it does inc
 	<game>
 		<path>./Mario Kart.gba</path>
 		<name>Mario Kart</name>
-		<releasedate></releasedate>
-		<developer></developer>
-		<publisher></publisher>
-		<genre></genre>
-		<players></players>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
 		<playcount>1</playcount>
 		<lastplayed>20210525T222241</lastplayed>
+	</game>
+	<game>
+		<path>./Final Fantasy VI Advance.gba</path>
+		<name>Final Fantasy VI Advance</name>
+		<desc>An Ancient War Rekindled 
+ 
+A thousand years after the War of the Magi, the Gestahlian Empire has succeeded in reviving the lost power of magic through its clandestine Magitek research program. Now, as the Empire threatens to enslave the world with its newfound might, it is up to a band of rebels known as the Returners to find a way to strike back before the flames of war consume the world once more.</desc>
+		<image>./media/images/Final Fantasy VI Advance.png</image>
+		<video>./media/videos/Final Fantasy VI Advance.mp4</video>
+		<rating>0.9</rating>
+		<releasedate>20070205T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games-Fight</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210702T101326</lastplayed>
 	</game>
 </gameList>
