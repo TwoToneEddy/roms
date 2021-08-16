@@ -1,73 +1,72 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0"?>
 <gameList>
-  <provider>
-    <System>Nintendo 64</System>
-    <software>Skraper</software>
-    <database>ScreenScraper.fr</database>
-    <web>http://www.screenscraper.fr</web>
-  </provider>
-  <game id="5405" source="ScreenScraper.fr">
-    <path>./Banjo and Kazu's Big Adventure.n64</path>
-    <name>Banjo-Kazooie</name>
-    <desc>Banjo-Kazooie's fairy tale back story is reminiscent of Snow White's. A gnarled, ugly witch named Gruntilda asks her magical cauldron who is the fairest of them all. Of course, the pot's answer doesn't please the hag-- he singles out Banjo's sister, Tooty. When Tooty turns up missing, Banjo and his birdie buddy Kazooie set out to find her. 
+	<provider>
+		<System>Nintendo 64</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="5405" source="ScreenScraper.fr">
+		<path>./Banjo and Kazu's Big Adventure.n64</path>
+		<name>Banjo-Kazooie</name>
+		<desc>Banjo-Kazooie's fairy tale back story is reminiscent of Snow White's. A gnarled, ugly witch named Gruntilda asks her magical cauldron who is the fairest of them all. Of course, the pot's answer doesn't please the hag-- he singles out Banjo's sister, Tooty. When Tooty turns up missing, Banjo and his birdie buddy Kazooie set out to find her. 
 
 The worlds in Banjo-Kazooie are gigantic, and chock full of crazy items to collect. Musical Notes, Puzzle Pieces ("Jiggies"), Mumbo Tokens, and Jinjoes are just some of the swag that Banjo must stuff in his backpack to complete his adventure. While some of the necessary items are simply stashed off the beaten path, others will require puzzle solving skills to turn up.</desc>
-    <rating>0.8</rating>
-    <releasedate>19980629T000000</releasedate>
-    <developer>Rareware</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Platform-Action / Adventure-Action</genre>
-    <players>1</players>
-    <hash>4FD43199</hash>
-    <image>./media/images/Banjo and Kazu's Big Adventure.png</image>
-    <video>./media/videos/Banjo and Kazu's Big Adventure.mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="5401" source="ScreenScraper.fr">
-    <path>./Mario Kart.v64</path>
-    <name>Mario Kart 64</name>
-    <desc>Mario Kart 64 races eight familiar faces, including Mario, Bowser and Yoshi, on four progressively tougher four-track circuits. Wide curves and gentle banks mark the Mushroom Cup tracks. Your commute gets notably tougher on the Flower Cup, though. The player will have to dodge semis rumbling on Toad's Turnpike and bounding boulders on fogbound Choco Mountain! Star Cup tracks range from the icy surfaces of Sherbet Land to the lava lakes of Bowser's Castle. The true test of karting competence, though, comes on the four tracks in Special Cup. Zip through the dark caves and green hillsides of Donkey Kong's Jungle Parkway, cling to the sheer cliffs of Yoshi Valley and hustle over haunted Banshee Boardwalk before tackling the longest track in the game: neon-lit Rainbow Road. 
+		<rating>0.8</rating>
+		<releasedate>19980629T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform-Action / Adventure-Action</genre>
+		<players>1</players>
+		<hash>4FD43199</hash>
+		<image>./media/images/Banjo and Kazu's Big Adventure.png</image>
+		<video>./media/videos/Banjo and Kazu's Big Adventure.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="5395" source="ScreenScraper.fr">
+		<path>./The Legend of Zelda-Ocarina of Time.z64</path>
+		<name>The Legend of Zelda : Ocarina of Time</name>
+		<desc>Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule. He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce. As the young hero Link, it is your destiny to thwart Ganondorf's evil schemes. Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora's Domain. Before you complete this epic quest, you'll delve into deadly dungeons, collect weapons of great power and learn the spells you need to conquer the most irresistible force of all-time.</desc>
+		<rating>0.95</rating>
+		<releasedate>19981123T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Action / Adventure-Role playing games</genre>
+		<players>1</players>
+		<hash>346DE3AE</hash>
+		<image>./media/images/The Legend of Zelda-Ocarina of Time.png</image>
+		<video>./media/videos/The Legend of Zelda-Ocarina of Time.mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game>
+		<path>./Mario Kart.v64</path>
+		<name>Mario Kart 64</name>
+		<desc>Mario Kart 64 races eight familiar faces, including Mario, Bowser and Yoshi, on four progressively tougher four-track circuits. Wide curves and gentle banks mark the Mushroom Cup tracks. Your commute gets notably tougher on the Flower Cup, though. The player will have to dodge semis rumbling on Toad's Turnpike and bounding boulders on fogbound Choco Mountain! Star Cup tracks range from the icy surfaces of Sherbet Land to the lava lakes of Bowser's Castle. The true test of karting competence, though, comes on the four tracks in Special Cup. Zip through the dark caves and green hillsides of Donkey Kong's Jungle Parkway, cling to the sheer cliffs of Yoshi Valley and hustle over haunted Banshee Boardwalk before tackling the longest track in the game: neon-lit Rainbow Road. 
 
 The game offers two camera angles and three engine sizes: 50cc, 100cc and 150cc. You can gain even more speed by mastering the power slide technique or grabbing Super Star power-ups. Each kart has distinctive handling, acceleration and top speed capabilities. Light karts like Princess's smoothly steer through tight corners, but run the constant risk of getting flattened by heavy karts, like Donkey Kong's. Shells that you fire at rival racers, Bananas that make them skid out and Lightning Bolts that make them small and very slow are just a few of the game's unique power-ups.</desc>
-    <rating>0.8</rating>
-    <releasedate>19970210T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Sports-Race, Driving</genre>
-    <players>1-4</players>
-    <hash>2BCEE11C</hash>
-    <image>./media/images/Mario Kart.png</image>
-    <video>./media/videos/Mario Kart.mp4</video>
-    <genreid>1537</genreid>
-  </game>
-  <game id="5396" source="ScreenScraper.fr">
-    <path>./Super Mario.v64</path>
-    <name>Super Mario 64</name>
-    <desc>Mario is super in a whole new way! Combining the finest 3-D graphics ever developed for a video game and an explosive sound track, Super Mario 64 becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch nemesis - Bowser, King of the Koopas!</desc>
-    <rating>0.8</rating>
-    <releasedate>19970301T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Platform-Action</genre>
-    <players>1</players>
-    <hash>11FB579B</hash>
-    <image>./media/images/Super Mario.png</image>
-    <video>./media/videos/Super Mario.mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="5395" source="ScreenScraper.fr">
-    <path>./The Legend of Zelda-Ocarina of Time.z64</path>
-    <name>The Legend of Zelda : Ocarina of Time</name>
-    <desc>Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule. He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce. As the young hero Link, it is your destiny to thwart Ganondorf's evil schemes. Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora's Domain. Before you complete this epic quest, you'll delve into deadly dungeons, collect weapons of great power and learn the spells you need to conquer the most irresistible force of all-time.</desc>
-    <rating>0.95</rating>
-    <releasedate>19981123T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Action-Action / Adventure-Role playing games</genre>
-    <players>1</players>
-    <hash>346DE3AE</hash>
-    <image>./media/images/The Legend of Zelda-Ocarina of Time.png</image>
-    <video>./media/videos/The Legend of Zelda-Ocarina of Time.mp4</video>
-    <genreid>256</genreid>
-  </game>
+		<image>./media/images/Mario Kart.png</image>
+		<video>./media/videos/Mario Kart.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19970210T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports-Race, Driving</genre>
+		<players>1-4</players>
+		<playcount>2</playcount>
+		<lastplayed>20210816T115514</lastplayed>
+	</game>
+	<game>
+		<path>./Super Mario.v64</path>
+		<name>Super Mario 64</name>
+		<desc>Mario is super in a whole new way! Combining the finest 3-D graphics ever developed for a video game and an explosive sound track, Super Mario 64 becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch nemesis - Bowser, King of the Koopas!</desc>
+		<image>./media/images/Super Mario.png</image>
+		<video>./media/videos/Super Mario.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19970301T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform-Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210816T115550</lastplayed>
+	</game>
 </gameList>
