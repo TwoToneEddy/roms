@@ -130,21 +130,6 @@ Completing a lap also gives points, which give the player a life when enough are
 		<video>./media/videos/Star_Fox_2.mp4</video>
 		<genreid>256</genreid>
 	</game>
-	<game id="19196" source="ScreenScraper.fr">
-		<path>./Star_Fox.sfc</path>
-		<name>Star Fox</name>
-		<desc>This is the first SNES title using the Super FX chip; you are flying ace Fox McCloud, who with his trusted wingmen and his powerful Arwing starfighter, must rid the Lylat System of the evil that surrounds it. Wave after wave of enemies will fly towards you, and with the advice of your wingmen, you must guide your way through each level and take down as many as you can. </desc>
-		<rating>0.8</rating>
-		<releasedate>19930301T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<hash>8FC4E6D0</hash>
-		<image>./media/images/Star_Fox.png</image>
-		<video>./media/videos/Star_Fox.mp4</video>
-		<genreid>260</genreid>
-	</game>
 	<game id="2176" source="ScreenScraper.fr">
 		<path>./Street_Fighter_II_Turbo.zip</path>
 		<name>Street Fighter II Turbo</name>
@@ -282,5 +267,19 @@ The game allows you to face your ultimate adversary at different points of time,
 		<genre>Role playing games</genre>
 		<playcount>3</playcount>
 		<lastplayed>20210529T223040</lastplayed>
+	</game>
+	<game>
+		<path>./Star_Fox.sfc</path>
+		<name>Star Fox</name>
+		<desc>This is the first SNES title using the Super FX chip; you are flying ace Fox McCloud, who with his trusted wingmen and his powerful Arwing starfighter, must rid the Lylat System of the evil that surrounds it. Wave after wave of enemies will fly towards you, and with the advice of your wingmen, you must guide your way through each level and take down as many as you can. </desc>
+		<image>./media/images/Star_Fox.png</image>
+		<video>./media/videos/Star_Fox.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19930301T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em Up</genre>
+		<playcount>2</playcount>
+		<lastplayed>20210909T191635</lastplayed>
 	</game>
 </gameList>
