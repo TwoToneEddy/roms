@@ -231,22 +231,18 @@ Over 90 levels are on offer, with plenty of Bowser's evil koopas and new charact
 		<genreid>768</genreid>
 	</game>
 	<game>
-		<path>./Terranigma.sfc</path>
-		<name>Terranigma</name>
-		<desc>In "Terranigma", you play a young boy named Ark. He has grown up in his little village, isolated from the outer world by a stream of lava, and has never seen anything else beside it. One day, he and some other boys hear mysterious voices coming from beyond a door the village elder forbade them to open. Unable to resist their curiosity, the boys open the door, and Ark finds a box with a strange creature inside. By opening the box, Ark damages the balance between two co-existing worlds, and all the village people are turned into stones. Now Ark has to embark on a dangerous journey - to find five Towers, and to seek there the answers to his questions, and to liberate his people from a terrible curse.
-
-"Terranigma" is an action game with slight RPG elements. Ark levels up after having completed an important quest or cleared out an area. He can attack enemies with various weapons, using various techniques: pierce, leap, dash, etc. 
-
-The game is closely connected to and often regarded as a part of a trilogy created by Enix, the first two games being Soul Blazer and Illusion of Gaia.</desc>
-		<image>./media/images/Terranigma.png</image>
-		<video>./media/videos/Terranigma.mp4</video>
-		<rating>0.75</rating>
-		<releasedate>19961219T000000</releasedate>
-		<developer>Quintet</developer>
-		<publisher>Enix</publisher>
-		<genre>Action / Adventure-Action-Role playing games</genre>
-		<playcount>1</playcount>
-		<lastplayed>20210525T215919</lastplayed>
+		<path>./Star_Fox.sfc</path>
+		<name>Star Fox</name>
+		<desc>This is the first SNES title using the Super FX chip; you are flying ace Fox McCloud, who with his trusted wingmen and his powerful Arwing starfighter, must rid the Lylat System of the evil that surrounds it. Wave after wave of enemies will fly towards you, and with the advice of your wingmen, you must guide your way through each level and take down as many as you can. </desc>
+		<image>./media/images/Star_Fox.png</image>
+		<video>./media/videos/Star_Fox.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19930301T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em Up</genre>
+		<playcount>2</playcount>
+		<lastplayed>20210909T191635</lastplayed>
 	</game>
 	<game>
 		<path>./Chrono_Trigger.zip</path>
@@ -265,21 +261,25 @@ The game allows you to face your ultimate adversary at different points of time,
 		<developer>Square</developer>
 		<publisher>Square</publisher>
 		<genre>Role playing games</genre>
-		<playcount>3</playcount>
-		<lastplayed>20210529T223040</lastplayed>
+		<playcount>4</playcount>
+		<lastplayed>20211125T192829</lastplayed>
 	</game>
 	<game>
-		<path>./Star_Fox.sfc</path>
-		<name>Star Fox</name>
-		<desc>This is the first SNES title using the Super FX chip; you are flying ace Fox McCloud, who with his trusted wingmen and his powerful Arwing starfighter, must rid the Lylat System of the evil that surrounds it. Wave after wave of enemies will fly towards you, and with the advice of your wingmen, you must guide your way through each level and take down as many as you can. </desc>
-		<image>./media/images/Star_Fox.png</image>
-		<video>./media/videos/Star_Fox.mp4</video>
-		<rating>0.8</rating>
-		<releasedate>19930301T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shoot'em Up</genre>
+		<path>./Terranigma.sfc</path>
+		<name>Terranigma</name>
+		<desc>In "Terranigma", you play a young boy named Ark. He has grown up in his little village, isolated from the outer world by a stream of lava, and has never seen anything else beside it. One day, he and some other boys hear mysterious voices coming from beyond a door the village elder forbade them to open. Unable to resist their curiosity, the boys open the door, and Ark finds a box with a strange creature inside. By opening the box, Ark damages the balance between two co-existing worlds, and all the village people are turned into stones. Now Ark has to embark on a dangerous journey - to find five Towers, and to seek there the answers to his questions, and to liberate his people from a terrible curse.
+
+"Terranigma" is an action game with slight RPG elements. Ark levels up after having completed an important quest or cleared out an area. He can attack enemies with various weapons, using various techniques: pierce, leap, dash, etc. 
+
+The game is closely connected to and often regarded as a part of a trilogy created by Enix, the first two games being Soul Blazer and Illusion of Gaia.</desc>
+		<image>./media/images/Terranigma.png</image>
+		<video>./media/videos/Terranigma.mp4</video>
+		<rating>0.75</rating>
+		<releasedate>19961219T000000</releasedate>
+		<developer>Quintet</developer>
+		<publisher>Enix</publisher>
+		<genre>Action / Adventure-Action-Role playing games</genre>
 		<playcount>2</playcount>
-		<lastplayed>20210909T191635</lastplayed>
+		<lastplayed>20211125T192046</lastplayed>
 	</game>
 </gameList>
