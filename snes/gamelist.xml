@@ -130,21 +130,6 @@ Completing a lap also gives points, which give the player a life when enough are
 		<video>./media/videos/Star_Fox_2.mp4</video>
 		<genreid>256</genreid>
 	</game>
-	<game id="19196" source="ScreenScraper.fr">
-		<path>./Star_Fox.sfc</path>
-		<name>Star Fox</name>
-		<desc>This is the first SNES title using the Super FX chip; you are flying ace Fox McCloud, who with his trusted wingmen and his powerful Arwing starfighter, must rid the Lylat System of the evil that surrounds it. Wave after wave of enemies will fly towards you, and with the advice of your wingmen, you must guide your way through each level and take down as many as you can. </desc>
-		<rating>0.8</rating>
-		<releasedate>19930301T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<hash>8FC4E6D0</hash>
-		<image>./media/images/Star_Fox.png</image>
-		<video>./media/videos/Star_Fox.mp4</video>
-		<genreid>260</genreid>
-	</game>
 	<game id="2176" source="ScreenScraper.fr">
 		<path>./Street_Fighter_II_Turbo.zip</path>
 		<name>Street Fighter II Turbo</name>
@@ -235,6 +220,20 @@ The game allows you to face your ultimate adversary at different points of time,
 		<lastplayed>20210529T223040</lastplayed>
 	</game>
 	<game>
+		<path>./Star_Fox.sfc</path>
+		<name>Star Fox</name>
+		<desc>This is the first SNES title using the Super FX chip; you are flying ace Fox McCloud, who with his trusted wingmen and his powerful Arwing starfighter, must rid the Lylat System of the evil that surrounds it. Wave after wave of enemies will fly towards you, and with the advice of your wingmen, you must guide your way through each level and take down as many as you can. </desc>
+		<image>./media/images/Star_Fox.png</image>
+		<video>./media/videos/Star_Fox.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19930301T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em Up</genre>
+		<playcount>2</playcount>
+		<lastplayed>20210909T191635</lastplayed>
+	</game>
+	<game>
 		<path>./Terranigma.sfc</path>
 		<name>Terranigma</name>
 		<desc>In "Terranigma", you play a young boy named Ark. He has grown up in his little village, isolated from the outer world by a stream of lava, and has never seen anything else beside it. One day, he and some other boys hear mysterious voices coming from beyond a door the village elder forbade them to open. Unable to resist their curiosity, the boys open the door, and Ark finds a box with a strange creature inside. By opening the box, Ark damages the balance between two co-existing worlds, and all the village people are turned into stones. Now Ark has to embark on a dangerous journey - to find five Towers, and to seek there the answers to his questions, and to liberate his people from a terrible curse.
@@ -249,9 +248,14 @@ The game is closely connected to and often regarded as a part of a trilogy creat
 		<developer>Quintet</developer>
 		<publisher>Enix</publisher>
 		<genre>Action / Adventure-Action-Role playing games</genre>
+<<<<<<< HEAD
 		<favorite>true</favorite>
 		<playcount>1</playcount>
 		<lastplayed>20210525T215919</lastplayed>
+=======
+		<playcount>2</playcount>
+		<lastplayed>20211125T192046</lastplayed>
+>>>>>>> 3ffb19fa2e3814e5e535f2b0e238be34b2d12b84
 	</game>
 	<game>
 		<path>./Legend_of_Zelda_The_-_A_Link_to_the_Past.zip</path>
@@ -271,6 +275,7 @@ The game is closely connected to and often regarded as a part of a trilogy creat
 		<name>Super Mario Kart</name>
 		<desc>A collection of Super Mario characters, including Mario, Luigi, Yoshi, Peach, Bowser and Donkey Kong Jr., are out to win the Super Mario Kart championship. Using Mode 7 scaling, the first true kart game on the SNES has you collecting coins to boost your speed while using shells and bananas to stop others on the track. 
 
+<<<<<<< HEAD
 There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Special Cup, each with a selection of tracks to race on (based in Bowser's Castle, Super Mario World and more). Plus, a 2 player battle mode is on offer, where the first to pop the three balloons wins.</desc>
 		<image>./media/images/Super_Mario_Kart.png</image>
 		<video>./media/videos/Super_Mario_Kart.mp4</video>
@@ -281,5 +286,17 @@ There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Spec
 		<genre>Race, Driving-Race 3rd Pers. view</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+=======
+The game allows you to face your ultimate adversary at different points of time, which leads to several different endings. There is also a New Game+ option, which allows you to carry over your powerful characters to a new game, and adds even more endings to the already existing ones.</desc>
+		<image>./media/images/Chrono_Trigger.png</image>
+		<video>./media/videos/Chrono_Trigger.mp4</video>
+		<rating>0.85</rating>
+		<releasedate>19950811T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role playing games</genre>
+		<playcount>5</playcount>
+		<lastplayed>20211202T193929</lastplayed>
+>>>>>>> 3ffb19fa2e3814e5e535f2b0e238be34b2d12b84
 	</game>
 </gameList>

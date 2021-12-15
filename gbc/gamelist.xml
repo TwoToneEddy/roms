@@ -114,7 +114,11 @@ Tetris DX features 4 one-player modes and two-player mode using the Universal Ga
 		<genre>Role playing games-Adventure</genre>
 		<favorite>true</favorite>
 		<playcount>4</playcount>
+<<<<<<< HEAD
+		<lastplayed>20210618T133436</lastplayed>
+=======
 		<lastplayed>20210618T133225</lastplayed>
+>>>>>>> 451a2e1ada1df8198eea87f7ba02c615d244702a
 	</game>
 	<game>
 		<path>./Super_Mario_Bros._Deluxe.gbc</path>
