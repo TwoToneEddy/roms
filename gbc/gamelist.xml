@@ -123,20 +123,8 @@ Tetris DX features 4 one-player modes and two-player mode using the Universal Ga
 	</game>
 	<game>
 		<path>./Legend_of_Zelda_The_-_Links_Awakening_DX.gbc</path>
-		<name>The Legend of Zelda : Link's Awakening DX</name>
-		<desc>Link's latest challenge is set on the mysterious Koholint, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule. This will not be an easy task.rnrnThe island's inhabitants have no knowledge of the outside world. One creature, a talking owl, may know the solution to Link's dilemma. Link must first tackle eight dungeons full of treacherous monsters and tricky traps. His goal: find the eight instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.</desc>
-		<image>./media/images/Legend_of_Zelda_The_-_Links_Awakening_DX.png</image>
-		<video>./media/videos/Legend_of_Zelda_The_-_Links_Awakening_DX.mp4</video>
-		<rating>0.9</rating>
-		<releasedate>19981212T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games-Adventure</genre>
-		<playcount>4</playcount>
-<<<<<<< HEAD
-		<lastplayed>20210618T133436</lastplayed>
-=======
-		<lastplayed>20210618T133225</lastplayed>
->>>>>>> 451a2e1ada1df8198eea87f7ba02c615d244702a
+		<name>Legend_of_Zelda_The_-_Links_Awakening_DX</name>
+		<playcount>1</playcount>
+		<lastplayed>20211215T095021</lastplayed>
 	</game>
 </gameList>
