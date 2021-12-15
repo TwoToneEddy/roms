@@ -48,26 +48,6 @@ The GBC version includes all new characters and background sprites in full color
 		<video>./media/videos/Harvest_Moon.mp4</video>
 		<genreid>1024</genreid>
 	</game>
-	<game id="37204" source="ScreenScraper.fr">
-		<path>./Super_Mario_Bros._Deluxe.gbc</path>
-		<name>Super Mario Bros. Deluxe</name>
-		<desc>The Mushroom Kingdom has been invaded by the Koopa, a tribe of turtles who possess dark magic. Their king Bowser has transformed all its inhabitants into stones, bricks, and mushrooms; he has also captured Princess Toadstool. She is the only one who can break the evil spell.
-Imprisoned in a castle deep in Bowser's new found kingdom, Mario, a humble plumber, hears of the tragedy and sets out to free her.
-
-Run, jump, and throw fireballs to defeat the evil Bowser and his minions.
-
-The game features the original 1985 game, a challenge mode, and versus game option. Also included are records, an album, and a toy box.</desc>
-		<rating>0.8</rating>
-		<releasedate>19990501T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform-Action</genre>
-		<players>1-2</players>
-		<hash>62BBAE83</hash>
-		<image>./media/images/Super_Mario_Bros._Deluxe.png</image>
-		<video>./media/videos/Super_Mario_Bros._Deluxe.mp4</video>
-		<genreid>257</genreid>
-	</game>
 	<game id="37208" source="ScreenScraper.fr">
 		<path>./Tetris_DX.gbc</path>
 		<name>Tetris DX</name>
@@ -132,7 +112,29 @@ Tetris DX features 4 one-player modes and two-player mode using the Universal Ga
 		<developer>Nintendo EAD</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Role playing games-Adventure</genre>
+		<favorite>true</favorite>
 		<playcount>4</playcount>
 		<lastplayed>20210618T133225</lastplayed>
+	</game>
+	<game>
+		<path>./Super_Mario_Bros._Deluxe.gbc</path>
+		<name>Super Mario Bros. Deluxe</name>
+		<desc>The Mushroom Kingdom has been invaded by the Koopa, a tribe of turtles who possess dark magic. Their king Bowser has transformed all its inhabitants into stones, bricks, and mushrooms; he has also captured Princess Toadstool. She is the only one who can break the evil spell.
+Imprisoned in a castle deep in Bowser's new found kingdom, Mario, a humble plumber, hears of the tragedy and sets out to free her.
+
+Run, jump, and throw fireballs to defeat the evil Bowser and his minions.
+
+The game features the original 1985 game, a challenge mode, and versus game option. Also included are records, an album, and a toy box.</desc>
+		<image>./media/images/Super_Mario_Bros._Deluxe.png</image>
+		<video>./media/videos/Super_Mario_Bros._Deluxe.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19990501T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20210714T085145</lastplayed>
 	</game>
 </gameList>
