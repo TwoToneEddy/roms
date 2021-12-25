@@ -23,21 +23,6 @@ The worlds in Banjo-Kazooie are gigantic, and chock full of crazy items to colle
 		<video>./media/videos/Banjo and Kazu's Big Adventure.mp4</video>
 		<genreid>257</genreid>
 	</game>
-	<game id="5395" source="ScreenScraper.fr">
-		<path>./The Legend of Zelda-Ocarina of Time.z64</path>
-		<name>The Legend of Zelda : Ocarina of Time</name>
-		<desc>Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule. He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce. As the young hero Link, it is your destiny to thwart Ganondorf's evil schemes. Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora's Domain. Before you complete this epic quest, you'll delve into deadly dungeons, collect weapons of great power and learn the spells you need to conquer the most irresistible force of all-time.</desc>
-		<rating>0.95</rating>
-		<releasedate>19981123T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Action / Adventure-Role playing games</genre>
-		<players>1</players>
-		<hash>346DE3AE</hash>
-		<image>./media/images/The Legend of Zelda-Ocarina of Time.png</image>
-		<video>./media/videos/The Legend of Zelda-Ocarina of Time.mp4</video>
-		<genreid>256</genreid>
-	</game>
 	<game>
 		<path>./Mario Kart.v64</path>
 		<name>Mario Kart 64</name>
@@ -66,7 +51,21 @@ The game offers two camera angles and three engine sizes: 50cc, 100cc and 150cc.
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Platform-Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20210816T115550</lastplayed>
+		<playcount>2</playcount>
+		<lastplayed>20211225T121022</lastplayed>
+	</game>
+	<game>
+		<path>./The Legend of Zelda-Ocarina of Time.z64</path>
+		<name>The Legend of Zelda : Ocarina of Time</name>
+		<desc>Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule. He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce. As the young hero Link, it is your destiny to thwart Ganondorf's evil schemes. Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora's Domain. Before you complete this epic quest, you'll delve into deadly dungeons, collect weapons of great power and learn the spells you need to conquer the most irresistible force of all-time.</desc>
+		<image>./media/images/The Legend of Zelda-Ocarina of Time.png</image>
+		<video>./media/videos/The Legend of Zelda-Ocarina of Time.mp4</video>
+		<rating>0.95</rating>
+		<releasedate>19981123T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Action / Adventure-Role playing games</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211225T120956</lastplayed>
 	</game>
 </gameList>
