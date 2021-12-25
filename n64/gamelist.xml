@@ -67,4 +67,10 @@ The game offers two camera angles and three engine sizes: 50cc, 100cc and 150cc.
 		<playcount>6</playcount>
 		<lastplayed>20211225T130349</lastplayed>
 	</game>
+	<game>
+		<path>./Diddy Kong Racing.z64</path>
+		<name>Diddy Kong Racing</name>
+		<playcount>1</playcount>
+		<lastplayed>20211225T131424</lastplayed>
+	</game>
 </gameList>
