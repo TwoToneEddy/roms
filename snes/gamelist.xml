@@ -259,8 +259,8 @@ The game is closely connected to and often regarded as a part of a trilogy creat
 		<developer>Quintet</developer>
 		<publisher>Enix</publisher>
 		<genre>Action / Adventure-Action-Role playing games</genre>
-		<playcount>2</playcount>
-		<lastplayed>20211125T192046</lastplayed>
+		<playcount>4</playcount>
+		<lastplayed>20220202T210155</lastplayed>
 	</game>
 	<game>
 		<path>./Chrono_Trigger.zip</path>
@@ -279,7 +279,7 @@ The game allows you to face your ultimate adversary at different points of time,
 		<developer>Square</developer>
 		<publisher>Square</publisher>
 		<genre>Role playing games</genre>
-		<playcount>5</playcount>
-		<lastplayed>20211202T193929</lastplayed>
+		<playcount>12</playcount>
+		<lastplayed>20220207T151145</lastplayed>
 	</game>
 </gameList>
