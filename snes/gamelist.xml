@@ -261,8 +261,8 @@ The game allows you to face your ultimate adversary at different points of time,
 		<developer>Square</developer>
 		<publisher>Square</publisher>
 		<genre>Role playing games</genre>
-		<playcount>14</playcount>
-		<lastplayed>20220207T152555</lastplayed>
+		<playcount>19</playcount>
+		<lastplayed>20220303T155749</lastplayed>
 	</game>
 	<game>
 		<path>./Terranigma.sfc</path>
@@ -279,7 +279,7 @@ The game is closely connected to and often regarded as a part of a trilogy creat
 		<developer>Quintet</developer>
 		<publisher>Enix</publisher>
 		<genre>Action / Adventure-Action-Role playing games</genre>
-		<playcount>5</playcount>
-		<lastplayed>20220207T152726</lastplayed>
+		<playcount>9</playcount>
+		<lastplayed>20220303T154305</lastplayed>
 	</game>
 </gameList>

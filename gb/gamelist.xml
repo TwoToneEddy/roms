@@ -1,410 +1,409 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0"?>
 <gameList>
-  <provider>
-    <System>Game Boy</System>
-    <software>Skraper</software>
-    <database>ScreenScraper.fr</database>
-    <web>http://www.screenscraper.fr</web>
-  </provider>
-  <game id="3324" source="ScreenScraper.fr">
-    <path>./Contra-The_Alien_Wars.gb</path>
-    <name>Contra : The Alien Wars</name>
-    <desc>Welcome to 2636 the year the notorious Red Falcon gets even-with an unprecedented alien onslaught orchestrated to push the Contra forces to their ultimate reaches. 
+	<provider>
+		<System>Game Boy</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="3324" source="ScreenScraper.fr">
+		<path>./Contra-The_Alien_Wars.gb</path>
+		<name>Contra : The Alien Wars</name>
+		<desc>Welcome to 2636 the year the notorious Red Falcon gets even-with an unprecedented alien onslaught orchestrated to push the Contra forces to their ultimate reaches. 
  
 Plunge through a molten massacre on a high speed voyage to the guts of the archenemy alien. Check out the side and top perspectives that engulf you in a 3-D sensation. Pick off solar slimedogs while you scale over walls swing from girders and ropes whatever it takes to defeat Red Falcon's allies. Sweat through five gut-splitting stages including the Streets of the Neo City and the Mucho Grande Badlands. 
  
 The intensity is so real that the explosions will nearly knock you off your feet. And the Boss Enemies are so gigantic, your screen can hardly hold them. You'll need to wrap both hands around artillery powerful enough to make today's weapons look like squirt guns. Tbe Contra legacy is alive and dangerous.</desc>
-    <rating>0.75</rating>
-    <releasedate>19940923T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Shooter-Shooter / Run and Gun-Shoot'em Up-Shoot'em up / Horizontal-Action</genre>
-    <players>1</players>
-    <hash>F1C81EB0</hash>
-    <image>./media/images/Contra-The_Alien_Wars.png</image>
-    <video>./media/videos/Contra-The_Alien_Wars.mp4</video>
-    <genreid>258</genreid>
-  </game>
-  <game id="3324" source="ScreenScraper.fr">
-    <path>./Contra_Spirits.gb</path>
-    <name>Contra Spirits</name>
-    <desc>Welcome to 2636 the year the notorious Red Falcon gets even-with an unprecedented alien onslaught orchestrated to push the Contra forces to their ultimate reaches. 
+		<rating>0.75</rating>
+		<releasedate>19940923T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter-Shooter / Run and Gun-Shoot'em Up-Shoot'em up / Horizontal-Action</genre>
+		<players>1</players>
+		<hash>F1C81EB0</hash>
+		<image>./media/images/Contra-The_Alien_Wars.png</image>
+		<video>./media/videos/Contra-The_Alien_Wars.mp4</video>
+		<genreid>258</genreid>
+	</game>
+	<game id="3324" source="ScreenScraper.fr">
+		<path>./Contra_Spirits.gb</path>
+		<name>Contra Spirits</name>
+		<desc>Welcome to 2636 the year the notorious Red Falcon gets even-with an unprecedented alien onslaught orchestrated to push the Contra forces to their ultimate reaches. 
  
 Plunge through a molten massacre on a high speed voyage to the guts of the archenemy alien. Check out the side and top perspectives that engulf you in a 3-D sensation. Pick off solar slimedogs while you scale over walls swing from girders and ropes whatever it takes to defeat Red Falcon's allies. Sweat through five gut-splitting stages including the Streets of the Neo City and the Mucho Grande Badlands. 
  
 The intensity is so real that the explosions will nearly knock you off your feet. And the Boss Enemies are so gigantic, your screen can hardly hold them. You'll need to wrap both hands around artillery powerful enough to make today's weapons look like squirt guns. Tbe Contra legacy is alive and dangerous.</desc>
-    <rating>0.75</rating>
-    <releasedate>19940923T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Shooter-Shooter / Run and Gun-Shoot'em Up-Shoot'em up / Horizontal-Action</genre>
-    <players>1</players>
-    <hash>7FC22DF5</hash>
-    <image>./media/images/Contra_Spirits.png</image>
-    <video>./media/videos/Contra-The_Alien_Wars.mp4</video>
-    <genreid>258</genreid>
-  </game>
-  <game id="3043" source="ScreenScraper.fr">
-    <path>./Donkey_Kong_Land_2.gb</path>
-    <name>Donkey Kong Land 2</name>
-    <desc>In Donkey Kong Land 2, Donkey Kong has been captured by the evil Kaptain K. Rool, leaving it up to Diddy and Dixie Kong to save the day in this side-scrolling adventure. Fortunately, they will have plenty of help along the way from their friends.
+		<rating>0.75</rating>
+		<releasedate>19940923T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter-Shooter / Run and Gun-Shoot'em Up-Shoot'em up / Horizontal-Action</genre>
+		<players>1</players>
+		<hash>7FC22DF5</hash>
+		<image>./media/images/Contra_Spirits.png</image>
+		<video>./media/videos/Contra-The_Alien_Wars.mp4</video>
+		<genreid>258</genreid>
+	</game>
+	<game id="3043" source="ScreenScraper.fr">
+		<path>./Donkey_Kong_Land_2.gb</path>
+		<name>Donkey Kong Land 2</name>
+		<desc>In Donkey Kong Land 2, Donkey Kong has been captured by the evil Kaptain K. Rool, leaving it up to Diddy and Dixie Kong to save the day in this side-scrolling adventure. Fortunately, they will have plenty of help along the way from their friends.
 
 Like the original Donkey Kong Land, all the graphics in this game are pre-rendered three dimensional models. The gameplay is also similar, with platform jumping and banana collecting remaining a core part of the game experience.</desc>
-    <rating>0.75</rating>
-    <releasedate>19960902T000000</releasedate>
-    <developer>Rareware</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Platform-Action</genre>
-    <players>1</players>
-    <hash>2827E5D4</hash>
-    <image>./media/images/Donkey_Kong_Land_2.png</image>
-    <video>./media/videos/Donkey_Kong_Land_2.mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="3148" source="ScreenScraper.fr">
-    <path>./Donkey_Kong_Land_3.gb</path>
-    <name>Donkey Kong Land III</name>
-    <desc>DK and Diddy Kong have left in search of The Lost World after hearing of a contest to find it on the radio.  This leaves Dixie stuck with minding her baby cousin Kiddy Kong.  Frustrated at this, she decides to take Kiddy with her and find The Lost World before everyone else!
+		<rating>0.75</rating>
+		<releasedate>19960902T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform-Action</genre>
+		<players>1</players>
+		<hash>2827E5D4</hash>
+		<image>./media/images/Donkey_Kong_Land_2.png</image>
+		<video>./media/videos/Donkey_Kong_Land_2.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="3148" source="ScreenScraper.fr">
+		<path>./Donkey_Kong_Land_3.gb</path>
+		<name>Donkey Kong Land III</name>
+		<desc>DK and Diddy Kong have left in search of The Lost World after hearing of a contest to find it on the radio.  This leaves Dixie stuck with minding her baby cousin Kiddy Kong.  Frustrated at this, she decides to take Kiddy with her and find The Lost World before everyone else!
 
 As with Donkey Kong Country 3: Dixie Kong's Double Trouble!, Dixie Kong takes the lead in the third chapter of the Donkey Kong Land series. Dixie can glide using her hair, and carries barrels over her head.  Her partner is the heavy Kiddy, who carries barrels in front of him, and can jump a bit further by somersaulting over platform edges first.
 
 There are also special animal friends that can help the two primates out.  Ellie the Elephant can shoot water at enemies, while Enguarde the Swordfish can glide through water with ease. Squawks the Parrot can fly and spit eggs, and Squitter the Spider can shoot webbing as well as use it to create new platforms.
 
 Each level has Bonus Coins and DK Coins tucked well away in the levels.  While it's possible to gain an ending without these, to complete the game properly, players must seek them all out and unlock levels of the fabled 'Lost World'.  A new feature to the game series is a Time Attack mode - once players finish the game, they can attempt to beat the best time for certain levels.</desc>
-    <rating>0.6</rating>
-    <releasedate>19971001T000000</releasedate>
-    <developer>Rareware</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Platform-Action</genre>
-    <players>1</players>
-    <hash>B40C159C</hash>
-    <image>./media/images/Donkey_Kong_Land_3.png</image>
-    <video>./media/videos/Donkey_Kong_Land_3.mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="3016" source="ScreenScraper.fr">
-    <path>./Donkey_Kong_Land.gb</path>
-    <name>Donkey Kong Land</name>
-    <desc>In a modifiication of Donkey Kong Country, Donkey Kong teams up with his buddy Diddy for new adventures and gorilla antics. Facing high-flying pigs, killer bees, and reptilian Kremlings, the simian duo swings back into action on the Game Boy.  
+		<rating>0.6</rating>
+		<releasedate>19971001T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform-Action</genre>
+		<players>1</players>
+		<hash>B40C159C</hash>
+		<image>./media/images/Donkey_Kong_Land_3.png</image>
+		<video>./media/videos/Donkey_Kong_Land_3.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="3016" source="ScreenScraper.fr">
+		<path>./Donkey_Kong_Land.gb</path>
+		<name>Donkey Kong Land</name>
+		<desc>In a modifiication of Donkey Kong Country, Donkey Kong teams up with his buddy Diddy for new adventures and gorilla antics. Facing high-flying pigs, killer bees, and reptilian Kremlings, the simian duo swings back into action on the Game Boy.  
  
 The two Kongs each have similar abilities when compared to the SNES game. 
   
 This game isn't exactly a remake of DKC; for instance, there are new levels and enemies, and Candy Kong does not save your game: instead you must collect all four Kong letters.</desc>
-    <rating>0.75</rating>
-    <releasedate>19950602T000000</releasedate>
-    <developer>Rareware</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Platform</genre>
-    <players>1</players>
-    <hash>49DC0D37</hash>
-    <image>./media/images/Donkey_Kong_Land.png</image>
-    <video>./media/videos/Donkey_Kong_Land.mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="3088" source="ScreenScraper.fr">
-    <path>./Donkey_Kong.gb</path>
-    <name>Donkey Kong</name>
-    <desc>Donkey Kong's adventures continue with new tricks and traps for Mario! 
+		<rating>0.75</rating>
+		<releasedate>19950602T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<hash>49DC0D37</hash>
+		<image>./media/images/Donkey_Kong_Land.png</image>
+		<video>./media/videos/Donkey_Kong_Land.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="3088" source="ScreenScraper.fr">
+		<path>./Donkey_Kong.gb</path>
+		<name>Donkey Kong</name>
+		<desc>Donkey Kong's adventures continue with new tricks and traps for Mario! 
  
 Donkey Kong returns to Game Boy! This famous ape has kidnapped Pauline and climbed to the top of a perilous skyscraper. Challenged by many perils and unending puzzles, Mario must reach his arch rival. As he makes his way Mario will need to gather disappearing keys to unlock doors of hidden rooms. Donkey Kong devises evil tricks to confuse and trap him. Our heroic plumber has his hands full this time! 
  
 - Classic arcade fun with 10 stages and 100 advanced puzzles 
 - Thrilling new adventure elements for added excitement 
 - 4 megabyte game contains a battery back-up</desc>
-    <rating>0.8</rating>
-    <releasedate>19940621T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-    <hash>F777A5D8</hash>
-    <image>./media/images/Donkey_Kong.png</image>
-    <video>./media/videos/Donkey_Kong.mp4</video>
-    <genreid>256</genreid>
-  </game>
-  <game id="3298" source="ScreenScraper.fr">
-    <path>./Double_Dragon_3.gb</path>
-    <name>Double Dragon 3 : The Arcade Game</name>
-    <desc>Billy and Jimmy Lee are back in the greatest Double Dragon arcade challenge ever: the quest for the Rosetta Stones! 
+		<rating>0.8</rating>
+		<releasedate>19940621T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<hash>F777A5D8</hash>
+		<image>./media/images/Donkey_Kong.png</image>
+		<video>./media/videos/Donkey_Kong.mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game id="3298" source="ScreenScraper.fr">
+		<path>./Double_Dragon_3.gb</path>
+		<name>Double Dragon 3 : The Arcade Game</name>
+		<desc>Billy and Jimmy Lee are back in the greatest Double Dragon arcade challenge ever: the quest for the Rosetta Stones! 
  
 Defeat ruthless Japanese Ninja with all-new martial arts maneuvers like the Spinning Cyclone, Flying Knee Drop and more! Crush the treacherous foes of China's dark forests with your lethal Nunchakus! Ravage Rome's merciless archers with your Warrior Sword! 
  
 But beware! In Egypt, supernatural guardians challenge the bravest souls in the martial arts arcade adventure of a lifetime!</desc>
-    <rating>0.2</rating>
-    <releasedate>19920101T000000</releasedate>
-    <developer>Tecmo</developer>
-    <publisher>Acclaim</publisher>
-    <genre>Beat'em Up</genre>
-    <players>1-2</players>
-    <hash>FC970AEF</hash>
-    <image>./media/images/Double_Dragon_3.png</image>
-    <video>./media/videos/Double_Dragon_3.mp4</video>
-    <genreid>263</genreid>
-  </game>
-  <game id="3123" source="ScreenScraper.fr">
-    <path>./Double_Dragon_2.gb</path>
-    <name>Double Dragon II : The Revenge</name>
-    <desc>The lovely Marian was rescued from the clutches of the Black Warriors gang by Billy &amp; Jimmy Lee in the first Double Dragon game, but now the gang has killed her in retaliation of their early defeat. The Dragons must now embark on a mission to avenge her death and defeat the Black Warriors for the second and final time.
+		<rating>0.2</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+		<hash>FC970AEF</hash>
+		<image>./media/images/Double_Dragon_3.png</image>
+		<video>./media/videos/Double_Dragon_3.mp4</video>
+		<genreid>263</genreid>
+	</game>
+	<game id="3123" source="ScreenScraper.fr">
+		<path>./Double_Dragon_2.gb</path>
+		<name>Double Dragon II : The Revenge</name>
+		<desc>The lovely Marian was rescued from the clutches of the Black Warriors gang by Billy &amp; Jimmy Lee in the first Double Dragon game, but now the gang has killed her in retaliation of their early defeat. The Dragons must now embark on a mission to avenge her death and defeat the Black Warriors for the second and final time.
 
 The original arcade version of "Double Dragon II" was essentially an improved version of the first game. In addition to offering renewed audio and visuals, as well as new traps, moves and enemy characters, "Double Dragon II" discarded the conventional punch and kick buttons in favor of a direction-oriented attacking system similar to the original Technos beat-em-up Renegade.
 
 The NES version offered new stages, new moves and illustrated cut-scenes, as well as a new final boss and a new ending. Unlike the first NES game, it offered 2-Player Co-Op gameplay with the option to turn off the friendly fire.
 
 The Game Boy version of "Double Dragon II" is an English localization of a "Kunio-kun" game (the Japanese franchise which inspired "Renegade" and "River City Ransom" and has nothing to do with the arcade and NES versions. </desc>
-    <rating>0.75</rating>
-    <releasedate>19911202T000000</releasedate>
-    <developer>Tecmo</developer>
-    <publisher>Acclaim</publisher>
-    <genre>Beat'em Up</genre>
-    <players>1-2</players>
-    <hash>5B96E474</hash>
-    <image>./media/images/Double_Dragon_2.png</image>
-    <video>./media/videos/Double_Dragon_2.mp4</video>
-    <genreid>263</genreid>
-  </game>
-  <game id="3044" source="ScreenScraper.fr">
-    <path>./Double_Dragon.gb</path>
-    <name>Double Dragon</name>
-    <desc>Set in a post-apocalyptic New York, Double Dragon is the story of Billy and Jimmy Lee, twin brothers trained in the fighting style of Sou-Setsu-Ken. Together, they manage a small martial arts training school, teaching their students in self-defense. One day, Billy's girlfriend, Marian, is kidnapped off the street by the "Black Warriors", a savage street gang led by a man named Willy. The Black Warriors demand the Lee brothers disclose their martial arts secrets in exchange for Marian's freedom. The Lee brothers set out on a rescue mission to crush the Black Warriors and save Marian.
+		<rating>0.75</rating>
+		<releasedate>19911202T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+		<hash>5B96E474</hash>
+		<image>./media/images/Double_Dragon_2.png</image>
+		<video>./media/videos/Double_Dragon_2.mp4</video>
+		<genreid>263</genreid>
+	</game>
+	<game id="3044" source="ScreenScraper.fr">
+		<path>./Double_Dragon.gb</path>
+		<name>Double Dragon</name>
+		<desc>Set in a post-apocalyptic New York, Double Dragon is the story of Billy and Jimmy Lee, twin brothers trained in the fighting style of Sou-Setsu-Ken. Together, they manage a small martial arts training school, teaching their students in self-defense. One day, Billy's girlfriend, Marian, is kidnapped off the street by the "Black Warriors", a savage street gang led by a man named Willy. The Black Warriors demand the Lee brothers disclose their martial arts secrets in exchange for Marian's freedom. The Lee brothers set out on a rescue mission to crush the Black Warriors and save Marian.
 
 Using whatever techniques they have at their disposal, from the basic punches and kicks to the invulnerable elbow strike, as well any weapon that comes into their hands, the Lee brothers must pursue the gang through the city slum, industrial area and the forest before reaching their hideout to confront the big boss, Willy.
 
 The NES version of this game also has an additional VS. fighting mode for one or two players. Players choose from a field of six different characters (Billy and 5 of the enemy characters) and enter into a one-on-one fighting match. Players have to punch, kick, jumpkick, and even use a weapon against their opponents until someone's health bar is fully drained. The winner is the last one standing.</desc>
-    <rating>0.65</rating>
-    <releasedate>19900720T000000</releasedate>
-    <developer>Technos Japan Corp.</developer>
-    <publisher>Tradewest</publisher>
-    <genre>Beat'em Up-Action-Sports</genre>
-    <players>1-2</players>
-    <hash>40A8BF12</hash>
-    <image>./media/images/Double_Dragon.png</image>
-    <video>./media/videos/Double_Dragon.mp4</video>
-    <genreid>263</genreid>
-  </game>
-  <game id="3023" source="ScreenScraper.fr">
-    <path>./Kirbys_Dream_Land_2.gb</path>
-    <name>Hoshi no Kirby 2</name>
-    <desc>The lovable Kirby returns to the Game Boy! This time the bridges connecting the rainbow bridges have disappeared and King Dedede is to blame as always...or is he? The evil Dark Matter has him under his control and plans to turn Dream Land into a dark world. Kirby's goal is get the fabled rainbow sword and defeat him! 
+		<rating>0.65</rating>
+		<releasedate>19900720T000000</releasedate>
+		<developer>Technos Japan Corp.</developer>
+		<publisher>Tradewest</publisher>
+		<genre>Beat'em Up-Action-Sports</genre>
+		<players>1-2</players>
+		<hash>40A8BF12</hash>
+		<image>./media/images/Double_Dragon.png</image>
+		<video>./media/videos/Double_Dragon.mp4</video>
+		<genreid>263</genreid>
+	</game>
+	<game id="3023" source="ScreenScraper.fr">
+		<path>./Kirbys_Dream_Land_2.gb</path>
+		<name>Hoshi no Kirby 2</name>
+		<desc>The lovable Kirby returns to the Game Boy! This time the bridges connecting the rainbow bridges have disappeared and King Dedede is to blame as always...or is he? The evil Dark Matter has him under his control and plans to turn Dream Land into a dark world. Kirby's goal is get the fabled rainbow sword and defeat him! 
  
 Gameplay consists of a platform game. Kirby is like no other platform character of its time because he can fly with no power-ups, and he can swallow enemies and get their powers. In addition to that, Kirby can now team up with his friends: Rick the hamster, Kine the fish, and Coo the owl. Each team-up has it's advantages and disadvantages, but Kirby can still swallow enemies, making more different powers available depending on the power/friend combination.</desc>
-    <rating>0.8</rating>
-    <releasedate>19950321T000000</releasedate>
-    <developer>HAL Laboratory</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Platform-Action</genre>
-    <players>1</players>
-    <hash>8DC07C35</hash>
-    <image>./media/images/Kirbys_Dream_Land_2.png</image>
-    <video>./media/videos/Kirbys_Dream_Land_2.mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="3057" source="ScreenScraper.fr">
-    <path>./Lemmings.gb</path>
-    <name>Lemmings</name>
-    <desc>Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.
-
-You are in control not of any individual Lemming, but of a cross-hair, which can be moved over any of the Lemmings. Along the bottom are a selection of functions which can be assigned to a Lemming, including climbing, floating and bashing. You must click to select the appropriate function, then click on the Lemming to activate it. Each level has a different range of skills on offer, a different amount of Lemmings, and a different percentage target in order to progress.</desc>
-    <rating>0.6</rating>
-    <releasedate>19930101T000000</releasedate>
-    <developer>DMA Design Limited</developer>
-    <publisher>Ocean</publisher>
-    <genre>Strategy-Puzzle-Game</genre>
-    <players>1</players>
-    <hash>F2D1C19D</hash>
-    <image>./media/images/Lemmings.png</image>
-    <video>./media/videos/Lemmings.mp4</video>
-    <genreid>1280</genreid>
-  </game>
-  <game id="3103" source="ScreenScraper.fr">
-    <path>./Mega_Man_1.gb</path>
-    <name>Mega Man : Dr. Wily's Revenge</name>
-    <desc>Mega Man is the robot creation of Dr. Light, whose sworn archenemy Dr. Wily spends innumerable games trying to cause trouble with his own odd robots. As Mega Man, you run and jump through futuristic levels, shooting baddies with your blaster, and defeat each of Dr. Wily's Robot Masters. When you defeat them, you can take their ability as your own, which can provide an advantage against other types of evil robots.
+		<rating>0.8</rating>
+		<releasedate>19950321T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform-Action</genre>
+		<players>1</players>
+		<hash>8DC07C35</hash>
+		<image>./media/images/Kirbys_Dream_Land_2.png</image>
+		<video>./media/videos/Kirbys_Dream_Land_2.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="3103" source="ScreenScraper.fr">
+		<path>./Mega_Man_1.gb</path>
+		<name>Mega Man : Dr. Wily's Revenge</name>
+		<desc>Mega Man is the robot creation of Dr. Light, whose sworn archenemy Dr. Wily spends innumerable games trying to cause trouble with his own odd robots. As Mega Man, you run and jump through futuristic levels, shooting baddies with your blaster, and defeat each of Dr. Wily's Robot Masters. When you defeat them, you can take their ability as your own, which can provide an advantage against other types of evil robots.
 
 In this Game Boy version, Mega Man must fight against Ice Man, Electric Man, Cut Man, and Fire Man. After he defeats those four he battles Quick Man, Heat Man, Bubble Man, and Flash Man. And after that, there's Dr. Wily's Space Node. That sounds like a lot, but passwords will save your progress, if you make it past certain milestones. </desc>
-    <rating>0.8</rating>
-    <releasedate>19911202T000000</releasedate>
-    <developer>Capcom</developer>
-    <publisher>Capcom</publisher>
-    <genre>Platform-Action</genre>
-    <players>1</players>
-    <hash>47E70E08</hash>
-    <image>./media/images/Mega_Man_1.png</image>
-    <video>./media/videos/Mega_Man_1.mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="3156" source="ScreenScraper.fr">
-    <path>./Mega_Man_2.gb</path>
-    <name>Mega Man II</name>
-    <desc>After defeating Dr. Light's six robots that were reprogrammed by the villainous Dr. Wily in Mega Man, it seemed like the world was safe.  But it was not to be.  Dr. Wily has escaped from prison and is madder than ever, this time creating eight new Robot Masters of his own to take over the world and crush Mega Man!  Is the world doomed?
+		<rating>0.8</rating>
+		<releasedate>19911202T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform-Action</genre>
+		<players>1</players>
+		<hash>47E70E08</hash>
+		<image>./media/images/Mega_Man_1.png</image>
+		<video>./media/videos/Mega_Man_1.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="3156" source="ScreenScraper.fr">
+		<path>./Mega_Man_2.gb</path>
+		<name>Mega Man II</name>
+		<desc>After defeating Dr. Light's six robots that were reprogrammed by the villainous Dr. Wily in Mega Man, it seemed like the world was safe.  But it was not to be.  Dr. Wily has escaped from prison and is madder than ever, this time creating eight new Robot Masters of his own to take over the world and crush Mega Man!  Is the world doomed?
 
 Mega Man 2 is the sequel to the NES game Mega Man. In this game, Metal Man, Air Man, Bubble Man, Quick Man, Crash Man, Flash Man, Heat Man and Wood Man are Dr. Wily's eight prize creations that have been sent to take over the world.  As Mega Man defeats these bosses, he can steal their powers and use them for himself.  Each Robot Master is weak against another's weapon, and through experimentation, Mega Man can gain the upper hand by using the weapon they're vulnerable against.
 
 Other additions to the game include the 'E-Tank' - an item that can be used at any time to completely refill Mega Man's energy, and a Password System, which allows players to continue their game by recording which Robot Masters have been defeated and how many E-Tanks they have.  Mega Man 2 also removes the scoring system from the original game.</desc>
-    <rating>0.65</rating>
-    <releasedate>19920102T000000</releasedate>
-    <developer>Capcom</developer>
-    <publisher>Capcom</publisher>
-    <genre>Platform-Action</genre>
-    <players>1</players>
-    <hash>E496F686</hash>
-    <image>./media/images/Mega_Man_2.png</image>
-    <video>./media/videos/Mega_Man_2.mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="3269" source="ScreenScraper.fr">
-    <path>./Mega_Man_4.gb</path>
-    <name>Mega Man IV</name>
-    <desc>In the year 20XX...
+		<rating>0.65</rating>
+		<releasedate>19920102T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform-Action</genre>
+		<players>1</players>
+		<hash>E496F686</hash>
+		<image>./media/images/Mega_Man_2.png</image>
+		<video>./media/videos/Mega_Man_2.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="3269" source="ScreenScraper.fr">
+		<path>./Mega_Man_4.gb</path>
+		<name>Mega Man IV</name>
+		<desc>In the year 20XX...
 
 Dr. Wily has broken into the local Robot Museum and has stolen the bodies of his previously destroyed Robot Masters, and now has brought them back for revenge against Mega Man! What's worse, Wily plans on using a massive laser cannon from outer space to blast Earth to dust!
 
 Mega Man must team up with his friends to stop Dr. Wily before Earth is destroyed!
 
 Mega Man IV contains elements of Mega Man 4 and 5 (NES) and is a Game Boy exclusive.</desc>
-    <rating>0.85</rating>
-    <releasedate>19930101T000000</releasedate>
-    <developer>Capcom</developer>
-    <publisher>Capcom</publisher>
-    <genre>Platform-Action-Shoot'em Up</genre>
-    <players>1</players>
-    <hash>ABCEA00D</hash>
-    <image>./media/images/Mega_Man_4.png</image>
-    <video>./media/videos/Mega_Man_4.mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="3135" source="ScreenScraper.fr">
-    <path>./Mega_Man_5.gb</path>
-    <name>Mega Man V</name>
-    <desc>Dr. Cossack, humbled by his defeat and his allowing of Dr. Wily to influence his ways, decides to help Dr. Light by providing him and Rockman with tools and weapons to help foil Dr. Wily for good. All seems calm and peaceful, until...
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform-Action-Shoot'em Up</genre>
+		<players>1</players>
+		<hash>ABCEA00D</hash>
+		<image>./media/images/Mega_Man_4.png</image>
+		<video>./media/videos/Mega_Man_4.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="3135" source="ScreenScraper.fr">
+		<path>./Mega_Man_5.gb</path>
+		<name>Mega Man V</name>
+		<desc>Dr. Cossack, humbled by his defeat and his allowing of Dr. Wily to influence his ways, decides to help Dr. Light by providing him and Rockman with tools and weapons to help foil Dr. Wily for good. All seems calm and peaceful, until...
 
 A sudden rampage breaks out, and the cause is found to be a group of robots, led by a mysterious figure. As Dr. Light begins to investigate this rampage and attempts to find a way to stop it, he is kidnapped by the leader of the robots. Rockman hurries to save Dr. Light, but is too late...the only thing he can find at the scene is a yellow scarf...one that almost seems to belong to...Blues!?
 
 Could Rockman's supposed brother, the strange but good-hearted Blues, be the one who kidnapped Dr. Light? Is Blues the one responsible for the rampages? With these questions racing through his mind, Rockman sets off to find Blues and get the answers he wants.
 
 Like the other early Rockman / Mega Man games, the Playstation version was only released in Japan, as part of the Complete Works series.</desc>
-    <rating>0.95</rating>
-    <releasedate>19940910T000000</releasedate>
-    <developer>Capcom</developer>
-    <publisher>Capcom</publisher>
-    <genre>Platform-Action-Shoot'em Up</genre>
-    <players>1</players>
-    <hash>72E6D21D</hash>
-    <image>./media/images/Mega_Man_5.png</image>
-    <video>./media/videos/Mega_Man_5.mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="0" source="ScreenScraper.fr">
-    <path>./Mega_Man_3.gb</path>
-    <name>Mega_Man_3</name>
-    <desc />
-    <releasedate />
-    <developer />
-    <publisher />
-    <genre />
-    <players />
-  </game>
-  <game id="3129" source="ScreenScraper.fr">
-    <path>./Pac-Man.gb</path>
-    <name>Pac-Man</name>
-    <desc>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board.
+		<rating>0.95</rating>
+		<releasedate>19940910T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform-Action-Shoot'em Up</genre>
+		<players>1</players>
+		<hash>72E6D21D</hash>
+		<image>./media/images/Mega_Man_5.png</image>
+		<video>./media/videos/Mega_Man_5.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Mega_Man_3.gb</path>
+		<name>Mega_Man_3</name>
+		<desc />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="3129" source="ScreenScraper.fr">
+		<path>./Pac-Man.gb</path>
+		<name>Pac-Man</name>
+		<desc>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board.
 
 Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bashful (Inky), the trailing red ghost Shadow (Blinky), the fast pink ghost Speedy (Pinky), and the forgetful orange ghost Pokey (Clyde).  One touch from any of these ghosts means a loss of life for Pac-Man.
 
 Pac-Man can turn the tables on his pursuers by eating of the four Energizers located within the maze.  During this time, the ghosts turn blue, and Pac-Man can eat them for bonus points.  This only lasts for a limited amount of time, as the ghosts' eyes float back to their center box, and regenerate to chase after Pac-Man again.
 
 Survive a few rounds of gameplay, and be treated to humorous intermissions between Pac-Man and the ghosts.</desc>
-    <rating>0.8</rating>
-    <releasedate>19910402T000000</releasedate>
-    <developer>Namco</developer>
-    <publisher>Namco</publisher>
-    <genre>Action / Labyrinth-Action-Puzzle-Game</genre>
-    <players>1-2</players>
-    <hash>0509069C</hash>
-    <image>./media/images/Pac-Man.png</image>
-    <video>./media/videos/Pac-Man.mp4</video>
-    <genreid>258</genreid>
-  </game>
-  <game id="2964" source="ScreenScraper.fr">
-    <path>./Super_Mario_Land_2.gb</path>
-    <name>Super Mario Land 2 : 6 Golden Coins</name>
-    <desc>Second in the Game Boy's line of Mario games, this one takes the evolutionary steps that Super Mario 3 for the NES took with it's predecessors. New graphics, power-ups, challenges, and a completely original storyline. A bad version of Mario, Wario, takes over Mario's castle and locks him out using 6 golden coins. Mario must search for said coins all over Mario Land to take back his castle and go one-on-one with Wario himself. </desc>
-    <rating>0.9</rating>
-    <releasedate>19921102T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Platform</genre>
-    <players>1</players>
-    <hash>E6F886E5</hash>
-    <image>./media/images/Super_Mario_Land_2.png</image>
-    <video>./media/videos/Super_Mario_Land_2.mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="2970" source="ScreenScraper.fr">
-    <path>./Super_Mario_Land.gb</path>
-    <name>Super Mario Land</name>
-    <desc>Once upon a time, there was a peaceful world called Sarasaland. In this world there were 4 kingdoms named Birabuto, Muda, Easton and Chai. One day, the skies of Sarasaland were suddenly covered by a huge black cloud. From a crack in this cloud, the unknown space monster Tatanga emerged to try to conquer Sarasaland. Tatanga hypnotized the people of all the kingdoms so that he could control them in any way he liked. In this way he took over Sarasaland. Now, he wants to marry Princess Daisy of Sarasaland and make her his queen. Mario came to know of these events, and he has started on a journey to the Chai Kingdom where Princess Daisy is held captive, in order to restore peace to Sarasaland. Can Mario defeat Tatanga, release people from his interstellar hypnosis, and rescue Princess Daisy? It's all up to you and Mario's skill. Go for it Mario!</desc>
-    <rating>0.8</rating>
-    <releasedate>19890731T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Platform-Action</genre>
-    <players>1</players>
-    <hash>90776841</hash>
-    <image>./media/images/Super_Mario_Land.png</image>
-    <video>./media/videos/Super_Mario_Land.mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="37208" source="ScreenScraper.fr">
-    <path>./Tetris_DX.gb</path>
-    <name>Tetris DX</name>
-    <desc>Tetris DX requires you to place different shaped blocks which fall from the top of the screen, along the bottom of the screen to make up a line which then disappears from the screen. Watch out though, if you cant fill the gaps and the blocks fill up to the top of the screen the game is over.
+		<rating>0.8</rating>
+		<releasedate>19910402T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action / Labyrinth-Action-Puzzle-Game</genre>
+		<players>1-2</players>
+		<hash>0509069C</hash>
+		<image>./media/images/Pac-Man.png</image>
+		<video>./media/videos/Pac-Man.mp4</video>
+		<genreid>258</genreid>
+	</game>
+	<game id="2964" source="ScreenScraper.fr">
+		<path>./Super_Mario_Land_2.gb</path>
+		<name>Super Mario Land 2 : 6 Golden Coins</name>
+		<desc>Second in the Game Boy's line of Mario games, this one takes the evolutionary steps that Super Mario 3 for the NES took with it's predecessors. New graphics, power-ups, challenges, and a completely original storyline. A bad version of Mario, Wario, takes over Mario's castle and locks him out using 6 golden coins. Mario must search for said coins all over Mario Land to take back his castle and go one-on-one with Wario himself. </desc>
+		<rating>0.9</rating>
+		<releasedate>19921102T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<hash>E6F886E5</hash>
+		<image>./media/images/Super_Mario_Land_2.png</image>
+		<video>./media/videos/Super_Mario_Land_2.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="2970" source="ScreenScraper.fr">
+		<path>./Super_Mario_Land.gb</path>
+		<name>Super Mario Land</name>
+		<desc>Once upon a time, there was a peaceful world called Sarasaland. In this world there were 4 kingdoms named Birabuto, Muda, Easton and Chai. One day, the skies of Sarasaland were suddenly covered by a huge black cloud. From a crack in this cloud, the unknown space monster Tatanga emerged to try to conquer Sarasaland. Tatanga hypnotized the people of all the kingdoms so that he could control them in any way he liked. In this way he took over Sarasaland. Now, he wants to marry Princess Daisy of Sarasaland and make her his queen. Mario came to know of these events, and he has started on a journey to the Chai Kingdom where Princess Daisy is held captive, in order to restore peace to Sarasaland. Can Mario defeat Tatanga, release people from his interstellar hypnosis, and rescue Princess Daisy? It's all up to you and Mario's skill. Go for it Mario!</desc>
+		<rating>0.8</rating>
+		<releasedate>19890731T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform-Action</genre>
+		<players>1</players>
+		<hash>90776841</hash>
+		<image>./media/images/Super_Mario_Land.png</image>
+		<video>./media/videos/Super_Mario_Land.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="37208" source="ScreenScraper.fr">
+		<path>./Tetris_DX.gb</path>
+		<name>Tetris DX</name>
+		<desc>Tetris DX requires you to place different shaped blocks which fall from the top of the screen, along the bottom of the screen to make up a line which then disappears from the screen. Watch out though, if you cant fill the gaps and the blocks fill up to the top of the screen the game is over.
 
 Tetris DX features 4 one-player modes and two-player mode using the Universal Game Link Cable.</desc>
-    <rating>0.8</rating>
-    <releasedate>19981118T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Puzzle-Game</genre>
-    <players>1-2</players>
-    <hash>69989152</hash>
-    <image>./media/images/Tetris_DX.png</image>
-    <video>./media/videos/Tetris_DX.mp4</video>
-    <genreid>2816</genreid>
-  </game>
-  <game id="2967" source="ScreenScraper.fr">
-    <path>./The_Legend_of_Zelda-Links_Awakening.gb</path>
-    <name>The Legend of Zelda : Link's Awakening</name>
-    <desc>The fourth game in the Zelda series although it does not take place in Hyrule. After being attacked at sea, Link's ship sinks, and he finds himself stranded on Koholint Island. He awakens to see a beautiful woman looking down at him. He soon learns the island has a giant egg on top of a mountain that the Wind Fish inhabits deep inside. Link is told to "awaken the wind fish and all will be answered," so Link sets out on another quest.
+		<rating>0.8</rating>
+		<releasedate>19981118T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<hash>69989152</hash>
+		<image>./media/images/Tetris_DX.png</image>
+		<video>./media/videos/Tetris_DX.mp4</video>
+		<genreid>2816</genreid>
+	</game>
+	<game id="2967" source="ScreenScraper.fr">
+		<path>./The_Legend_of_Zelda-Links_Awakening.gb</path>
+		<name>The Legend of Zelda : Link's Awakening</name>
+		<desc>The fourth game in the Zelda series although it does not take place in Hyrule. After being attacked at sea, Link's ship sinks, and he finds himself stranded on Koholint Island. He awakens to see a beautiful woman looking down at him. He soon learns the island has a giant egg on top of a mountain that the Wind Fish inhabits deep inside. Link is told to "awaken the wind fish and all will be answered," so Link sets out on another quest.
 
 Play is similar to the SNES game with a top down perspective. Link must go onto each of the 7 temples to retrieve a musical instrument that will help awaken the Wind Fish. Along the way, Link must search the land and uncover hidden treasures and items that will allow him to progress on his journey. With new items, he can open up new passages that will take him even farther on his quest and allow him to enter new areas that were inaccessible before. Link can attack his enemies with his sword or use items he finds during his quest to help him. Guarding every instrument is a temple boss, which must be defeated if Link is to awaken the Wind Fish. </desc>
-    <rating>0.95</rating>
-    <releasedate>19931101T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <hash>34D08E7B</hash>
-    <image>./media/images/The_Legend_of_Zelda-Links_Awakening.png</image>
-    <video>./media/videos/The_Legend_of_Zelda-Links_Awakening.mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="2980" source="ScreenScraper.fr">
-    <path>./Super_Mario_Land_3-Wario_Land.gb</path>
-    <name>Wario Land : Super Mario Land 3</name>
-    <desc>Wario, Mario's greedy rival from Super Mario Land 2: 6 Golden Coins, is more determined than ever to get a castle after being booted out of Mario's.  He has heard that the pirates of Kitchen Island have a golden Statue of Princess Toadstool that's worth a king's ransom!  Wario figures that if he swipes the Princess' statue for himself, as well as all the other loot the pirates have hoarded, he'll have more than enough cash for a castle that's even bigger and better than Mario's!
+		<rating>0.95</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<hash>34D08E7B</hash>
+		<image>./media/images/The_Legend_of_Zelda-Links_Awakening.png</image>
+		<video>./media/videos/The_Legend_of_Zelda-Links_Awakening.mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="2980" source="ScreenScraper.fr">
+		<path>./Super_Mario_Land_3-Wario_Land.gb</path>
+		<name>Wario Land : Super Mario Land 3</name>
+		<desc>Wario, Mario's greedy rival from Super Mario Land 2: 6 Golden Coins, is more determined than ever to get a castle after being booted out of Mario's.  He has heard that the pirates of Kitchen Island have a golden Statue of Princess Toadstool that's worth a king's ransom!  Wario figures that if he swipes the Princess' statue for himself, as well as all the other loot the pirates have hoarded, he'll have more than enough cash for a castle that's even bigger and better than Mario's!
 
 Wario Land: Super Mario Land 3 is different from previous games in the series in that you control the brutish and greedy Wario.  Even when small, Wario can break most bricks with a punch, and some enemies are so weak to him that they'll just be pushed aside!  Wario has a body slam attack that he can use to destroy enemies, and he can also pick them up and throw them at his foes.  If that wasn't enough, there are three different power ups that Wario can find. The Bull Hat lets him plough through bricks in a single hit, ram his horns into the ceiling to hold onto it, and butt stomp to stun all enemies.  The Jet Hat allows him to fly horizontally for a short period of time, and increases his jump height and speed.  Finally, the Dragon Hat allows him to breathe a long stream of fire for a short period of time.
 
 To suit Wario's greedy nature, the game revolves around money.  Throughout the stages, you can earn coins by grabbing them floating in the air, punching them out of bricks, or by body slamming into foes and then collecting the coins they drop.  You can also find hidden treasures buried deep within some levels by finding a key and then throwing it at the skull door to unlock it.  Once Wario reaches the end of a level, he usually needs to pay a toll to get the end-of-level door to open.  Pressing Up on the Control Pad and B pulls out a coin worth 10 coins, which you must throw at the door.  Once the door opens, you can exit and the level is complete.  Before you finish each level, you can choose to play a mini-game that doubles or halves the amount of coins you have, with a 50/50 chance.  You get three tries, and can choose to leave whenever you wish...so don't get too greedy! </desc>
-    <rating>0.9</rating>
-    <releasedate>19940202T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Platform-Platform / Run Jump-Action</genre>
-    <players>1</players>
-    <hash>40BE3889</hash>
-    <image>./media/images/Super_Mario_Land_3-Wario_Land.png</image>
-    <video>./media/videos/Super_Mario_Land_3-Wario_Land.mp4</video>
-    <genreid>257</genreid>
-  </game>
+		<rating>0.9</rating>
+		<releasedate>19940202T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform-Platform / Run Jump-Action</genre>
+		<players>1</players>
+		<hash>40BE3889</hash>
+		<image>./media/images/Super_Mario_Land_3-Wario_Land.png</image>
+		<video>./media/videos/Super_Mario_Land_3-Wario_Land.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game>
+		<path>./Lemmings.gb</path>
+		<name>Lemmings</name>
+		<desc>Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.
+
+You are in control not of any individual Lemming, but of a cross-hair, which can be moved over any of the Lemmings. Along the bottom are a selection of functions which can be assigned to a Lemming, including climbing, floating and bashing. You must click to select the appropriate function, then click on the Lemming to activate it. Each level has a different range of skills on offer, a different amount of Lemmings, and a different percentage target in order to progress.</desc>
+		<image>./media/images/Lemmings.png</image>
+		<video>./media/videos/Lemmings.mp4</video>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DMA Design Limited</developer>
+		<publisher>Ocean</publisher>
+		<genre>Strategy-Puzzle-Game</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220303T154556</lastplayed>
+	</game>
 </gameList>
