@@ -322,21 +322,6 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
 		<video>./media/videos/Super_Mario_Land_2.mp4</video>
 		<genreid>257</genreid>
 	</game>
-	<game id="2970" source="ScreenScraper.fr">
-		<path>./Super_Mario_Land.gb</path>
-		<name>Super Mario Land</name>
-		<desc>Once upon a time, there was a peaceful world called Sarasaland. In this world there were 4 kingdoms named Birabuto, Muda, Easton and Chai. One day, the skies of Sarasaland were suddenly covered by a huge black cloud. From a crack in this cloud, the unknown space monster Tatanga emerged to try to conquer Sarasaland. Tatanga hypnotized the people of all the kingdoms so that he could control them in any way he liked. In this way he took over Sarasaland. Now, he wants to marry Princess Daisy of Sarasaland and make her his queen. Mario came to know of these events, and he has started on a journey to the Chai Kingdom where Princess Daisy is held captive, in order to restore peace to Sarasaland. Can Mario defeat Tatanga, release people from his interstellar hypnosis, and rescue Princess Daisy? It's all up to you and Mario's skill. Go for it Mario!</desc>
-		<rating>0.8</rating>
-		<releasedate>19890731T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform-Action</genre>
-		<players>1</players>
-		<hash>90776841</hash>
-		<image>./media/images/Super_Mario_Land.png</image>
-		<video>./media/videos/Super_Mario_Land.mp4</video>
-		<genreid>257</genreid>
-	</game>
 	<game id="37208" source="ScreenScraper.fr">
 		<path>./Tetris_DX.gb</path>
 		<name>Tetris DX</name>
@@ -405,5 +390,19 @@ You are in control not of any individual Lemming, but of a cross-hair, which can
 		<genre>Strategy-Puzzle-Game</genre>
 		<playcount>1</playcount>
 		<lastplayed>20220303T154556</lastplayed>
+	</game>
+	<game>
+		<path>./Super_Mario_Land.gb</path>
+		<name>Super Mario Land</name>
+		<desc>Once upon a time, there was a peaceful world called Sarasaland. In this world there were 4 kingdoms named Birabuto, Muda, Easton and Chai. One day, the skies of Sarasaland were suddenly covered by a huge black cloud. From a crack in this cloud, the unknown space monster Tatanga emerged to try to conquer Sarasaland. Tatanga hypnotized the people of all the kingdoms so that he could control them in any way he liked. In this way he took over Sarasaland. Now, he wants to marry Princess Daisy of Sarasaland and make her his queen. Mario came to know of these events, and he has started on a journey to the Chai Kingdom where Princess Daisy is held captive, in order to restore peace to Sarasaland. Can Mario defeat Tatanga, release people from his interstellar hypnosis, and rescue Princess Daisy? It's all up to you and Mario's skill. Go for it Mario!</desc>
+		<image>./media/images/Super_Mario_Land.png</image>
+		<video>./media/videos/Super_Mario_Land.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19890731T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform-Action</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220307T183742</lastplayed>
 	</game>
 </gameList>
