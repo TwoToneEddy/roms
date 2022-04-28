@@ -166,23 +166,6 @@ Street Fighter 2 is one of the most cloned fighting games and its effects on gam
 		<video>./media/videos/Street_Fighter_II.mp4</video>
 		<genreid>262</genreid>
 	</game>
-	<game id="2153" source="ScreenScraper.fr">
-		<path>./Super_Mario_Kart.sfc</path>
-		<name>Super Mario Kart</name>
-		<desc>A collection of Super Mario characters, including Mario, Luigi, Yoshi, Peach, Bowser and Donkey Kong Jr., are out to win the Super Mario Kart championship. Using Mode 7 scaling, the first true kart game on the SNES has you collecting coins to boost your speed while using shells and bananas to stop others on the track. 
-
-There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Special Cup, each with a selection of tracks to race on (based in Bowser's Castle, Super Mario World and more). Plus, a 2 player battle mode is on offer, where the first to pop the three balloons wins.</desc>
-		<rating>0.8</rating>
-		<releasedate>19930121T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving-Race 3rd Pers. view</genre>
-		<players>1-2</players>
-		<hash>56410E5E</hash>
-		<image>./media/images/Super_Mario_Kart.png</image>
-		<video>./media/videos/Super_Mario_Kart.mp4</video>
-		<genreid>1537</genreid>
-	</game>
 	<game id="2144" source="ScreenScraper.fr">
 		<path>./Super_Mario_World.smc</path>
 		<name>Super Mario World</name>
@@ -231,18 +214,22 @@ Over 90 levels are on offer, with plenty of Bowser's evil koopas and new charact
 		<genreid>768</genreid>
 	</game>
 	<game>
-		<path>./Star_Fox.sfc</path>
-		<name>Star Fox</name>
-		<desc>This is the first SNES title using the Super FX chip; you are flying ace Fox McCloud, who with his trusted wingmen and his powerful Arwing starfighter, must rid the Lylat System of the evil that surrounds it. Wave after wave of enemies will fly towards you, and with the advice of your wingmen, you must guide your way through each level and take down as many as you can. </desc>
-		<image>./media/images/Star_Fox.png</image>
-		<video>./media/videos/Star_Fox.mp4</video>
-		<rating>0.8</rating>
-		<releasedate>19930301T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shoot'em Up</genre>
-		<playcount>2</playcount>
-		<lastplayed>20210909T191635</lastplayed>
+		<path>./Terranigma.sfc</path>
+		<name>Terranigma</name>
+		<desc>In "Terranigma", you play a young boy named Ark. He has grown up in his little village, isolated from the outer world by a stream of lava, and has never seen anything else beside it. One day, he and some other boys hear mysterious voices coming from beyond a door the village elder forbade them to open. Unable to resist their curiosity, the boys open the door, and Ark finds a box with a strange creature inside. By opening the box, Ark damages the balance between two co-existing worlds, and all the village people are turned into stones. Now Ark has to embark on a dangerous journey - to find five Towers, and to seek there the answers to his questions, and to liberate his people from a terrible curse.
+
+"Terranigma" is an action game with slight RPG elements. Ark levels up after having completed an important quest or cleared out an area. He can attack enemies with various weapons, using various techniques: pierce, leap, dash, etc. 
+
+The game is closely connected to and often regarded as a part of a trilogy created by Enix, the first two games being Soul Blazer and Illusion of Gaia.</desc>
+		<image>./media/images/Terranigma.png</image>
+		<video>./media/videos/Terranigma.mp4</video>
+		<rating>0.75</rating>
+		<releasedate>19961219T000000</releasedate>
+		<developer>Quintet</developer>
+		<publisher>Enix</publisher>
+		<genre>Action / Adventure-Action-Role playing games</genre>
+		<playcount>12</playcount>
+		<lastplayed>20220307T183135</lastplayed>
 	</game>
 	<game>
 		<path>./Chrono_Trigger.zip</path>
@@ -261,25 +248,38 @@ The game allows you to face your ultimate adversary at different points of time,
 		<developer>Square</developer>
 		<publisher>Square</publisher>
 		<genre>Role playing games</genre>
-		<playcount>23</playcount>
-		<lastplayed>20220307T181758</lastplayed>
+		<playcount>25</playcount>
+		<lastplayed>20220311T181146</lastplayed>
 	</game>
 	<game>
-		<path>./Terranigma.sfc</path>
-		<name>Terranigma</name>
-		<desc>In "Terranigma", you play a young boy named Ark. He has grown up in his little village, isolated from the outer world by a stream of lava, and has never seen anything else beside it. One day, he and some other boys hear mysterious voices coming from beyond a door the village elder forbade them to open. Unable to resist their curiosity, the boys open the door, and Ark finds a box with a strange creature inside. By opening the box, Ark damages the balance between two co-existing worlds, and all the village people are turned into stones. Now Ark has to embark on a dangerous journey - to find five Towers, and to seek there the answers to his questions, and to liberate his people from a terrible curse.
+		<path>./Star_Fox.sfc</path>
+		<name>Star Fox</name>
+		<desc>This is the first SNES title using the Super FX chip; you are flying ace Fox McCloud, who with his trusted wingmen and his powerful Arwing starfighter, must rid the Lylat System of the evil that surrounds it. Wave after wave of enemies will fly towards you, and with the advice of your wingmen, you must guide your way through each level and take down as many as you can. </desc>
+		<image>./media/images/Star_Fox.png</image>
+		<video>./media/videos/Star_Fox.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19930301T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em Up</genre>
+		<playcount>3</playcount>
+		<lastplayed>20220311T182823</lastplayed>
+	</game>
+	<game>
+		<path>./Super_Mario_Kart.sfc</path>
+		<name>Super Mario Kart</name>
+		<desc>A collection of Super Mario characters, including Mario, Luigi, Yoshi, Peach, Bowser and Donkey Kong Jr., are out to win the Super Mario Kart championship. Using Mode 7 scaling, the first true kart game on the SNES has you collecting coins to boost your speed while using shells and bananas to stop others on the track. 
 
-"Terranigma" is an action game with slight RPG elements. Ark levels up after having completed an important quest or cleared out an area. He can attack enemies with various weapons, using various techniques: pierce, leap, dash, etc. 
-
-The game is closely connected to and often regarded as a part of a trilogy created by Enix, the first two games being Soul Blazer and Illusion of Gaia.</desc>
-		<image>./media/images/Terranigma.png</image>
-		<video>./media/videos/Terranigma.mp4</video>
-		<rating>0.75</rating>
-		<releasedate>19961219T000000</releasedate>
-		<developer>Quintet</developer>
-		<publisher>Enix</publisher>
-		<genre>Action / Adventure-Action-Role playing games</genre>
-		<playcount>12</playcount>
-		<lastplayed>20220307T183135</lastplayed>
+There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Special Cup, each with a selection of tracks to race on (based in Bowser's Castle, Super Mario World and more). Plus, a 2 player battle mode is on offer, where the first to pop the three balloons wins.</desc>
+		<image>./media/images/Super_Mario_Kart.png</image>
+		<video>./media/videos/Super_Mario_Kart.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19930121T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving-Race 3rd Pers. view</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220312T160057</lastplayed>
 	</game>
 </gameList>
