@@ -198,21 +198,6 @@ Over 90 levels are on offer, with plenty of Bowser's evil koopas and new charact
 		<video>./media/videos/Super_Ninja_Kun.mp4</video>
 		<genreid>257</genreid>
 	</game>
-	<game id="2138" source="ScreenScraper.fr">
-		<path>./Legend_of_Zelda_The_-_A_Link_to_the_Past.zip</path>
-		<name>The Legend of Zelda : A Link to the Past</name>
-		<desc>Venture back to Hyrule and an age of magic and heroes. The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom. Only you can prevent his evil plot from shattering the land of Hyrule. In your quest, you'll venture into twisting mazes, dungeons, palaces and shadowy forests. Test your mettle with mighty swords and magical weapons. Or heft a boulder and hurl it at your enemies. If the going gets tough, dive into a river - you can swim to escape! Learn the powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.</desc>
-		<rating>0.95</rating>
-		<releasedate>19920413T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games-Action / Adventure-Adventure</genre>
-		<players>1</players>
-		<hash>777AAC2F</hash>
-		<image>./media/images/Legend_of_Zelda_The_-_A_Link_to_the_Past.png</image>
-		<video>./media/videos/Legend_of_Zelda_The_-_A_Link_to_the_Past.mp4</video>
-		<genreid>768</genreid>
-	</game>
 	<game>
 		<path>./Terranigma.sfc</path>
 		<name>Terranigma</name>
@@ -230,26 +215,6 @@ The game is closely connected to and often regarded as a part of a trilogy creat
 		<genre>Action / Adventure-Action-Role playing games</genre>
 		<playcount>12</playcount>
 		<lastplayed>20220307T183135</lastplayed>
-	</game>
-	<game>
-		<path>./Chrono_Trigger.zip</path>
-		<name>Chrono Trigger</name>
-		<desc>What begins as a carefree day at the Millennial Fair for a young man named Crono turns into his ultimate adventure. When Crono meets a young girl named Marle, little does he realize that this young girl, his best friend Lucca's invention, and a mysterious pendant will thrust him into the ultimate trip through time and space, encountering new friends, defeating the forces of evil, and encountering the one who would destroy the flow of time.
-
-Chrono Trigger is a role-playing game, with the usual game mechanics fare for such: the player takes control of a variably large party, developing the combat skills of its members and managing their equipment. As the characters grow in power, not only their ability scores increase, but they also learn new "Techs" - special powerful attacks and maneuvers which cost them "Magic Points" to use in battle. 
-
-The game utilizes the ATB (active time battle) combat system from  Final Fantasy games - sort of a mix of turn-based and real-time combat -  adding to it combo attacks. Apart from normal Techs, it is possible to use Double and Triple Techniques - super-powerful attacks which involve two or three characters using their abilities at once. There are no random battles in the game, as all the enemies are visible on screen, and it's even possible to just pass by them entirely. 
-
-The game allows you to face your ultimate adversary at different points of time, which leads to several different endings. There is also a New Game+ option, which allows you to carry over your powerful characters to a new game, and adds even more endings to the already existing ones.</desc>
-		<image>./media/images/Chrono_Trigger.png</image>
-		<video>./media/videos/Chrono_Trigger.mp4</video>
-		<rating>0.85</rating>
-		<releasedate>19950811T000000</releasedate>
-		<developer>Square</developer>
-		<publisher>Square</publisher>
-		<genre>Role playing games</genre>
-		<playcount>25</playcount>
-		<lastplayed>20220311T181146</lastplayed>
 	</game>
 	<game>
 		<path>./Star_Fox.sfc</path>
@@ -281,5 +246,39 @@ There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Spec
 		<players>1-2</players>
 		<playcount>1</playcount>
 		<lastplayed>20220312T160057</lastplayed>
+	</game>
+	<game>
+		<path>./Chrono_Trigger.zip</path>
+		<name>Chrono Trigger</name>
+		<desc>What begins as a carefree day at the Millennial Fair for a young man named Crono turns into his ultimate adventure. When Crono meets a young girl named Marle, little does he realize that this young girl, his best friend Lucca's invention, and a mysterious pendant will thrust him into the ultimate trip through time and space, encountering new friends, defeating the forces of evil, and encountering the one who would destroy the flow of time.
+
+Chrono Trigger is a role-playing game, with the usual game mechanics fare for such: the player takes control of a variably large party, developing the combat skills of its members and managing their equipment. As the characters grow in power, not only their ability scores increase, but they also learn new "Techs" - special powerful attacks and maneuvers which cost them "Magic Points" to use in battle. 
+
+The game utilizes the ATB (active time battle) combat system from  Final Fantasy games - sort of a mix of turn-based and real-time combat -  adding to it combo attacks. Apart from normal Techs, it is possible to use Double and Triple Techniques - super-powerful attacks which involve two or three characters using their abilities at once. There are no random battles in the game, as all the enemies are visible on screen, and it's even possible to just pass by them entirely. 
+
+The game allows you to face your ultimate adversary at different points of time, which leads to several different endings. There is also a New Game+ option, which allows you to carry over your powerful characters to a new game, and adds even more endings to the already existing ones.</desc>
+		<image>./media/images/Chrono_Trigger.png</image>
+		<video>./media/videos/Chrono_Trigger.mp4</video>
+		<rating>0.85</rating>
+		<releasedate>19950811T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role playing games</genre>
+		<playcount>26</playcount>
+		<lastplayed>20220608T120139</lastplayed>
+	</game>
+	<game>
+		<path>./Legend_of_Zelda_The_-_A_Link_to_the_Past.zip</path>
+		<name>The Legend of Zelda : A Link to the Past</name>
+		<desc>Venture back to Hyrule and an age of magic and heroes. The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom. Only you can prevent his evil plot from shattering the land of Hyrule. In your quest, you'll venture into twisting mazes, dungeons, palaces and shadowy forests. Test your mettle with mighty swords and magical weapons. Or heft a boulder and hurl it at your enemies. If the going gets tough, dive into a river - you can swim to escape! Learn the powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.</desc>
+		<image>./media/images/Legend_of_Zelda_The_-_A_Link_to_the_Past.png</image>
+		<video>./media/videos/Legend_of_Zelda_The_-_A_Link_to_the_Past.mp4</video>
+		<rating>0.95</rating>
+		<releasedate>19920413T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games-Action / Adventure-Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220608T120120</lastplayed>
 	</game>
 </gameList>
