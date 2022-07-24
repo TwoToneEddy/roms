@@ -281,4 +281,10 @@ The game allows you to face your ultimate adversary at different points of time,
 		<playcount>1</playcount>
 		<lastplayed>20220608T120120</lastplayed>
 	</game>
+	<game>
+		<path>./Live-a-Live.smc</path>
+		<name>Live-a-Live</name>
+		<playcount>3</playcount>
+		<lastplayed>20220724T111755</lastplayed>
+	</game>
 </gameList>
