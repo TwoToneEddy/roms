@@ -1,210 +1,233 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <gameList>
-	<provider>
-		<System>Genesis</System>
-		<software>Skraper</software>
-		<database>ScreenScraper.fr</database>
-		<web>http://www.screenscraper.fr</web>
-	</provider>
-	<game id="204320" source="ScreenScraper.fr">
-		<path>./Angry_Birds.bin</path>
-		<name>Angry Birds</name>
-		<desc>Angry Birds is a port of Android / iOS / Web Angry Birds for Sega Mega Drive. The initial initial China wrap for a large fan and the original ROM is available for free. As a result, the pirates did nothing for the cartridge and they did not sell it to the public. There is an equal version of the Famicom (mainly in Famiclones).</desc>
-		<releasedate>20120622T000000</releasedate>
-		<developer>zhengyaxin_8bit</developer>
-		<players>1</players>
-		<hash>E2EB0F13</hash>
-		<image>./media/images/Angry_Birds.png</image>
-		<video>./media/videos/Angry_Birds.mp4</video>
-	</game>
-	<game id="45" source="ScreenScraper.fr">
-		<path>./Ghouls_n_Ghosts.bin</path>
-		<name>Ghouls'n Ghosts</name>
-		<desc>Three years have passed since Arthur defeated the Demon King Astaroth and rescued his beloved Princess Prin-Prin (see Ghosts 'N Goblins). A new villain, the Great Demon King Lucifer (Loki in some versions) has become the new leader of Ghoul Realm. While returning from a journey, Arthur sees the Princess' castle and her village under attack by Lucifer's forces. While rushing towards her beloved knight, the Princess is struck by one of Lucifer's laser beams.
+  <provider>
+    <System>Genesis</System>
+    <software>Skraper</software>
+    <database>ScreenScraper.fr</database>
+    <web>http://www.screenscraper.fr</web>
+  </provider>
+  <game id="15" source="ScreenScraper.fr">
+    <path>./Altered_Beast.bin</path>
+    <name>Altered Beast</name>
+    <desc>In this coin-op conversion, you are a hero raised from the dead by the god Zeus to rescue his daughter Athena. With a scenery inspired by Ancient Greece, you have to fight hordes of undead and demons, with a boss at the end of each level until you meet the god Neff, who holds the girl captive.
+
+The title refers to your shapeshifting abilities. In this platformer, you can collect spirit balls by defeating two-headed wolves, allowing you to mutate into different beasts such as a werewolf, a dragon, a tiger, a bear and others depending on the version. Each form, tied to a level, comes with special abilities such as flight and powerful attacks, easily superseding the basic set of punches and kicks in your human form.
+
+The game can be played in singleplayer mode, or in same-screen multiplayer co-op mode.</desc>
+    <rating>0.65</rating>
+    <releasedate>19890814T000000</releasedate>
+    <developer>SEGA</developer>
+    <publisher>SEGA</publisher>
+    <genre>Beat'em Up</genre>
+    <players>1-2</players>
+    <hash>154D59BB</hash>
+    <image>./media/images/Altered_Beast.png</image>
+    <video>./media/videos/Altered_Beast.mp4</video>
+    <genreid>263</genreid>
+  </game>
+  <game id="204320" source="ScreenScraper.fr">
+    <path>./Angry_Birds.bin</path>
+    <name>Angry Birds</name>
+    <desc>Angry Birds is a port of Android / iOS / Web Angry Birds for Sega Mega Drive. The initial initial China wrap for a large fan and the original ROM is available for free. As a result, the pirates did nothing for the cartridge and they did not sell it to the public. There is an equal version of the Famicom (mainly in Famiclones).</desc>
+    <rating>0.6</rating>
+    <releasedate>20120622T000000</releasedate>
+    <developer>zhengyaxin_8bit</developer>
+    <publisher>zhengyaxin_8bit</publisher>
+    <genre>Puzzle-Game</genre>
+    <players>1</players>
+    <hash>E2EB0F13</hash>
+    <image>./media/images/Angry_Birds.png</image>
+    <video>./media/videos/Angry_Birds.mp4</video>
+    <genreid>2816</genreid>
+  </game>
+  <game id="45" source="ScreenScraper.fr">
+    <path>./Ghouls_n_Ghosts.bin</path>
+    <name>Ghouls'n Ghosts</name>
+    <desc>Three years have passed since Arthur defeated the Demon King Astaroth and rescued his beloved Princess Prin-Prin (see Ghosts 'N Goblins). A new villain, the Great Demon King Lucifer (Loki in some versions) has become the new leader of Ghoul Realm. While returning from a journey, Arthur sees the Princess' castle and her village under attack by Lucifer's forces. While rushing towards her beloved knight, the Princess is struck by one of Lucifer's laser beams.
 
 Now, Arthur must venture back to the Lucifer's palace and destroy the demon in order to rescue the Princess' soul and bring her back to life! And it won't matter whether he fights in his shining armor or in his underwear alone...the bravest Knight in the land isn't going to be stopped by some monsters! Although the game starts with graveyard and marsh territory familiar from the first game, later levels are set in a tower, a mass of skeletons, and a castle.
 
 Players progress from left to right (from bottom to top in level 3), and have to hack down the aforementioned monsters with a sword. The journey includes ledges, ladders, lava pits and slippery slopes. Different weapons can be collected, by finding suits of armor inside chests. Each of the five stages has its own setting and a final boss. </desc>
-		<rating>0.75</rating>
-		<releasedate>19891001T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<hash>4F2561D5</hash>
-		<image>./media/images/Ghouls_n_Ghosts.png</image>
-		<video>./media/videos/Ghouls_n_Ghosts.mp4</video>
-		<genreid>257</genreid>
-	</game>
-	<game id="28" source="ScreenScraper.fr">
-		<path>./Golden_Axe.bin</path>
-		<name>Golden Axe</name>
-		<desc>Sega's classic arcade beat-'em-up game, Golden Axe puts in the shoes of one of three heroes, each with his own reason for trying to overthrow the evil rule of Death-Adder, who - along with his forces of darkness - kidnapped and imprisoned the King and his daughter and stole the legendary Golden Axe.
+    <rating>0.75</rating>
+    <releasedate>19891001T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Platform</genre>
+    <players>1</players>
+    <hash>4F2561D5</hash>
+    <image>./media/images/Ghouls_n_Ghosts.png</image>
+    <video>./media/videos/Ghouls_n_Ghosts.mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="28" source="ScreenScraper.fr">
+    <path>./Golden_Axe.bin</path>
+    <name>Golden Axe</name>
+    <desc>Sega's classic arcade beat-'em-up game, Golden Axe puts in the shoes of one of three heroes, each with his own reason for trying to overthrow the evil rule of Death-Adder, who - along with his forces of darkness - kidnapped and imprisoned the King and his daughter and stole the legendary Golden Axe.
 
 This is a horizontal fighting game, where you basically take one of the three characters (a warrior, a dwarf or an amazon) and bash everything which stands between you and Death Adder himself.</desc>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Action-Beat'em Up</genre>
-		<players>1-2</players>
-		<hash>2AAE0CB7</hash>
-		<image>./media/images/Golden_Axe.png</image>
-		<video>./media/videos/Golden_Axe.mp4</video>
-		<genreid>263</genreid>
-	</game>
-	<game id="27" source="ScreenScraper.fr">
-		<path>./Quack_Shot_Starring_Donald_Duck.bin</path>
-		<name>QuackShot Starring Donald Duck</name>
-		<desc>Donald and his three nephews get their hands on a treasure map and set out to hunt the big prize. Donald travels throughout the world, to places like Egypt, India, South Pole and even Transylvania, while his nephews fly an airplane.
+    <rating>0.8</rating>
+    <releasedate>19890101T000000</releasedate>
+    <developer>SEGA</developer>
+    <publisher>SEGA</publisher>
+    <genre>Action-Beat'em Up</genre>
+    <players>1-2</players>
+    <hash>2AAE0CB7</hash>
+    <image>./media/images/Golden_Axe.png</image>
+    <video>./media/videos/Golden_Axe.mp4</video>
+    <genreid>263</genreid>
+  </game>
+  <game id="27" source="ScreenScraper.fr">
+    <path>./Quack_Shot_Starring_Donald_Duck.bin</path>
+    <name>QuackShot Starring Donald Duck</name>
+    <desc>Donald and his three nephews get their hands on a treasure map and set out to hunt the big prize. Donald travels throughout the world, to places like Egypt, India, South Pole and even Transylvania, while his nephews fly an airplane.
 
 As a weapon Donald uses plungers that can freeze the enemies or stick to walls which can then be used for climbing. Other wacky weapons are popcorn and bubblegum!
 This is a steady Disney run-and-jump platformer, with a little puzzle-solving element.
 
 Characters are mostly based on Disney's cartoon series "Duck Tales"</desc>
-		<rating>0.75</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Disney Interactive</developer>
-		<publisher>SEGA</publisher>
-		<genre>Action-Platform</genre>
-		<players>1</players>
-		<hash>88C8DD94</hash>
-		<image>./media/images/Quack_Shot_Starring_Donald_Duck.png</image>
-		<video>./media/videos/Quack_Shot_Starring_Donald_Duck.mp4</video>
-		<genreid>257</genreid>
-	</game>
-	<game id="1184" source="ScreenScraper.fr">
-		<path>./Sonic_&amp;_Knuckles_2.bin</path>
-		<name>Sonic &amp; Knuckles + Sonic The Hedgehog 2</name>
-		<desc>Knuckles in Sonic 2 is the resulting game when Sonic the Hedgehog 2 is locked onto Sonic &amp; Knuckles with its passthrough port. Sonic is replaced by Knuckles and Tails is not playable whatsoever. The title screen features Knuckles also but removes the two player mode and options selections from it. This game is identical to Sonic 2 (aside from a few changes to make it more playable with Knuckles) but with Knuckles now playable instead of Sonic or Tails.</desc>
-		<rating>0.85</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Sonic Team</developer>
-		<publisher>SEGA</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<hash>2AC1E7C6</hash>
-		<image>./media/images/Sonic_&amp;_Knuckles_2.png</image>
-		<video>./media/videos/Sonic_&amp;_Knuckles_2.mp4</video>
-		<genreid>257</genreid>
-	</game>
-	<game id="14" source="ScreenScraper.fr">
-		<path>./Sonic_&amp;_Knuckles_1.bin</path>
-		<name>Sonic &amp; Knuckles</name>
-		<desc>Sonic and Knuckles join forces to defeat rotten Dr. Robotnik's Death Egg invasion ! Sonic has the speed, Knuckles has the power, but do you have the skill ? 8 massive new zones. 3 spectacular special stages. And more...</desc>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shoot'em Up-Action-Platform</genre>
-		<players>1</players>
-		<hash>0658F691</hash>
-		<image>./media/images/Sonic_&amp;_Knuckles_1.png</image>
-		<video>./media/videos/Sonic_&amp;_Knuckles_1.mp4</video>
-		<genreid>260</genreid>
-	</game>
-	<game id="3" source="ScreenScraper.fr">
-		<path>./Sonic_2.bin</path>
-		<name>Sonic The Hedgehog 2</name>
-		<desc>Sonic the Hedgehog 2 is a side-scrolling platformer based around speed, and the sequel to Sonic the Hedgehog. Players run through different worlds called "Zones", each with a specific theme. There are two Acts in nearly all of the 10 Zones, and at the end of each Zone's last Act is a machine that Robotnik controls, which you must defeat to progress. Sonic and Tails can collect rings which are scattered throughout all of the levels. When the player collects 100 rings they earn an extra life. The rings also act as protection - if Sonic is hurt when he is carrying rings, they scatter everywhere and he is briefly invincible. If he is hit again when he has no rings, he'll lose a life. If the player reaches a continue point lamppost with 50 or more rings, they'll be able to access the Special Stage. In this stage, you must gather a set amount of rings in a halfpipe-like stage before you reach a checkpoint. Complete all the checkpoints and you'll earn one of the seven Chaos Emeralds. The game also includes the ability to play the game co-op with a friend - at any time, a player can plug in a second controller and take over the AI controlled Tails. Tails has infinite lives and the camera remains focused on Sonic, meaning that Tails will not hinder play. Sonic (and Tails) can now also get speed from a standing start by holding down and repeatedly pressing the jump button for a "Spin Dash". This is useful when stuck near steep slopes or other areas where you need some momentum. The game also features a 2-player versus mode. This mode is a horizontally split-screen race through levels based on three of the zones in the single player game.</desc>
-		<rating>0.85</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Action-Platform</genre>
-		<players>1-2</players>
-		<hash>7B905383</hash>
-		<image>./media/images/Sonic_2.png</image>
-		<video>./media/videos/Sonic_2.mp4</video>
-		<genreid>257</genreid>
-	</game>
-	<game id="1187" source="ScreenScraper.fr">
-		<path>./Sonic_3.bin</path>
-		<name>Sonic The Hedgehog 3</name>
-		<desc>Sonic the Hedgehog 3 is the third in the Sonic series of games. As with the previous games, it is a side-scrolling platformer based around speed. The basic game remains the same - players collect rings to earn extra lives, which are also used for protection, and scatter everywhere when Sonic is hurt. Sonic can jump on enemies to defeat them, and Spin Dash by holding down and the jump button, then letting go of down. Dr. Robotnik's Death Egg has crash-landed on Floating Island, so called because it harnesses the power of the Chaos Emeralds to float in the air. Robotnik needs them to repair the Death Egg, so he tells the guardian of Floating Island, Knuckles the Echidna, that Sonic and Tails are there to steal them. With Knuckles tricked and trying to stop the heroes at every turn, will they be able to stop Robotnik in time? New to Sonic 3 are three different types of shields; the Fire Shield (which protects you from fire but disappears if you enter water), the Water Shield (which lets you breathe underwater infinitely), and the Electric Shield (which pulls nearby rings towards you). </desc>
-		<rating>0.8</rating>
-		<releasedate>19940527T000000</releasedate>
-		<developer>Sonic Team</developer>
-		<publisher>SEGA</publisher>
-		<genre>Action-Platform</genre>
-		<players>1-2</players>
-		<hash>F4951D1F</hash>
-		<image>./media/images/Sonic_3.png</image>
-		<video>./media/videos/Sonic_3.mp4</video>
-		<genreid>257</genreid>
-	</game>
-	<game id="5" source="ScreenScraper.fr">
-		<path>./Sonic_1.bin</path>
-		<name>Sonic The Hedgehog</name>
-		<desc>Sonic the Hedgehog is the first of many games starring Sega's premier rodent Sonic. It's a side scrolling platform game with a difference: speed. Sonic rushes through levels with incredible speed, allowing him to traverse loops and jumps with ease. The evil Dr. Robotnik has captured many of Sonic's animal friends and trapped them inside robots. Sonic can free his friends by destroying the robots with his spin attack. Meanwhile, Dr. Robotnik is trying to control the all-powerful chaos emeralds and Sonic must grab them before he does in the 3D rotating bonus levels. Sonic's weapon is his spin attack; while jumping, Sonic destroys hostile robots by touch. Throughout the platforming levels Sonic collects numerous rings. If Sonic is hit by an enemy, all the rings he's carrying fall out and scatter around; Sonic can quickly grab the rings back before they disappear. If Sonic is hit while not carrying any rings, he dies. Collecting 100 rings gives Sonic an extra life. There is also an invincibility bonus which temporarily protects Sonic from all attacks. The game is divided into several "zones", each of them containing three levels. At the end of each zone Sonic confronts Dr. Robotnik in a boss fight. Sonic the Hedgehog is a significant game because it gave Sega it's first real mascot, and established the Genesis as the video game system with "attitude."</desc>
-		<rating>0.8</rating>
-		<releasedate>19910623T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Action-Platform</genre>
-		<players>1</players>
-		<hash>5CE8F5CF</hash>
-		<image>./media/images/Sonic_1.png</image>
-		<video>./media/videos/Sonic_1.mp4</video>
-		<genreid>257</genreid>
-	</game>
-	<game id="20" source="ScreenScraper.fr">
-		<path>./Streets_of_Rage_2.bin</path>
-		<name>Streets of Rage 2</name>
-		<desc>After Axel Stone, Blaze Fielding and Adam Hunter destroyed the evil Syndicate leader, Mr. X, the city became a peaceful place to live, and each one of them followed their own paths. One year later, after their reunion, Adam's brother Sammy returned from school to find their apartment in a mess, and Adam nowhere to be seen, and after calling his two friends, one of them notices a photo of Adam chained to a wall, next to someone they knew very well - Mr. X, who returned to turn the peaceful city once again into a war zone. Now, Axel, Blaze, Sammy, and Axel's good friend Max, a pro wrestler, must head out to stop Mr. X once again...hopefully for good...
+    <rating>0.75</rating>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Disney Interactive</developer>
+    <publisher>SEGA</publisher>
+    <genre>Action-Platform</genre>
+    <players>1</players>
+    <hash>88C8DD94</hash>
+    <image>./media/images/Quack_Shot_Starring_Donald_Duck.png</image>
+    <video>./media/videos/Quack_Shot_Starring_Donald_Duck.mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="1184" source="ScreenScraper.fr">
+    <path>./Sonic_&amp;_Knuckles_2.bin</path>
+    <name>Sonic &amp; Knuckles + Sonic The Hedgehog 2</name>
+    <desc>Knuckles in Sonic 2 is the resulting game when Sonic the Hedgehog 2 is locked onto Sonic &amp; Knuckles with its passthrough port. Sonic is replaced by Knuckles and Tails is not playable whatsoever. The title screen features Knuckles also but removes the two player mode and options selections from it. This game is identical to Sonic 2 (aside from a few changes to make it more playable with Knuckles) but with Knuckles now playable instead of Sonic or Tails.</desc>
+    <rating>0.85</rating>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Sonic Team</developer>
+    <publisher>SEGA</publisher>
+    <genre>Platform</genre>
+    <players>1</players>
+    <hash>2AC1E7C6</hash>
+    <image>./media/images/Sonic_&amp;_Knuckles_2.png</image>
+    <video>./media/videos/Sonic_&amp;_Knuckles_2.mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="14" source="ScreenScraper.fr">
+    <path>./Sonic_&amp;_Knuckles_1.bin</path>
+    <name>Sonic &amp; Knuckles</name>
+    <desc>Sonic and Knuckles join forces to defeat rotten Dr. Robotnik's Death Egg invasion ! Sonic has the speed, Knuckles has the power, but do you have the skill ? 8 massive new zones. 3 spectacular special stages. And more...</desc>
+    <rating>0.8</rating>
+    <releasedate>19940101T000000</releasedate>
+    <developer>SEGA</developer>
+    <publisher>SEGA</publisher>
+    <genre>Shoot'em Up-Action-Platform</genre>
+    <players>1</players>
+    <hash>0658F691</hash>
+    <image>./media/images/Sonic_&amp;_Knuckles_1.png</image>
+    <video>./media/videos/Sonic_&amp;_Knuckles_1.mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="3" source="ScreenScraper.fr">
+    <path>./Sonic_2.bin</path>
+    <name>Sonic The Hedgehog 2</name>
+    <desc>Sonic the Hedgehog 2 is a side-scrolling platformer based around speed, and the sequel to Sonic the Hedgehog. Players run through different worlds called "Zones", each with a specific theme. There are two Acts in nearly all of the 10 Zones, and at the end of each Zone's last Act is a machine that Robotnik controls, which you must defeat to progress. Sonic and Tails can collect rings which are scattered throughout all of the levels. When the player collects 100 rings they earn an extra life. The rings also act as protection - if Sonic is hurt when he is carrying rings, they scatter everywhere and he is briefly invincible. If he is hit again when he has no rings, he'll lose a life. If the player reaches a continue point lamppost with 50 or more rings, they'll be able to access the Special Stage. In this stage, you must gather a set amount of rings in a halfpipe-like stage before you reach a checkpoint. Complete all the checkpoints and you'll earn one of the seven Chaos Emeralds. The game also includes the ability to play the game co-op with a friend - at any time, a player can plug in a second controller and take over the AI controlled Tails. Tails has infinite lives and the camera remains focused on Sonic, meaning that Tails will not hinder play. Sonic (and Tails) can now also get speed from a standing start by holding down and repeatedly pressing the jump button for a "Spin Dash". This is useful when stuck near steep slopes or other areas where you need some momentum. The game also features a 2-player versus mode. This mode is a horizontally split-screen race through levels based on three of the zones in the single player game.</desc>
+    <rating>0.85</rating>
+    <releasedate>19920101T000000</releasedate>
+    <developer>SEGA</developer>
+    <publisher>SEGA</publisher>
+    <genre>Action-Platform</genre>
+    <players>1-2</players>
+    <hash>7B905383</hash>
+    <image>./media/images/Sonic_2.png</image>
+    <video>./media/videos/Sonic_2.mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="1187" source="ScreenScraper.fr">
+    <path>./Sonic_3.bin</path>
+    <name>Sonic The Hedgehog 3</name>
+    <desc>Sonic the Hedgehog 3 is the third in the Sonic series of games. As with the previous games, it is a side-scrolling platformer based around speed. The basic game remains the same - players collect rings to earn extra lives, which are also used for protection, and scatter everywhere when Sonic is hurt. Sonic can jump on enemies to defeat them, and Spin Dash by holding down and the jump button, then letting go of down. Dr. Robotnik's Death Egg has crash-landed on Floating Island, so called because it harnesses the power of the Chaos Emeralds to float in the air. Robotnik needs them to repair the Death Egg, so he tells the guardian of Floating Island, Knuckles the Echidna, that Sonic and Tails are there to steal them. With Knuckles tricked and trying to stop the heroes at every turn, will they be able to stop Robotnik in time? New to Sonic 3 are three different types of shields; the Fire Shield (which protects you from fire but disappears if you enter water), the Water Shield (which lets you breathe underwater infinitely), and the Electric Shield (which pulls nearby rings towards you). </desc>
+    <rating>0.8</rating>
+    <releasedate>19940527T000000</releasedate>
+    <developer>Sonic Team</developer>
+    <publisher>SEGA</publisher>
+    <genre>Action-Platform</genre>
+    <players>1-2</players>
+    <hash>F4951D1F</hash>
+    <image>./media/images/Sonic_3.png</image>
+    <video>./media/videos/Sonic_3.mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="5" source="ScreenScraper.fr">
+    <path>./Sonic_1.bin</path>
+    <name>Sonic The Hedgehog</name>
+    <desc>Sonic the Hedgehog is the first of many games starring Sega's premier rodent Sonic. It's a side scrolling platform game with a difference: speed. Sonic rushes through levels with incredible speed, allowing him to traverse loops and jumps with ease. The evil Dr. Robotnik has captured many of Sonic's animal friends and trapped them inside robots. Sonic can free his friends by destroying the robots with his spin attack. Meanwhile, Dr. Robotnik is trying to control the all-powerful chaos emeralds and Sonic must grab them before he does in the 3D rotating bonus levels. Sonic's weapon is his spin attack; while jumping, Sonic destroys hostile robots by touch. Throughout the platforming levels Sonic collects numerous rings. If Sonic is hit by an enemy, all the rings he's carrying fall out and scatter around; Sonic can quickly grab the rings back before they disappear. If Sonic is hit while not carrying any rings, he dies. Collecting 100 rings gives Sonic an extra life. There is also an invincibility bonus which temporarily protects Sonic from all attacks. The game is divided into several "zones", each of them containing three levels. At the end of each zone Sonic confronts Dr. Robotnik in a boss fight. Sonic the Hedgehog is a significant game because it gave Sega it's first real mascot, and established the Genesis as the video game system with "attitude."</desc>
+    <rating>0.8</rating>
+    <releasedate>19910623T000000</releasedate>
+    <developer>SEGA</developer>
+    <publisher>SEGA</publisher>
+    <genre>Action-Platform</genre>
+    <players>1</players>
+    <hash>5CE8F5CF</hash>
+    <image>./media/images/Sonic_1.png</image>
+    <video>./media/videos/Sonic_1.mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="20" source="ScreenScraper.fr">
+    <path>./Streets_of_Rage_2.bin</path>
+    <name>Streets of Rage 2</name>
+    <desc>After Axel Stone, Blaze Fielding and Adam Hunter destroyed the evil Syndicate leader, Mr. X, the city became a peaceful place to live, and each one of them followed their own paths. One year later, after their reunion, Adam's brother Sammy returned from school to find their apartment in a mess, and Adam nowhere to be seen, and after calling his two friends, one of them notices a photo of Adam chained to a wall, next to someone they knew very well - Mr. X, who returned to turn the peaceful city once again into a war zone. Now, Axel, Blaze, Sammy, and Axel's good friend Max, a pro wrestler, must head out to stop Mr. X once again...hopefully for good...
 
 Streets of Rage 2 differs from the previous title in several ways. There are changes in both graphics (characters now are bigger, more detailed and with more animation frames, and scenarios are less grainy) and gameplay (the rocket move was replaced by a special move that doubles in offense and defense along several new moves), along other new features such as life bars (and names) for all enemies and the radically different new characters.</desc>
-		<rating>0.8</rating>
-		<releasedate>19921201T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-2</players>
-		<hash>E01FA526</hash>
-		<image>./media/images/Streets_of_Rage_2.png</image>
-		<video>./media/videos/Streets_of_Rage_2.mp4</video>
-		<genreid>263</genreid>
-	</game>
-	<game id="143230" source="ScreenScraper.fr">
-		<path>./Streets_of_Rage_3.bin</path>
-		<name>Streets of Rage 3</name>
-		<desc>Streets of Rage 3 aimed to build on the success of its predecessor, so while the style of gameplay and control scheme is largely identical to its predecessors, significant changes were made to the overall structure of the game. Streets of Rage 3 is a faster paced release with longer levels, a more complex plot (which in turn leads to more in-depth scenarios complete with interactive levels and multiple endings) and the return of traps such as pits. Dash and dodge moves were added to each character's arsenal of moves, and weapons can now only be used for a few times before breaking. 
+    <rating>0.8</rating>
+    <releasedate>19921201T000000</releasedate>
+    <developer>SEGA</developer>
+    <publisher>SEGA</publisher>
+    <genre>Beat'em Up</genre>
+    <players>1-2</players>
+    <hash>E01FA526</hash>
+    <image>./media/images/Streets_of_Rage_2.png</image>
+    <video>./media/videos/Streets_of_Rage_2.mp4</video>
+    <genreid>263</genreid>
+  </game>
+  <game id="143230" source="ScreenScraper.fr">
+    <path>./Streets_of_Rage_3.bin</path>
+    <name>Streets of Rage 3</name>
+    <desc>Streets of Rage 3 aimed to build on the success of its predecessor, so while the style of gameplay and control scheme is largely identical to its predecessors, significant changes were made to the overall structure of the game. Streets of Rage 3 is a faster paced release with longer levels, a more complex plot (which in turn leads to more in-depth scenarios complete with interactive levels and multiple endings) and the return of traps such as pits. Dash and dodge moves were added to each character's arsenal of moves, and weapons can now only be used for a few times before breaking. 
  
 Changes to the fighting mechanics allows for the integration of weapons with certain movesets. Team attacks, absent from Streets of Rage 2 but available in the original Streets of Rage, make a return, and are occasionally used by enemies too. Blitz moves, performed while running, have also been altered and are now upgradable over the course of the game (predicated on how many points are earned per level). Death causes a downgrade, however holding the X button before a series of button combinations can give players access to the upgraded moveset at any point in the game, at the expense of the time taken to perform attacks. 
  
 Enemies are also smarter with weapons, and some can even steal health upgrades, and there are also several secret playable characters, unlockable after overcoming certain conditions during the game. Special moves also no longer drain the user's health - a separate, automatically regenerating bar is introduced for this purpose.</desc>
-		<releasedate>19970317T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Beat'em Up-Action</genre>
-		<players>1-2</players>
-		<hash>D5BB15D9</hash>
-		<image>./media/images/Streets_of_Rage_3.png</image>
-		<video>./media/videos/Streets_of_Rage_3.mp4</video>
-		<genreid>263</genreid>
-	</game>
-	<game id="7" source="ScreenScraper.fr">
-		<path>./Streets_of_Rage.bin</path>
-		<name>Streets of Rage</name>
-		<desc>Streets of Rage, Sega's answer to Final Fight, follows the story of three young police officers (Adam Hunter, Axel Stone and Blaze Fielding) in a city controlled by a criminal syndicate led by a "Mr. X" where crime is rampant, which leads the three heroes to make a pact to leave the force and topple the syndicate by themselves.
+    <releasedate>19970317T000000</releasedate>
+    <developer>SEGA</developer>
+    <publisher>SEGA</publisher>
+    <genre>Beat'em Up-Action</genre>
+    <players>1-2</players>
+    <hash>D5BB15D9</hash>
+    <image>./media/images/Streets_of_Rage_3.png</image>
+    <video>./media/videos/Streets_of_Rage_3.mp4</video>
+    <genreid>263</genreid>
+  </game>
+  <game id="7" source="ScreenScraper.fr">
+    <path>./Streets_of_Rage.bin</path>
+    <name>Streets of Rage</name>
+    <desc>Streets of Rage, Sega's answer to Final Fight, follows the story of three young police officers (Adam Hunter, Axel Stone and Blaze Fielding) in a city controlled by a criminal syndicate led by a "Mr. X" where crime is rampant, which leads the three heroes to make a pact to leave the force and topple the syndicate by themselves.
 
 Gameplay is straightforward and simple. Three buttons are used, one to jump, other to attack and another to perform a range attack from a support police car. Each character has a limited set of moves that include punching and kicking or performing a back attack (if in the open), two grapple moves (depending if holding the opponent in front or by the back), a flying attack, and if playing with another player two additional tag attacks, and different abilities: Adam is slow, but a good jumper and a hard hitter, Axel fast and also a hard hitter, but a lousy jumper and Blaze fast and a good jumper, but weak hitter.
 Levels are in typical arcade side-scroller fashion: move from left to right (with two exceptions), clearing screens from enemies one after another as fast as possible while avoid taking damage with a boss in the end. Some levels feature "death drops" where the player must avoid falling, while throwing enemies there at the same time, including a typical elevator level.  Several items are scattered on the ground, from melee weapons and bonus points (and lives or additional police cars) to apples and turkeys (to restore health).</desc>
-		<rating>0.8</rating>
-		<releasedate>19910701T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-2</players>
-		<hash>BFF227C6</hash>
-		<image>./media/images/Streets_of_Rage.png</image>
-		<video>./media/videos/Streets_of_Rage.mp4</video>
-		<genreid>263</genreid>
-	</game>
-	<game id="113" source="ScreenScraper.fr">
-		<path>./Toe_Jam_&amp;_Earl.bin</path>
-		<name>ToeJam &amp; Earl</name>
-		<desc>Toejam and Earl are two hip aliens from the planet Funkotron. One day, they are cruisin' their galaxy in the sweet spaceship ride. Unfortunately, Earl wasn't paying enough attention to where he was driving, and ran the ship into an asteroid.  The ship crash landed onto the most bizarre planet in the galaxy: Earth.
+    <rating>0.8</rating>
+    <releasedate>19910701T000000</releasedate>
+    <developer>SEGA</developer>
+    <publisher>SEGA</publisher>
+    <genre>Beat'em Up</genre>
+    <players>1-2</players>
+    <hash>BFF227C6</hash>
+    <image>./media/images/Streets_of_Rage.png</image>
+    <video>./media/videos/Streets_of_Rage.mp4</video>
+    <genreid>263</genreid>
+  </game>
+  <game id="113" source="ScreenScraper.fr">
+    <path>./Toe_Jam_&amp;_Earl.bin</path>
+    <name>ToeJam &amp; Earl</name>
+    <desc>Toejam and Earl are two hip aliens from the planet Funkotron. One day, they are cruisin' their galaxy in the sweet spaceship ride. Unfortunately, Earl wasn't paying enough attention to where he was driving, and ran the ship into an asteroid.  The ship crash landed onto the most bizarre planet in the galaxy: Earth.
 
 Toejam and Earl must travel from level to level on Earth and collect the 10 scattered pieces of the ship. But the various Earthlings, such as Nerd Herds, Giant Hamsters, Phantom Ice Cream Trucks and the Bogeyman will make that difficult.
 
@@ -212,34 +235,15 @@ The power up items that TJ and E can pick up come in the form of wrapped present
 
 The game features a dynamic screen splitting - screen joining 2-player mode.
 Players start the game close to each other. If one gets away from the other, the screen vertically splits to allow each player to move freely. When players are close again, the screens join together to become one single screen.</desc>
-		<rating>0.75</rating>
-		<releasedate>19920312T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Action-Platform</genre>
-		<players>1-2</players>
-		<hash>D1B36786</hash>
-		<image>./media/images/Toe_Jam_&amp;_Earl.png</image>
-		<video>./media/videos/Toe_Jam_&amp;_Earl.mp4</video>
-		<genreid>257</genreid>
-	</game>
-	<game>
-		<path>./Altered_Beast.bin</path>
-		<name>Altered Beast</name>
-		<desc>In this coin-op conversion, you are a hero raised from the dead by the god Zeus to rescue his daughter Athena. With a scenery inspired by Ancient Greece, you have to fight hordes of undead and demons, with a boss at the end of each level until you meet the god Neff, who holds the girl captive.
-
-The title refers to your shapeshifting abilities. In this platformer, you can collect spirit balls by defeating two-headed wolves, allowing you to mutate into different beasts such as a werewolf, a dragon, a tiger, a bear and others depending on the version. Each form, tied to a level, comes with special abilities such as flight and powerful attacks, easily superseding the basic set of punches and kicks in your human form.
-
-The game can be played in singleplayer mode, or in same-screen multiplayer co-op mode.</desc>
-		<image>./media/images/Altered_Beast.png</image>
-		<video>./media/videos/Altered_Beast.mp4</video>
-		<rating>0.65</rating>
-		<releasedate>19890814T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220307T184818</lastplayed>
-	</game>
+    <rating>0.75</rating>
+    <releasedate>19920312T000000</releasedate>
+    <developer>SEGA</developer>
+    <publisher>SEGA</publisher>
+    <genre>Action-Platform</genre>
+    <players>1-2</players>
+    <hash>D1B36786</hash>
+    <image>./media/images/Toe_Jam_&amp;_Earl.png</image>
+    <video>./media/videos/Toe_Jam_&amp;_Earl.mp4</video>
+    <genreid>257</genreid>
+  </game>
 </gameList>

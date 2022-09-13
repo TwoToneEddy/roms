@@ -1,232 +1,224 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <gameList>
-	<provider>
-		<System>Game Boy Advance</System>
-		<software>Skraper</software>
-		<database>ScreenScraper.fr</database>
-		<web>http://www.screenscraper.fr</web>
-	</provider>
-	<game id="3798" source="ScreenScraper.fr">
-		<path>./Castlevania - Harmony of Dissonance (USA).gba</path>
-		<name>Castlevania : Harmony of Dissonance</name>
-		<desc>Nearly fifty years has past since Simon Belmont rescued the land from the curse of Dracula. Now, Simon's descendant Juste Belmont, must acquire the relics of Dracula to unravel the disappearance of his childhood friend Lydie. The castle's enchanting mysteries and danger await all those who dare enter.</desc>
-		<rating>0.85</rating>
-		<releasedate>20020606T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action-Action / Adventure-Role playing games</genre>
-		<players>1</players>
-		<hash>88C1B562</hash>
-		<image>./media/images/Castlevania - Harmony of Dissonance (USA).png</image>
-		<video>./media/videos/Castlevania - Harmony of Dissonance (USA).mp4</video>
-		<genreid>256</genreid>
-	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Crash Bandicoot.gba</path>
-		<name>Crash Bandicoot</name>
-		<desc />
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
-	<game id="3905" source="ScreenScraper.fr">
-		<path>./Doom II.gba</path>
-		<name>Doom II</name>
-		<desc>In this sequel to the original Doom, you play the same hero - the last remaining space marine. After having single-handedly saved Mars from demonic threat, you return to Earth, only to find out that the demons have already invaded it, killed all its inhabitants or turned them into demons. It's your task to kill all the demons and to save the Earth.
+  <provider>
+    <System>Game Boy Advance</System>
+    <software>Skraper</software>
+    <database>ScreenScraper.fr</database>
+    <web>http://www.screenscraper.fr</web>
+  </provider>
+  <game id="3798" source="ScreenScraper.fr">
+    <path>./Castlevania - Harmony of Dissonance (USA).gba</path>
+    <name>Castlevania : Harmony of Dissonance</name>
+    <desc>Nearly fifty years has past since Simon Belmont rescued the land from the curse of Dracula. Now, Simon's descendant Juste Belmont, must acquire the relics of Dracula to unravel the disappearance of his childhood friend Lydie. The castle's enchanting mysteries and danger await all those who dare enter.</desc>
+    <rating>0.85</rating>
+    <releasedate>20020606T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Action-Action / Adventure-Role playing games</genre>
+    <players>1</players>
+    <hash>88C1B562</hash>
+    <image>./media/images/Castlevania - Harmony of Dissonance (USA).png</image>
+    <video>./media/videos/Castlevania - Harmony of Dissonance (USA).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="0" source="ScreenScraper.fr">
+    <path>./Crash Bandicoot.gba</path>
+    <name>Crash Bandicoot</name>
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game id="3831" source="ScreenScraper.fr">
+    <path>./Donkey Kong Country (USA).gba</path>
+    <name>Donkey Kong Country</name>
+    <desc>In Donkey Kong Country for Gameboy Advance, you play as Nintendo's famous gorilla. King K. Rool has stolen Donkey's bananas and he decides to go looking for them. Two characters are playable, Donkey is bigger and stronger, while Diddy is faster. It is possible to play in pairs, either in turns or in teams. Animals will help you get through certain levels and defeat the Kremlings.</desc>
+    <rating>0.65</rating>
+    <releasedate>20030609T000000</releasedate>
+    <developer>Rareware</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Platform-Action</genre>
+    <players>1-2</players>
+    <hash>12F7A968</hash>
+    <image>./media/images/Donkey Kong Country (USA).png</image>
+    <video>./media/videos/Donkey Kong Country (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="3905" source="ScreenScraper.fr">
+    <path>./Doom II.gba</path>
+    <name>Doom II</name>
+    <desc>In this sequel to the original Doom, you play the same hero - the last remaining space marine. After having single-handedly saved Mars from demonic threat, you return to Earth, only to find out that the demons have already invaded it, killed all its inhabitants or turned them into demons. It's your task to kill all the demons and to save the Earth.
 
 Doom II looks and plays very similarly to its predecessor, utilizing the same 3D graphical engine with 2D sprites for enemies. The gameplay once again consists entirely of navigating the hero from first-person view through 3D environments and shooting at the demons while attempting to find your way out by flipping switches and looking for keys. Unlike in Doom, which is divided into three episodes, the 30 levels of Doom II (plus the 2 secret levels) form one long episode. 
 
 You have the same weapons as in the first Doom, plus a new one: a super shotgun. There are also some new demons in this sequel, such as the chaingun-toting Heavy Weapon Dudes, the skeletal Revenants who launch homing missiles and the Arch-Viles who have a highly damaging fire attack. There is also one new power-up, a Megasphere which boosts your health and armor to the max.</desc>
-		<rating>0.6</rating>
-		<releasedate>20021023T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>id Software</publisher>
-		<genre>Shooter / 1st person-Action-Shooter</genre>
-		<players>1-4</players>
-		<hash>60D0C429</hash>
-		<image>./media/images/Doom II.png</image>
-		<video>./media/videos/Doom II.mp4</video>
-		<genreid>259</genreid>
-	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Final Fantasy VI.gba</path>
-		<name>Final Fantasy VI</name>
-		<desc />
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
-	<game id="3757" source="ScreenScraper.fr">
-		<path>./Fire Emblem.GBA</path>
-		<name>Fire Emblem : Rekka no Ken</name>
-		<desc>After centuries of peace, smoldering rivalries threaten to set the world aflame in a blaze of battle! The drums of war beat, noble houses plot treason, allies become enemies, and as Lycia stands poised for war, a shadowy figure manipulates empires for his own ends. Now, Lyn, Eliwood, and Hector must amass an army strong enough to fight back the forces that would destroy their homeland. Master battle tactics to douse the embers before they burn the world to ash.</desc>
-		<rating>0.8</rating>
-		<releasedate>20031123T000000</releasedate>
-		<developer>Intelligent Systems</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Strategy-Role playing games</genre>
-		<players>1-4</players>
-		<hash>2A524221</hash>
-		<image>./media/images/Fire Emblem.png</image>
-		<video>./media/videos/Fire Emblem.mp4</video>
-		<genreid>1280</genreid>
-	</game>
-	<game id="4064" source="ScreenScraper.fr">
-		<path>./Megaman Zero 2.gba</path>
-		<name>Rockman Zero 2</name>
-		<desc>A year after the events in Mega Man Zero, the hero finds himself in another battle to save the world. Caught in-between the reploids and humans, Neo Arcadia's new commander has tricked Zero into helping her, although her reasons are uncertain.
+    <rating>0.6</rating>
+    <releasedate>20021023T000000</releasedate>
+    <developer>Torus Games</developer>
+    <publisher>Activision</publisher>
+    <genre>Shooter / 1st person-Action-Shooter</genre>
+    <players>1-4</players>
+    <hash>60D0C429</hash>
+    <image>./media/images/Doom II.png</image>
+    <video>./media/videos/Doom II.mp4</video>
+    <genreid>259</genreid>
+  </game>
+  <game id="3765" source="ScreenScraper.fr">
+    <path>./Final Fantasy VI Advance.gba</path>
+    <name>Final Fantasy VI Advance</name>
+    <desc>An Ancient War Rekindled 
+ 
+A thousand years after the War of the Magi, the Gestahlian Empire has succeeded in reviving the lost power of magic through its clandestine Magitek research program. Now, as the Empire threatens to enslave the world with its newfound might, it is up to a band of rebels known as the Returners to find a way to strike back before the flames of war consume the world once more.</desc>
+    <rating>0.9</rating>
+    <releasedate>20070205T000000</releasedate>
+    <developer>TOSE</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Role playing games-Fight</genre>
+    <players>1</players>
+    <hash>D708F5AB</hash>
+    <image>./media/images/Final Fantasy VI Advance.png</image>
+    <video>./media/videos/Final Fantasy VI Advance.mp4</video>
+    <genreid>262</genreid>
+  </game>
+  <game id="0" source="ScreenScraper.fr">
+    <path>./Final Fantasy VI.gba</path>
+    <name>Final Fantasy VI</name>
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game id="3757" source="ScreenScraper.fr">
+    <path>./Fire Emblem.GBA</path>
+    <name>Fire Emblem</name>
+    <desc>After centuries of peace, smoldering rivalries threaten to set the world aflame in a blaze of battle! The drums of war beat, noble houses plot treason, allies become enemies, and as Lycia stands poised for war, a shadowy figure manipulates empires for his own ends. Now, Lyn, Eliwood, and Hector must amass an army strong enough to fight back the forces that would destroy their homeland. Master battle tactics to douse the embers before they burn the world to ash.</desc>
+    <rating>0.8</rating>
+    <releasedate>20031123T000000</releasedate>
+    <developer>Intelligent Systems</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Tactical RPG-Strategy-Role playing games</genre>
+    <players>1-4</players>
+    <hash>2A524221</hash>
+    <image>./media/images/Fire Emblem.png</image>
+    <video>./media/videos/Fire Emblem.mp4</video>
+    <genreid>1280</genreid>
+  </game>
+  <game id="0" source="ScreenScraper.fr">
+    <path>./Mario Kart.gba</path>
+    <name>Mario Kart</name>
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game id="4064" source="ScreenScraper.fr">
+    <path>./Megaman Zero 2.gba</path>
+    <name>Mega Man Zero 2</name>
+    <desc>A year after the events in Mega Man Zero, the hero finds himself in another battle to save the world. Caught in-between the reploids and humans, Neo Arcadia's new commander has tricked Zero into helping her, although her reasons are uncertain.
 
 To fix the problem, Zero must battle through level after level, using the new Chain Rod weapon to grapple onto ledges to gain an advantage in collecting out of reach items or attacking enemies from above. Cyber Elfs can again be collected to gain some helpful powerups.
 
 New to the series is a two player challenge mode, where the first to complete the level wins.</desc>
-		<rating>0.85</rating>
-		<releasedate>20031014T000000</releasedate>
-		<developer>Inti Creates</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform-Action</genre>
-		<players>1-2</players>
-		<hash>9DCDD02D</hash>
-		<image>./media/images/Megaman Zero 2.png</image>
-		<video>./media/videos/Megaman Zero 2.mp4</video>
-		<genreid>257</genreid>
-	</game>
-	<game id="3987" source="ScreenScraper.fr">
-		<path>./Megaman Zero 3.gba</path>
-		<name>Rockman Zero 3</name>
-		<desc>In the third installment of Capcom's Mega Man Zero series, you, unsurprisingly, play as Zero. Continuing where the Mega Man Zero 2 left off, you have to find and neutralize the recently escaped "Dark Elf," before it's able to brainwash the Resistance for the purpose of conquering Neo Arcadia. 
+    <rating>0.85</rating>
+    <releasedate>20031014T000000</releasedate>
+    <developer>Inti Creates</developer>
+    <publisher>Capcom</publisher>
+    <genre>Platform-Action</genre>
+    <players>1-2</players>
+    <hash>9DCDD02D</hash>
+    <image>./media/images/Megaman Zero 2.png</image>
+    <video>./media/videos/Megaman Zero 2.mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="3987" source="ScreenScraper.fr">
+    <path>./Megaman Zero 3.gba</path>
+    <name>Mega Man Zero 3</name>
+    <desc>In the third installment of Capcom's Mega Man Zero series, you, unsurprisingly, play as Zero. Continuing where the Mega Man Zero 2 left off, you have to find and neutralize the recently escaped "Dark Elf," before it's able to brainwash the Resistance for the purpose of conquering Neo Arcadia. 
 
 In addition to the old Cyber Elf system, this game also contains a new "chip" system, where Zero can gain new abilities by finding chips and installing chip in himself. But they didn't decide to abandon the Cyber Elves in this game by giving them nothing new. No, in order to extend the life of the Cyber Elves, they added the new concept of "Cyber Space" to levels, where you enter a door to Cyber Space and are allowed to use each Cyber Elf as much as you please without them dying. However, there aren't too many "Secret Disks" (items that can contain anything from profiles of characters to Cyber Elves to new chips) in Cyber Space, so it's better to spend more time in the normal level.</desc>
-		<rating>0.8</rating>
-		<releasedate>20041005T000000</releasedate>
-		<developer>Inti Creates</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform-Action</genre>
-		<players>1</players>
-		<hash>2784F3F2</hash>
-		<image>./media/images/Megaman Zero 3.png</image>
-		<video>./media/videos/Megaman Zero 3.mp4</video>
-		<genreid>257</genreid>
-	</game>
-	<game id="3886" source="ScreenScraper.fr">
-		<path>./Megaman Zero 4.gba</path>
-		<name>Rockman Zero 4</name>
-		<desc>The Zero Knuckle... the baddest new tool in Zero's arsenal lets you steal enemies' weapons and use them in battle. Employ this along with countless other cool moves to fight the Neo Arcadian army, defeat the evil Dr. Weil and help the caravan of humans reach the peace and security of Area Zero.</desc>
-		<rating>0.8</rating>
-		<releasedate>20051004T000000</releasedate>
-		<developer>Inti Creates</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform-Action-Simulation</genre>
-		<players>1</players>
-		<hash>E7782E1C</hash>
-		<image>./media/images/Megaman Zero 4.png</image>
-		<video>./media/videos/Megaman Zero 4.mp4</video>
-		<genreid>257</genreid>
-	</game>
-	<game id="3856" source="ScreenScraper.fr">
-		<path>./Megaman Zero 1.gba</path>
-		<name>Rockman Zero</name>
-		<desc>It is the year 22XX...
+    <rating>0.8</rating>
+    <releasedate>20041005T000000</releasedate>
+    <developer>Inti Creates</developer>
+    <publisher>Capcom</publisher>
+    <genre>Platform-Action</genre>
+    <players>1</players>
+    <hash>2784F3F2</hash>
+    <image>./media/images/Megaman Zero 3.png</image>
+    <video>./media/videos/Megaman Zero 3.mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="3886" source="ScreenScraper.fr">
+    <path>./Megaman Zero 4.gba</path>
+    <name>Mega Man Zero 4</name>
+    <desc>The Zero Knuckle... the baddest new tool in Zero's arsenal lets you steal enemies' weapons and use them in battle. Employ this along with countless other cool moves to fight the Neo Arcadian army, defeat the evil Dr. Weil and help the caravan of humans reach the peace and security of Area Zero.</desc>
+    <rating>0.8</rating>
+    <releasedate>20051004T000000</releasedate>
+    <developer>Inti Creates</developer>
+    <publisher>Capcom</publisher>
+    <genre>Platform-Action-Simulation</genre>
+    <players>1</players>
+    <hash>E7782E1C</hash>
+    <image>./media/images/Megaman Zero 4.png</image>
+    <video>./media/videos/Megaman Zero 4.mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="3856" source="ScreenScraper.fr">
+    <path>./Megaman Zero 1.gba</path>
+    <name>Mega Man Zero</name>
+    <desc>It is the year 22XX...
 
 The legendary heroes of the Reploids, X and Zero, defeated the evil Sigma long ago, and a new army was created to prevent outbreaks of the Maverick Virus. But as time went on, the army became oppressive, and began to deal out a paranoid brand of justice. It is said that their leader, once a great warrior, has become cold and calculating, eliminating any Reploid that dares oppose him.
 
 A hero is needed in these dark times, and that is exactly what Ciel and her rebel group have found in an old ruin...a hero from the past, reborn in the future.
 
 Zero has come into a time he does not know, to save it from a figure of the past...the fate of freedom rests on his shoulders.</desc>
-		<rating>0.75</rating>
-		<releasedate>20021102T000000</releasedate>
-		<developer>Inti Creates</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform-Action</genre>
-		<players>1</players>
-		<hash>4F6177ED</hash>
-		<image>./media/images/Megaman Zero 1.png</image>
-		<video>./media/videos/Megaman Zero 1.mp4</video>
-		<genreid>257</genreid>
-	</game>
-	<game id="3831" source="ScreenScraper.fr">
-		<path>./Donkey Kong Country (USA).gba</path>
-		<name>Super Donkey Kong</name>
-		<desc>King K. Rool has stolen Donkey Kong's banana stash, and Donkey Kong needs your help to get them back. In search of K. Rool, the Kremling horde impedes your progress. Kremlings, crocodile-like creatures, include Kritters (they succumb to a simple jump on the head), Krushas (they are virtually indestructible), and others. There are also other enemies that block your path, such as beavers, snakes, vultures. Leading them are dastardly bosses, including Very Gnawty, Necky, Bumble B, and Dumb Drum, and they all bar the way with their own special blend of villainy.
-
-Donkey Kong is joined by Diddy Kong: these two primates differ significantly. For example, Donkey Kong is generally stronger; he can destroy most enemies with a single jump and can lift barrels straight over his head to throw them farther. On the other hand, Diddy is faster and not as strong as Donkey; he can run really fast and do cartwheels. Diddy carries barrels in front of him, creating a shield against frontal attacks.
-
-The game is split into different worlds, which are split into different levels. Each level contains bonus areas, where one can collect bananas, medallions, and lives. At the end of each world is a boss, which is usually a larger version of a minor enemy.</desc>
-		<rating>0.65</rating>
-		<releasedate>20030609T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform-Action</genre>
-		<players>1-2</players>
-		<hash>12F7A968</hash>
-		<image>./media/images/Donkey Kong Country (USA).png</image>
-		<video>./media/videos/Donkey Kong Country (USA).mp4</video>
-		<genreid>257</genreid>
-	</game>
-	<game id="84036" source="ScreenScraper.fr">
-		<path>./Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA).gba</path>
-		<name>The Legend of Zelda : A Link to the Past &amp; Four Swords</name>
-		<desc>The Legend of Zelda: A Link to the Past &amp; Four Swords for Game Boy Advance is a remake of A Link to the Past coupled with an entirely new game, Four Swords. This two-in-one game was released shortly before The Wind Waker. 
+    <rating>0.75</rating>
+    <releasedate>20021102T000000</releasedate>
+    <developer>Inti Creates</developer>
+    <publisher>Capcom</publisher>
+    <genre>Platform-Action</genre>
+    <players>1</players>
+    <hash>4F6177ED</hash>
+    <image>./media/images/Megaman Zero 1.png</image>
+    <video>./media/videos/Megaman Zero 1.mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="84036" source="ScreenScraper.fr">
+    <path>./Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA).gba</path>
+    <name>The Legend of Zelda : A Link to the Past &amp; Four Swords</name>
+    <desc>The Legend of Zelda: A Link to the Past &amp; Four Swords for Game Boy Advance is a remake of A Link to the Past coupled with an entirely new game, Four Swords. This two-in-one game was released shortly before The Wind Waker. 
  
 While A Link to the Past is largely a faithful port of the original, it does include an entirely new dungeon and a new quest as rewards for the player playing through the multiplayer-only Four Swords. Aside from these additions, it includes a number of smaller gameplay and dialogue changes, the latter of which are designed to correct a number of minor translation mistakes and inconsistencies with the original Japanese release and to unify the common terms used with the later games.</desc>
-		<rating>0.9</rating>
-		<releasedate>20021202T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Adventure</genre>
-		<players>1-4</players>
-		<hash>8E91CD13</hash>
-		<image>./media/images/Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA).png</image>
-		<video>./media/videos/Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA).mp4</video>
-		<genreid>512</genreid>
-	</game>
-	<game id="3751" source="ScreenScraper.fr">
-		<path>./Legend of Zelda, The - The Minish Cap.gba</path>
-		<name>The Legend of Zelda: The Minish Cap</name>
-		<desc>Link returns in an all-new Game Boy Advance adventure. When the sorcerer Vaati turns Princess Zelda to stone, the king of Hyrule sends Link on a quest that takes him to all-new locations. Using the power of a mystical hat called the Minish Cap, Link must travel through a fantastic world rife with new items, puzzles, and bosses. As Link, you can shrink down to either battle large enemies from within or find secret items. You can also unlock items and solve puzzles by fusing together magic relics.</desc>
-		<rating>0.9</rating>
-		<releasedate>20050110T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games-Adventure-Action</genre>
-		<players>1</players>
-		<hash>ABCEBBB1</hash>
-		<image>./media/images/Legend of Zelda, The - The Minish Cap.png</image>
-		<video>./media/videos/Legend of Zelda, The - The Minish Cap.mp4</video>
-		<genreid>768</genreid>
-	</game>
-	<game>
-		<path>./Mario Kart.gba</path>
-		<name>Mario Kart</name>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-		<playcount>1</playcount>
-		<lastplayed>20210525T222241</lastplayed>
-	</game>
-	<game>
-		<path>./Final Fantasy VI Advance.gba</path>
-		<name>Final Fantasy VI Advance</name>
-		<desc>An Ancient War Rekindled 
- 
-A thousand years after the War of the Magi, the Gestahlian Empire has succeeded in reviving the lost power of magic through its clandestine Magitek research program. Now, as the Empire threatens to enslave the world with its newfound might, it is up to a band of rebels known as the Returners to find a way to strike back before the flames of war consume the world once more.</desc>
-		<image>./media/images/Final Fantasy VI Advance.png</image>
-		<video>./media/videos/Final Fantasy VI Advance.mp4</video>
-		<rating>0.9</rating>
-		<releasedate>20070205T000000</releasedate>
-		<developer>Square Enix</developer>
-		<publisher>Square Enix</publisher>
-		<genre>Role playing games-Fight</genre>
-		<playcount>1</playcount>
-<<<<<<< HEAD
-		<lastplayed>20210618T134032</lastplayed>
-=======
-		<lastplayed>20210702T101326</lastplayed>
->>>>>>> 451a2e1ada1df8198eea87f7ba02c615d244702a
-	</game>
+    <rating>0.9</rating>
+    <releasedate>20021202T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Role playing games-Action-Adventure</genre>
+    <players>1-4</players>
+    <hash>8E91CD13</hash>
+    <image>./media/images/Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA).png</image>
+    <video>./media/videos/Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="3751" source="ScreenScraper.fr">
+    <path>./Legend of Zelda, The - The Minish Cap.gba</path>
+    <name>The Legend of Zelda : The Minish Cap</name>
+    <desc>Link returns in an all-new Game Boy Advance adventure. When the sorcerer Vaati turns Princess Zelda to stone, the king of Hyrule sends Link on a quest that takes him to all-new locations. Using the power of a mystical hat called the Minish Cap, Link must travel through a fantastic world rife with new items, puzzles, and bosses. As Link, you can shrink down to either battle large enemies from within or find secret items. You can also unlock items and solve puzzles by fusing together magic relics.</desc>
+    <rating>0.9</rating>
+    <releasedate>20050110T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Role playing games-Adventure-Action</genre>
+    <players>1</players>
+    <hash>ABCEBBB1</hash>
+    <image>./media/images/Legend of Zelda, The - The Minish Cap.png</image>
+    <video>./media/videos/Legend of Zelda, The - The Minish Cap.mp4</video>
+    <genreid>768</genreid>
+  </game>
 </gameList>

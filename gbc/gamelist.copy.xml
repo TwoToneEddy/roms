@@ -100,34 +100,34 @@ Tetris DX features 4 one-player modes and two-player mode using the Universal Ga
     <video>./media/videos/Legend_of_Zelda_The_-_Links_Awakening_DX.mp4</video>
     <genreid>768</genreid>
   </game>
-  <game id="82379" source="ScreenScraper.fr">
-    <path>./Legend_of_Zelda_The-Oracle_of_Seasons.gbc</path>
-    <name>Zelda no Densetsu - Fushigi no Kinomi - Daichi no Shou</name>
-    <desc>The land of Holodrum is slowly withering. Onox, the General of Darkness, has imprisoned the Oracle of Seasons and is draining the very life out of the land. With the seasons in tumult and the forces of evil running rampant, the world looks for a hero... and finds Link. His quest won't be easy - he'll have to master the seasons themselves if he's to turn back the evil tide.</desc>
-    <rating>0.9</rating>
-    <releasedate>20010513T000000</releasedate>
-    <developer>Flagship</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Role playing games-Action-Action / Adventure</genre>
-    <players>1</players>
-    <hash>D7E9F5D7</hash>
-    <image>./media/images/Legend_of_Zelda_The-Oracle_of_Seasons.png</image>
-    <video>./media/videos/Legend_of_Zelda_The-Oracle_of_Seasons.mp4</video>
-    <genreid>768</genreid>
-  </game>
   <game id="82377" source="ScreenScraper.fr">
     <path>./Legend_of_Zelda_The-Oracle_of_Ages.gbc</path>
-    <name>Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou</name>
+    <name>The Legend of Zelda : Oracle of Ages</name>
     <desc>Using the legendary power of the Triforce, Link travels to a distant land known as Labrynna where Veran, the Sorceress of Shadows, has developed a scheme to alter Labrynna's past. Through trickery and deceit, Veran harnesses the power of Nayru, the Oracle of Ages, and travels 400 years into the past. Before the Sorceress of Shadows can complete her dark mission, Link must use the Harp of Ages to save the day.</desc>
     <rating>0.9</rating>
-    <releasedate>20010513T000000</releasedate>
-    <developer>Flagship</developer>
+    <releasedate>20010514T000000</releasedate>
+    <developer>Flagship Studios</developer>
     <publisher>Nintendo</publisher>
     <genre>Role playing games-Action-Action / Adventure</genre>
     <players>1</players>
     <hash>3800A387</hash>
     <image>./media/images/Legend_of_Zelda_The-Oracle_of_Ages.png</image>
     <video>./media/videos/Legend_of_Zelda_The-Oracle_of_Ages.mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="82379" source="ScreenScraper.fr">
+    <path>./Legend_of_Zelda_The-Oracle_of_Seasons.gbc</path>
+    <name>The Legend of Zelda : Oracle of Seasons</name>
+    <desc>The land of Holodrum is slowly withering. Onox, the General of Darkness, has imprisoned the Oracle of Seasons and is draining the very life out of the land. With the seasons in tumult and the forces of evil running rampant, the world looks for a hero... and finds Link. His quest won't be easy - he'll have to master the seasons themselves if he's to turn back the evil tide.</desc>
+    <rating>0.9</rating>
+    <releasedate>20010514T000000</releasedate>
+    <developer>Flagship Studios</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Role playing games-Action-Action / Adventure</genre>
+    <players>1</players>
+    <hash>D7E9F5D7</hash>
+    <image>./media/images/Legend_of_Zelda_The-Oracle_of_Seasons.png</image>
+    <video>./media/videos/Legend_of_Zelda_The-Oracle_of_Seasons.mp4</video>
     <genreid>768</genreid>
   </game>
   <game id="166701" source="ScreenScraper.fr">
