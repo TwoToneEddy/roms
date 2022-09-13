@@ -8,15 +8,15 @@
   </provider>
   <game id="1586" source="ScreenScraper.fr">
     <path>./After_Burner.nes</path>
-    <name>After Burner II</name>
+    <name>After Burner</name>
     <desc>Afterburner is a conversion of the arcade game of the same name. The goal is simple: use your F-14 Tomcat and shoot as many enemies as you can. This aircraft has two weapons: lock-on missiles and Vulcan cannons (basically machine guns). In some versions there is an option to let the cannons shoot automatically all the time.
 
 The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.</desc>
     <rating>0.65</rating>
     <releasedate>19890330T000000</releasedate>
     <developer>Tengen</developer>
-    <publisher>SEGA</publisher>
-    <genre>Shooter-Action</genre>
+    <publisher>Tengen</publisher>
+    <genre>Shooter</genre>
     <players>1</players>
     <hash>A4928096</hash>
     <image>./media/images/After_Burner.png</image>
@@ -35,7 +35,7 @@ In addition to the single Player game, Bomberman II introduces a Versus Mode for
     <releasedate>19910628T000000</releasedate>
     <developer>Hudson</developer>
     <publisher>Hudson</publisher>
-    <genre>Action / Labyrinth-Action</genre>
+    <genre>Action-Action / Labyrinth</genre>
     <players>1-3</players>
     <hash>DE808339</hash>
     <image>./media/images/Bomberman_II.png</image>
@@ -52,12 +52,12 @@ The first of the Bomberman series. Bomberman is a single player game with a top 
     <releasedate>19890102T000000</releasedate>
     <developer>Hudson</developer>
     <publisher>Hudson</publisher>
-    <genre>Action / Labyrinth-Action</genre>
+    <genre>Puzzle-Game</genre>
     <players>1</players>
     <hash>7256EF49</hash>
     <image>./media/images/Bomberman.png</image>
     <video>./media/videos/Bomberman.mp4</video>
-    <genreid>258</genreid>
+    <genreid>2816</genreid>
   </game>
   <game id="1745" source="ScreenScraper.fr">
     <path>./Captain_Silver.nes</path>
@@ -73,7 +73,7 @@ There is a boss in each scene, which he must defeat in order to proceed to the n
     <releasedate>19881216T000000</releasedate>
     <developer>Tokuma Shoten</developer>
     <publisher>Data East</publisher>
-    <genre>Platform-Action</genre>
+    <genre>Platform</genre>
     <players>1</players>
     <hash>1019DAE5</hash>
     <image>./media/images/Captain_Silver.png</image>
@@ -90,7 +90,7 @@ Unlike most of the other Castlevania games, Simon's Quest does not feature the t
     <releasedate>19881201T000000</releasedate>
     <developer>Nintendo</developer>
     <publisher>Konami</publisher>
-    <genre>Adventure-Action</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <hash>A9C2C503</hash>
     <image>./media/images/Castlevania_2.png</image>
@@ -109,7 +109,7 @@ At the end of certain levels, the player may encounter a companion which can be 
     <releasedate>19900901T000000</releasedate>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
-    <genre>Action / Adventure</genre>
+    <genre>Action-Action / Adventure</genre>
     <players>1</players>
     <hash>A06AECBC</hash>
     <image>./media/images/Castlevania_3-Draculas_Curse.png</image>
@@ -126,7 +126,7 @@ Castlevania is a side-scrolling platform action game. The player taking the role
     <releasedate>19870501T000000</releasedate>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
-    <genre>Action / Adventure</genre>
+    <genre>Action-Action / Adventure</genre>
     <players>1</players>
     <hash>0F2ABC14</hash>
     <image>./media/images/Castlevania.png</image>
@@ -143,28 +143,22 @@ As either, Bill (player 1) or Lance (player 2), the player must get to the end o
     <releasedate>19880202T000000</releasedate>
     <developer>Konami</developer>
     <publisher>Konami</publisher>
-    <genre>Shooter-Shooter / Run and Gun-Shoot'em Up-Shoot'em up / Horizontal-Action</genre>
+    <genre>Shooter-Shooter / Run and Gun</genre>
     <players>1-2</players>
     <hash>1308088A</hash>
     <image>./media/images/Contra.png</image>
     <video>./media/videos/Contra.mp4</video>
-    <genreid>258</genreid>
+    <genreid>256</genreid>
   </game>
   <game id="1306" source="ScreenScraper.fr">
     <path>./Donkey_Kong.nes</path>
     <name>Donkey Kong</name>
-    <desc>Released in the arcades in 1981, Donkey Kong was not only Nintendo's first real smash hit for the company, but marked the introduction for two of their most popular mascots: Mario (originally "Jumpman") and Donkey Kong.
-
-Donkey Kong is a platform-action game that has Mario scale four different industrial themed levels (construction zone, cement factory, an elevator-themed level, and removing rivets from girders) in an attempt to save the damsel in distress, Pauline, from the big ape before the timer runs out.  Once the rivets are removed from the final level, Donkey Kong falls, and the two lovers are reunited.  From there, the levels start over at a higher difficulty.
-
-Along the way, Mario must dodge a constant stream of barrels, "living" fireballs, and spring-weights.  Although not as powerful as in other future games, Mario can find a hammer which allows him to destroy the barrels and fireballs for a limited amount of time.  Additionally, Mario can also find Pauline's hat, purse and umbrella for additional bonus points.
-
-Donkey Kong is also notable for being one of the first complete narratives in video game form, told through simplistic cut scenes that advance the story.  It should also be noted that in versions of the game for early 1980's consoles, Donkey Kong only used 2-3 of the original levels, with the cement factory usually omitted.</desc>
+    <desc>Can you save Mario's girlfriend from Donkey Kong's clutches? You must help Mario free Pauline before it's too late. You'll have to dodge booby-trapped barrels, fireballs and anything else Donkey Kong throws at you to try and stop you. So if you're looking for action, stop the antics!</desc>
     <rating>0.7</rating>
-    <releasedate>19830715T000000</releasedate>
+    <releasedate>19860602T000000</releasedate>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
-    <genre>Platform-Action</genre>
+    <genre>Platform</genre>
     <players>1-2</players>
     <hash>E40B593B</hash>
     <image>./media/images/Donkey_Kong.png</image>

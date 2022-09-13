@@ -113,6 +113,21 @@ a random location after being killed.</desc>
     <video>./media/videos/Doom.mp4</video>
     <genreid>259</genreid>
   </game>
+  <game id="189696" source="ScreenScraper.fr">
+    <path>./Final Fantasy IV (tr).zip</path>
+    <name>Final Fantasy 4 (Easy Type)</name>
+    <desc>In addition to its original release, Final Fantasy IV has been remade into many different versions. The first of these was Final Fantasy IV Easy Type, a modified version of the game which was released for the Super Famicom in Japan. The Easytype was designed to be even easier than its North American counterpart. In this version, the attack powers of weapons have been enhanced, while the protective abilities of certain accessories and armor are amplified.</desc>
+    <rating>0.8</rating>
+    <releasedate>19911001T000000</releasedate>
+    <developer>Square</developer>
+    <publisher>Square</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <hash>7FE934A3</hash>
+    <image>./media/images/Final Fantasy IV (tr).png</image>
+    <video>./media/videos/Final Fantasy IV (tr).mp4</video>
+    <genreid>768</genreid>
+  </game>
   <game id="2208" source="ScreenScraper.fr">
     <path>./F-Zero.zip</path>
     <name>F-Zero</name>
@@ -135,6 +150,25 @@ Completing a lap also gives points, which give the player a life when enough are
     <image>./media/images/F-Zero.png</image>
     <video>./media/videos/F-Zero.mp4</video>
     <genreid>1537</genreid>
+  </game>
+  <game id="2203" source="ScreenScraper.fr">
+    <path>./Live-a-Live.smc</path>
+    <name>Live A Live</name>
+    <desc>In "Live a Live", you control seven main characters and play through seven different stories set in seven different time periods: prehistoric age, medieval Europe, feudal Japan, a futuristic world with robots and weird machines, etc. Those stories appear to have no common points, yet after completing all of them, you'll see they are in fact connected - the worlds of all those characters are threatened by the same ultimate evil force.
+
+The combat features many innovations compared to traditional console RPGs: your position on the battle field is important, and certain techniques can be used only from certain positions, and enemy attacks also affect only specific parts of the field. Out of the seven chapters, some have more battle-oriented gameplay, while others are more devoted to puzzle-solving and information-gathering.
+
+The game is one of the least known Squaresoft products, and was never released outside of Japan.</desc>
+    <rating>0.7</rating>
+    <releasedate>19940902T000000</releasedate>
+    <developer>Square Enix</developer>
+    <publisher>Square Enix</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <hash>837772A3</hash>
+    <image>./media/images/Live-a-Live.png</image>
+    <video>./media/videos/Live-a-Live.mp4</video>
+    <genreid>768</genreid>
   </game>
   <game id="136591" source="ScreenScraper.fr">
     <path>./Star_Fox_2.sfc</path>
@@ -226,7 +260,7 @@ There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Spec
 
 Over 90 levels are on offer, with plenty of Bowser's evil koopas and new characters around each level. Apart from saving Peach, you can also save some of Yoshi's friends, other dinosaurs that each have a special attack. Each level also contains a set of extra items to collect, including dinosaur coins, and break the tape at the end of each level to collect stars, that allow you to open up the bonus games.</desc>
     <rating>0.85</rating>
-    <releasedate>19920411T000000</releasedate>
+    <releasedate>19910813T000000</releasedate>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
     <genre>Platform</genre>
@@ -239,7 +273,11 @@ Over 90 levels are on offer, with plenty of Bowser's evil koopas and new charact
   <game id="65133" source="ScreenScraper.fr">
     <path>./Super_Ninja_Kun.smc</path>
     <name>Super Ninja-kun</name>
-    <desc>Super Ninja-Kun is a 1994 Japan-only side-scrolling action game developed and published by Jaleco for the SNES. It is a graphically updated version of UPL's Ninja-kun Arcade games from the 1980s, which Jaleco had previously adapted for consoles (as well as creating their own spin-offs, named Ninja Jajamaru-kun).nnnnAs well as featuring 16-bit graphics the game now also features a story mode, bosses, an upgradable health gauge (the Arcade game only allowed Ninja-kun to take a single hit) and multiple weapon types. Ninja-kun can also create a powerful one-off magic blast by collecting the souls of dead enemies as they float off the screen. The game also includes a two-player cooperative mode.nnnnSuper Ninja-kun is not to be confused with Super Ninja Boy, another ninja-themed action game for the SNES.</desc>
+    <desc>Super Ninja-Kun is a 1994 Japan-only side-scrolling action game developed and published by Jaleco for the SNES. It is a graphically updated version of UPL's Ninja-kun Arcade games from the 1980s, which Jaleco had previously adapted for consoles (as well as creating their own spin-offs, named Ninja Jajamaru-kun).
+
+As well as featuring 16-bit graphics the game now also features a story mode, bosses, an upgradable health gauge (the Arcade game only allowed Ninja-kun to take a single hit) and multiple weapon types. Ninja-kun can also create a powerful one-off magic blast by collecting the souls of dead enemies as they float off the screen. The game also includes a two-player cooperative mode.
+
+Super Ninja-kun is not to be confused with Super Ninja Boy, another ninja-themed action game for the SNES.</desc>
     <rating>0.7</rating>
     <releasedate>19940805T000000</releasedate>
     <developer>Jaleco</developer>
@@ -278,7 +316,7 @@ The game is closely connected to and often regarded as a part of a trilogy creat
     <releasedate>19920413T000000</releasedate>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
-    <genre>Role playing games-Action / Adventure-Adventure</genre>
+    <genre>Action-Role playing games-Action / Adventure-Adventure</genre>
     <players>1</players>
     <hash>777AAC2F</hash>
     <image>./media/images/Legend_of_Zelda_The_-_A_Link_to_the_Past.png</image>

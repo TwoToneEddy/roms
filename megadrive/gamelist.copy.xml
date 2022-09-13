@@ -29,12 +29,16 @@ The game can be played in singleplayer mode, or in same-screen multiplayer co-op
     <path>./Angry_Birds.bin</path>
     <name>Angry Birds</name>
     <desc>Angry Birds is a port of Android / iOS / Web Angry Birds for Sega Mega Drive. The initial initial China wrap for a large fan and the original ROM is available for free. As a result, the pirates did nothing for the cartridge and they did not sell it to the public. There is an equal version of the Famicom (mainly in Famiclones).</desc>
+    <rating>0.6</rating>
     <releasedate>20120622T000000</releasedate>
     <developer>zhengyaxin_8bit</developer>
+    <publisher>zhengyaxin_8bit</publisher>
+    <genre>Puzzle-Game</genre>
     <players>1</players>
     <hash>E2EB0F13</hash>
     <image>./media/images/Angry_Birds.png</image>
     <video>./media/videos/Angry_Birds.mp4</video>
+    <genreid>2816</genreid>
   </game>
   <game id="45" source="ScreenScraper.fr">
     <path>./Ghouls_n_Ghosts.bin</path>

@@ -7,4 +7,5 @@ themes
 .Trash-1000/
 launchimages/
 ports/
-
+*.log
+*.ini

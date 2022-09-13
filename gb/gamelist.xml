@@ -23,7 +23,7 @@ The intensity is so real that the explosions will nearly knock you off your feet
     <hash>F1C81EB0</hash>
     <image>./media/images/Contra-The_Alien_Wars.png</image>
     <video>./media/videos/Contra-The_Alien_Wars.mp4</video>
-    <genreid>258</genreid>
+    <genreid>260</genreid>
   </game>
   <game id="3324" source="ScreenScraper.fr">
     <path>./Contra_Spirits.gb</path>
@@ -42,7 +42,7 @@ The intensity is so real that the explosions will nearly knock you off your feet
     <hash>7FC22DF5</hash>
     <image>./media/images/Contra_Spirits.png</image>
     <video>./media/videos/Contra-The_Alien_Wars.mp4</video>
-    <genreid>258</genreid>
+    <genreid>260</genreid>
   </game>
   <game id="3043" source="ScreenScraper.fr">
     <path>./Donkey_Kong_Land_2.gb</path>
@@ -115,12 +115,12 @@ Donkey Kong returns to Game Boy! This famous ape has kidnapped Pauline and climb
     <releasedate>19940621T000000</releasedate>
     <developer>Nintendo</developer>
     <publisher>Nintendo</publisher>
-    <genre>Action</genre>
+    <genre>Platform-Platform / Run Jump-Action</genre>
     <players>1</players>
     <hash>F777A5D8</hash>
     <image>./media/images/Donkey_Kong.png</image>
     <video>./media/videos/Donkey_Kong.mp4</video>
-    <genreid>256</genreid>
+    <genreid>257</genreid>
   </game>
   <game id="3298" source="ScreenScraper.fr">
     <path>./Double_Dragon_3.gb</path>
@@ -131,7 +131,7 @@ Defeat ruthless Japanese Ninja with all-new martial arts maneuvers like the Spin
  
 But beware! In Egypt, supernatural guardians challenge the bravest souls in the martial arts arcade adventure of a lifetime!</desc>
     <rating>0.2</rating>
-    <releasedate>19920101T000000</releasedate>
+    <releasedate>19920801T000000</releasedate>
     <developer>Tecmo</developer>
     <publisher>Acclaim</publisher>
     <genre>Beat'em Up</genre>
@@ -143,7 +143,7 @@ But beware! In Egypt, supernatural guardians challenge the bravest souls in the 
   </game>
   <game id="3123" source="ScreenScraper.fr">
     <path>./Double_Dragon_2.gb</path>
-    <name>Double Dragon II : The Revenge</name>
+    <name>Double Dragon II </name>
     <desc>The lovely Marian was rescued from the clutches of the Black Warriors gang by Billy &amp; Jimmy Lee in the first Double Dragon game, but now the gang has killed her in retaliation of their early defeat. The Dragons must now embark on a mission to avenge her death and defeat the Black Warriors for the second and final time.
 
 The original arcade version of "Double Dragon II" was essentially an improved version of the first game. In addition to offering renewed audio and visuals, as well as new traps, moves and enemy characters, "Double Dragon II" discarded the conventional punch and kick buttons in favor of a direction-oriented attacking system similar to the original Technos beat-em-up Renegade.
@@ -153,7 +153,7 @@ The NES version offered new stages, new moves and illustrated cut-scenes, as wel
 The Game Boy version of "Double Dragon II" is an English localization of a "Kunio-kun" game (the Japanese franchise which inspired "Renegade" and "River City Ransom" and has nothing to do with the arcade and NES versions. </desc>
     <rating>0.75</rating>
     <releasedate>19911202T000000</releasedate>
-    <developer>Tecmo</developer>
+    <developer>Technos Japan Corp.</developer>
     <publisher>Acclaim</publisher>
     <genre>Beat'em Up</genre>
     <players>1-2</players>
@@ -205,8 +205,8 @@ Gameplay consists of a platform game. Kirby is like no other platform character 
 
 You are in control not of any individual Lemming, but of a cross-hair, which can be moved over any of the Lemmings. Along the bottom are a selection of functions which can be assigned to a Lemming, including climbing, floating and bashing. You must click to select the appropriate function, then click on the Lemming to activate it. Each level has a different range of skills on offer, a different amount of Lemmings, and a different percentage target in order to progress.</desc>
     <rating>0.6</rating>
-    <releasedate>19930101T000000</releasedate>
-    <developer>DMA Design Limited</developer>
+    <releasedate>19940801T000000</releasedate>
+    <developer>DMA Design</developer>
     <publisher>Ocean</publisher>
     <genre>Strategy-Puzzle-Game</genre>
     <players>1</players>
